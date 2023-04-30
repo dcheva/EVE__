@@ -1,0 +1,49 @@
+audio:
+  audioEnabled: [133140619761602364, 1]
+  eveampGain: [133140619768588781, 0.0]
+  evevoiceGain: [133140619768588781, 1.0]
+  forceEnglishVoice: [133140619761602364, 1]
+  masterVolume: [133140619768588781, 1.0]
+  overrideWithOldJukebox: [133139247418192289, 0]
+  suppressTurret: [133140619768588781, 0]
+  uiGain: [133140619768588781, 1.0]
+  useCombatMusic: [133140619839109868, 0]
+  useOldJukeboxOverride: [133140619839109868, 0]
+  worldVolume: [133140619768588781, 1.0]
+device:
+  DeviceSettings: [133140619760344574, null]
+  FixedWindow: [133140619760344574, 0]
+  FixedWindowSettings: [133140619768792648, null]
+  FullScreenResolution: [133140619760344574, null]
+  FullScreenSettings:
+  - 133140619768792648
+  - {adapter: 0, height: 1080, presentInterval: 1, width: 1920}
+  UIScaleFullscreen: [133140619771353099, 1.0]
+  UIScaleWindowed: [133140619760344574, 1.0]
+  WindowMode: [133140619768792648, 0]
+  WindowedResolution: [133140619760344574, null]
+  WindowedSettings:
+  - 133140619768792648
+  - {adapter: 0, height: 1057, left: -8, presentInterval: 1, showState: 1, top: -8,
+    width: 1858}
+  antiAliasing: [133140619772356393, 8195]
+  aoQuality: [133140619772356393, 3]
+  brightness: [133140619760344574, 1.0]
+  charClothSimulation: [133140619760344574, 1]
+  charTextureQuality: [133140619760344574, 0]
+  fastCharacterCreation: [133140619760344574, 0]
+  fsrMode: [133140619772356393, 0]
+  lodQuality: [133140619760344574, 3]
+  postProcessingQuality: [133140619772356393, 0]
+  reflectionQuality: [133140619772356393, 3]
+  resourceCacheEnabled: [133071488416007838, 1]
+  shaderQuality: [133140619772894935, 3]
+  shadowQuality: [133140619772356393, 2]
+  textureQuality: [133140619760344574, 0]
+generic: {}
+ui:
+  CalculatorExpanded: [132837155377786834, 1]
+  CalculatorHistory:
+  - 132837155445089395
+  - ['280']
+  clientFontSize: [133140619772894935, 2]

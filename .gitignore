@@ -1,0 +1,10 @@
+cache
+./cache/*
+QtWebEngine
+./QtWebEngine/*
+Launcher
+./Launcher/*
+QtWebEngine
+./QtWebEngine/*
+Browser
+./Browser/*
