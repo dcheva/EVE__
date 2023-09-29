@@ -1,0 +1,1830 @@
+2023-09-28 02:43:03.571    app     info:    [i18next] Changed language    en
+2023-09-28 02:43:03.648    app     info:    Startup arguments    []
+2023-09-28 02:43:03.652    app     info:    [self-update] Checking for a launcher update...
+2023-09-28 02:43:03.773    app     info:    [device-id] Device id found in state
+2023-09-28 02:43:03.773    app     info:    [AuthenticationMiddleware] Successfully restored 0 / 0 users
+2023-09-28 02:43:03.776    app     info:    [analytics] Application name:    EVE Online
+2023-09-28 02:43:03.777    app     info:    [analytics] Application version:    0.3.4
+2023-09-28 02:43:03.777    app     info:    [analytics] Domain    undefined
+2023-09-28 02:43:03.778    app     info:    [analytics] Working directory    C:\Users\REDACTED\AppData\Local\eve-online\app-0.3.4
+2023-09-28 02:43:03.779    app     info:    [analytics] Username contains UTF8?    false
+2023-09-28 02:43:04.567    app     info:    [elg-events] Sending event    eve_launcher.electron.application.PdmLoaded
+2023-09-28 02:43:04.568    app     info:    [analytics] Operating system    {
+  type: 'Windows',
+  name: 'Windows 10 Education',
+  version: '10.0 (19045)'
+}
+2023-09-28 02:43:04.569    app     info:    [analytics] Encryption available:    true
+2023-09-28 02:43:04.570    app     info:    [analytics] Machine UUID    4E9F516C-5B97-47C6-8C67-E93D943CB7C8
+2023-09-28 02:43:04.570    app     info:    [analytics] PDM Version    2.1.4
+2023-09-28 02:43:04.570    app     info:    [analytics] Release channel    release
+2023-09-28 02:43:04.586    app     info:    [elg-events] Sending event    eve_launcher.electron.application.LauncherStarted
+2023-09-28 02:43:04.590    app     info:    [elg-events] Sending event    eve_launcher.electron.application.CoreDataLoaded
+2023-09-28 02:43:04.610    app     info:    [shared-cache-mover] Looking for profiles in 'c_ccp_eve_online_tq_tranquility'...
+2023-09-28 02:43:04.611    app     info:    [shared-cache-mover] Looking for profiles in 'c_ccp_eve_online_sisi_singularity'...
+2023-09-28 02:43:04.611    app     info:    [shared-cache-mover] Looking for profiles in 'c_ccp_eve_online_thunderdome_thunderdome'...
+2023-09-28 02:43:04.613    app     info:    [feature-flags] Initializing client: 4a436adb...
+2023-09-28 02:43:04.630    app     info:    [shared-cache-mover] Processed 0 profiles from disk
+2023-09-28 02:43:04.684    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-09-28 02:43:04.761    app     info:    [feature-flags] Received 5 flags for client 4a436adb...
+2023-09-28 02:43:04.762    app     info:    [feature-flags] Client initialized with key 4a436adb...
+2023-09-28 02:43:04.795    app     info:    [customer-information] Agreements have been updated
+2023-09-28 02:43:04.838    app     info:    [server-manager] Starting refresh cycle for Tranquility
+2023-09-28 02:43:04.983    app     info:    [server-manager] Previous Tranquility build: None, current build: 2371914
+2023-09-28 02:43:04.984    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.GameClientUpdateStarted
+2023-09-28 02:43:04.984    app     info:    [server-manager] Starting download of build 2371914 for Tranquility.
+2023-09-28 02:43:05.041    app     info:    [server-manager] Downloading binary chunks in 9 files (90.7 MB)
+2023-09-28 02:43:05.042    app     info:    [download-from-manifest] Preparing to download 9 files    { cdn: 1, concurrent: 10 }
+2023-09-28 02:43:05.356    app     info:    [main-window] Registering main window    { windowId: 2 }
+2023-09-28 02:43:05.366    app     info:    [elg-events] Sending event    eve_launcher.electron.application.RendererLoaded
+2023-09-28 02:43:05.671    app     info:    [elg-events] Sending event    eve_launcher.electron.application.RendererLoaded
+2023-09-28 02:43:05.783     ui     info:    Initializing captcha    ccp://launcher/renderer/main_window/index.js    2
+2023-09-28 02:43:06.090    app     info:    [server-manager] Downloaded 8.49 MB/90.66 MB at 5.30 MB/s
+2023-09-28 02:43:07.093    app     info:    [server-manager] Downloaded 19.70 MB/90.66 MB at 11.33 MB/s
+2023-09-28 02:43:08.095    app     info:    [server-manager] Downloaded 31.13 MB/90.66 MB at 11.39 MB/s
+2023-09-28 02:43:09.097    app     info:    [server-manager] Downloaded 42.54 MB/90.66 MB at 11.32 MB/s
+2023-09-28 02:43:10.100    app     info:    [server-manager] Downloaded 53.97 MB/90.66 MB at 11.41 MB/s
+2023-09-28 02:43:11.102    app     info:    [server-manager] Downloaded 65.40 MB/90.66 MB at 11.44 MB/s
+2023-09-28 02:43:12.105    app     info:    [server-manager] Downloaded 76.82 MB/90.66 MB at 11.31 MB/s
+2023-09-28 02:43:12.761    app     info:    [analytics] Hardware rendering enabled:    true    { disabledViaCommandline: false, disabledViaSettings: false }
+2023-09-28 02:43:13.106    app     info:    [server-manager] Downloaded 88.09 MB/90.66 MB at 16.65 MB/s
+2023-09-28 02:43:13.108    app     info:    [download-from-manifest] Downloaded 9 files (88.09 MB) in 8.64 seconds
+2023-09-28 02:43:13.108    app     info:    [download-from-manifest] Average download speed: 10.92 MB/s
+2023-09-28 02:43:13.108    app     info:    [server-manager] Unpacking binary chunks
+2023-09-28 02:43:14.106    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 17/196
+2023-09-28 02:43:15.232    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 150/196
+2023-09-28 02:43:16.112    app     info:    [chunk-unpacker] Unpacked chunks, and wrote 196 files (210 MB) in 3.2 seconds
+2023-09-28 02:43:16.113    app     info:    [chunk-unpacker] Average unpacking speed: 70 MB/s
+2023-09-28 02:43:16.142    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesStarted
+2023-09-28 02:43:16.143    app     info:    [binary-copier] Copying 196 files (210 MB) to 'C:\CCP\EVE Online\tq'
+2023-09-28 02:43:16.158    app     info:    [binary-copier] Removing old binaries
+2023-09-28 02:43:16.161    app     info:    [binary-copier] Copying binaries from ResFiles
+2023-09-28 02:43:16.239    app     info:    [server-manager] Copying executables 1/196
+2023-09-28 02:43:16.282    app     info:    [binary-copier] Finished copying 196 files to 'C:\CCP\EVE Online\tq' in 0.141 seconds
+2023-09-28 02:43:16.284    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesFinished
+2023-09-28 02:43:16.474    app     info:    [server-manager] Downloading prefetch chunks in 399 files (4.18 GB)
+2023-09-28 02:43:16.475    app     info:    [download-from-manifest] Preparing to download 399 files    { cdn: 2, concurrent: 10 }
+2023-09-28 02:43:17.283    app     info:    [server-manager] Downloaded 5.63 MB/4.18 GB at 11.25 MB/s
+2023-09-28 02:43:18.287    app     info:    [server-manager] Downloaded 17.01 MB/4.18 GB at 11.57 MB/s
+2023-09-28 02:43:19.289    app     info:    [server-manager] Downloaded 27.79 MB/4.18 GB at 10.82 MB/s
+2023-09-28 02:43:20.291    app     info:    [server-manager] Downloaded 38.78 MB/4.18 GB at 10.98 MB/s
+2023-09-28 02:43:21.293    app     info:    [server-manager] Downloaded 49.53 MB/4.18 GB at 10.48 MB/s
+2023-09-28 02:43:22.294    app     info:    [server-manager] Downloaded 60.93 MB/4.18 GB at 17.10 MB/s
+2023-09-28 02:43:23.295    app     info:    [server-manager] Downloaded 72.30 MB/4.18 GB at 17.04 MB/s
+2023-09-28 02:43:24.296    app     info:    [server-manager] Downloaded 82.74 MB/4.18 GB at 10.71 MB/s
+2023-09-28 02:43:25.307    app     info:    [server-manager] Downloaded 94.05 MB/4.18 GB at 11.38 MB/s
+2023-09-28 02:43:26.306    app     info:    [server-manager] Downloaded 104.72 MB/4.18 GB at 10.36 MB/s
+2023-09-28 02:43:27.308    app     info:    [server-manager] Downloaded 115.82 MB/4.18 GB at 10.86 MB/s
+2023-09-28 02:43:28.309    app     info:    [server-manager] Downloaded 127.24 MB/4.18 GB at 11.45 MB/s
+2023-09-28 02:43:29.310    app     info:    [server-manager] Downloaded 138.63 MB/4.18 GB at 11.41 MB/s
+2023-09-28 02:43:30.311    app     info:    [server-manager] Downloaded 149.95 MB/4.18 GB at 5.60 MB/s
+2023-09-28 02:43:31.312    app     info:    [server-manager] Downloaded 161.27 MB/4.18 GB at 11.41 MB/s
+2023-09-28 02:43:32.313    app     info:    [server-manager] Downloaded 172.49 MB/4.18 GB at 11.38 MB/s
+2023-09-28 02:43:33.315    app     info:    [server-manager] Downloaded 183.83 MB/4.18 GB at 11.34 MB/s
+2023-09-28 02:43:34.316    app     info:    [server-manager] Downloaded 195.25 MB/4.18 GB at 11.45 MB/s
+2023-09-28 02:43:34.678    app     warn:    Could not connect to LogLite    [
+  Error: connect ECONNREFUSED 127.0.0.1:3273
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16) {
+    errno: -4078,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '127.0.0.1',
+    port: 3273
+  }
+]
+2023-09-28 02:43:35.317    app     info:    [server-manager] Downloaded 206.65 MB/4.18 GB at 11.41 MB/s
+2023-09-28 02:43:36.318    app     info:    [server-manager] Downloaded 218.01 MB/4.18 GB at 11.34 MB/s
+2023-09-28 02:43:37.319    app     info:    [server-manager] Downloaded 229.23 MB/4.18 GB at 10.95 MB/s
+2023-09-28 02:43:38.328    app     info:    [server-manager] Downloaded 240.70 MB/4.18 GB at 6.03 MB/s
+2023-09-28 02:43:39.329    app     info:    [server-manager] Downloaded 252.15 MB/4.18 GB at 16.80 MB/s
+2023-09-28 02:43:40.339    app     info:    [server-manager] Downloaded 263.72 MB/4.18 GB at 11.27 MB/s
+2023-09-28 02:43:41.354    app     info:    [server-manager] Downloaded 275.12 MB/4.18 GB at 11.44 MB/s
+2023-09-28 02:43:42.355    app     info:    [server-manager] Downloaded 286.61 MB/4.18 GB at 16.67 MB/s
+2023-09-28 02:43:43.363    app     info:    [server-manager] Downloaded 298.26 MB/4.18 GB at 11.29 MB/s
+2023-09-28 02:43:44.373    app     info:    [server-manager] Downloaded 309.64 MB/4.18 GB at 17.03 MB/s
+2023-09-28 02:43:45.382    app     info:    [server-manager] Downloaded 320.93 MB/4.18 GB at 10.97 MB/s
+2023-09-28 02:43:46.383    app     info:    [server-manager] Downloaded 332.28 MB/4.18 GB at 11.31 MB/s
+2023-09-28 02:43:47.385    app     info:    [server-manager] Downloaded 343.52 MB/4.18 GB at 11.45 MB/s
+2023-09-28 02:43:48.386    app     info:    [server-manager] Downloaded 354.94 MB/4.18 GB at 11.41 MB/s
+2023-09-28 02:43:49.386    app     info:    [server-manager] Downloaded 366.33 MB/4.18 GB at 11.37 MB/s
+2023-09-28 02:43:50.383    app     info:    [authentication] Generated login URL with state 'EA_vWTwGDQjNkXp4ojWbp8eDhdCMRehVsbxT7T3pr5U' for 'tranquility' using clientID 'eveLauncherTQ'
+2023-09-28 02:43:50.385    app     info:    [authentication-handler] Creating login window using URI https://login.eveonline.com/account/logoff?lang=en&ReturnUrl=%2Faccount%2Flogon%3FReturnUrl%3D%252Fv2%252Foauth%252Fauthorize%253Fresponse_type%253Dcode%2526client_id%253DeveLauncherTQ%2526scope%253DeveClientLogin%252Bcisservice.customerRead.v1%252Bcisservice.customerWrite.v1%252Bcisservice.userProfileBasic.v1%252Bvgs.transactionRead.v1%252Bvgs.marketAccess.v1%2526redirect_uri%253Dhttps%25253A%25252F%25252Flogin.eveonline.com%25252Flauncher%25253Fclient_id%25253DeveLauncherTQ%2526state%253DEA_vWTwGDQjNkXp4ojWbp8eDhdCMRehVsbxT7T3pr5U%2526code_challenge_method%253DS256%2526code_challenge%253DL9X4E1Fls0DknsstLI8fiTb1zhnwJo1HVT_xmKv8uPk
+2023-09-28 02:43:50.392    app     info:    [server-manager] Downloaded 377.75 MB/4.18 GB at 11.38 MB/s
+2023-09-28 02:43:51.126    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.LoginWindowOpened
+2023-09-28 02:43:51.393    app     info:    [server-manager] Downloaded 388.89 MB/4.18 GB at 16.64 MB/s
+2023-09-28 02:43:52.395    app     info:    [server-manager] Downloaded 400.23 MB/4.18 GB at 11.47 MB/s
+2023-09-28 02:43:53.396    app     info:    [server-manager] Downloaded 411.65 MB/4.18 GB at 17.07 MB/s
+2023-09-28 02:43:54.397    app     info:    [server-manager] Downloaded 423.06 MB/4.18 GB at 11.54 MB/s
+2023-09-28 02:43:55.397    app     info:    [server-manager] Downloaded 434.44 MB/4.18 GB at 11.40 MB/s
+2023-09-28 02:43:56.398    app     info:    [server-manager] Downloaded 445.86 MB/4.18 GB at 11.40 MB/s
+2023-09-28 02:43:57.399    app     info:    [server-manager] Downloaded 457.13 MB/4.18 GB at 11.38 MB/s
+2023-09-28 02:43:58.400    app     info:    [server-manager] Downloaded 468.58 MB/4.18 GB at 11.41 MB/s
+2023-09-28 02:43:59.401    app     info:    [server-manager] Downloaded 479.97 MB/4.18 GB at 11.47 MB/s
+2023-09-28 02:44:00.402    app     info:    [server-manager] Downloaded 491.39 MB/4.18 GB at 11.45 MB/s
+2023-09-28 02:44:01.403    app     info:    [server-manager] Downloaded 502.79 MB/4.18 GB at 11.37 MB/s
+2023-09-28 02:44:02.404    app     info:    [server-manager] Downloaded 514.23 MB/4.18 GB at 11.45 MB/s
+2023-09-28 02:44:03.405    app     info:    [server-manager] Downloaded 525.61 MB/4.18 GB at 11.31 MB/s
+2023-09-28 02:44:04.406    app     info:    [server-manager] Downloaded 537.05 MB/4.18 GB at 17.16 MB/s
+2023-09-28 02:44:05.407    app     info:    [server-manager] Downloaded 548.42 MB/4.18 GB at 11.45 MB/s
+2023-09-28 02:44:06.408    app     info:    [server-manager] Downloaded 559.74 MB/4.18 GB at 11.46 MB/s
+2023-09-28 02:44:07.409    app     info:    [server-manager] Downloaded 571.11 MB/4.18 GB at 11.44 MB/s
+2023-09-28 02:44:08.411    app     info:    [server-manager] Downloaded 582.47 MB/4.18 GB at 16.74 MB/s
+2023-09-28 02:44:09.417    app     info:    [server-manager] Downloaded 594.10 MB/4.18 GB at 5.64 MB/s
+2023-09-28 02:44:10.428    app     info:    [server-manager] Downloaded 605.54 MB/4.18 GB at 16.93 MB/s
+2023-09-28 02:44:11.437    app     info:    [server-manager] Downloaded 617.12 MB/4.18 GB at 5.70 MB/s
+2023-09-28 02:44:12.451    app     info:    [server-manager] Downloaded 628.56 MB/4.18 GB at 11.56 MB/s
+2023-09-28 02:44:13.462    app     info:    [server-manager] Downloaded 640.21 MB/4.18 GB at 11.35 MB/s
+2023-09-28 02:44:14.480    app     info:    [server-manager] Downloaded 651.72 MB/4.18 GB at 11.67 MB/s
+2023-09-28 02:44:15.481    app     info:    [server-manager] Downloaded 663.13 MB/4.18 GB at 16.93 MB/s
+2023-09-28 02:44:16.490    app     info:    [server-manager] Downloaded 674.60 MB/4.18 GB at 5.64 MB/s
+2023-09-28 02:44:17.500    app     info:    [server-manager] Downloaded 686.00 MB/4.18 GB at 5.80 MB/s
+2023-09-28 02:44:18.500    app     info:    [server-manager] Downloaded 697.40 MB/4.18 GB at 11.44 MB/s
+2023-09-28 02:44:19.501    app     info:    [server-manager] Downloaded 708.84 MB/4.18 GB at 11.48 MB/s
+2023-09-28 02:44:20.503    app     info:    [server-manager] Downloaded 720.26 MB/4.18 GB at 11.40 MB/s
+2023-09-28 02:44:21.504    app     info:    [server-manager] Downloaded 731.62 MB/4.18 GB at 11.40 MB/s
+2023-09-28 02:44:22.505    app     info:    [server-manager] Downloaded 743.02 MB/4.18 GB at 11.41 MB/s
+2023-09-28 02:44:23.506    app     info:    [server-manager] Downloaded 754.44 MB/4.18 GB at 11.40 MB/s
+2023-09-28 02:44:24.507    app     info:    [server-manager] Downloaded 765.87 MB/4.18 GB at 17.10 MB/s
+2023-09-28 02:44:25.508    app     info:    [server-manager] Downloaded 776.59 MB/4.18 GB at 10.29 MB/s
+2023-09-28 02:44:26.508    app     info:    [server-manager] Downloaded 787.70 MB/4.18 GB at 16.71 MB/s
+2023-09-28 02:44:27.509    app     info:    [server-manager] Downloaded 799.11 MB/4.18 GB at 11.37 MB/s
+2023-09-28 02:44:28.510    app     info:    [server-manager] Downloaded 810.52 MB/4.18 GB at 5.77 MB/s
+2023-09-28 02:44:29.511    app     info:    [server-manager] Downloaded 821.82 MB/4.18 GB at 17.01 MB/s
+2023-09-28 02:44:30.512    app     info:    [server-manager] Downloaded 832.96 MB/4.18 GB at 11.11 MB/s
+2023-09-28 02:44:31.514    app     info:    [server-manager] Downloaded 844.26 MB/4.18 GB at 11.31 MB/s
+2023-09-28 02:44:32.515    app     info:    [server-manager] Downloaded 855.61 MB/4.18 GB at 11.33 MB/s
+2023-09-28 02:44:33.519    app     info:    [server-manager] Downloaded 866.57 MB/4.18 GB at 11.02 MB/s
+2023-09-28 02:44:34.520    app     info:    [server-manager] Downloaded 877.59 MB/4.18 GB at 11.02 MB/s
+2023-09-28 02:44:35.531    app     info:    [server-manager] Downloaded 888.62 MB/4.18 GB at 10.88 MB/s
+2023-09-28 02:44:36.532    app     info:    [server-manager] Downloaded 899.70 MB/4.18 GB at 11.15 MB/s
+2023-09-28 02:44:37.533    app     info:    [server-manager] Downloaded 911.02 MB/4.18 GB at 11.21 MB/s
+2023-09-28 02:44:38.534    app     info:    [server-manager] Downloaded 922.39 MB/4.18 GB at 11.30 MB/s
+2023-09-28 02:44:39.535    app     info:    [server-manager] Downloaded 933.76 MB/4.18 GB at 16.94 MB/s
+2023-09-28 02:44:40.536    app     info:    [server-manager] Downloaded 945.15 MB/4.18 GB at 11.47 MB/s
+2023-09-28 02:44:41.549    app     info:    [server-manager] Downloaded 956.55 MB/4.18 GB at 11.46 MB/s
+2023-09-28 02:44:42.548    app     info:    [server-manager] Downloaded 968.05 MB/4.18 GB at 16.57 MB/s
+2023-09-28 02:44:43.556    app     info:    [server-manager] Downloaded 979.67 MB/4.18 GB at 11.47 MB/s
+2023-09-28 02:44:44.566    app     info:    [server-manager] Downloaded 991.04 MB/4.18 GB at 16.77 MB/s
+2023-09-28 02:44:45.576    app     info:    [server-manager] Downloaded 1.00 GB/4.18 GB at 16.97 MB/s
+2023-09-28 02:44:46.577    app     info:    [server-manager] Downloaded 1.01 GB/4.18 GB at 11.05 MB/s
+2023-09-28 02:44:47.578    app     info:    [server-manager] Downloaded 1.03 GB/4.18 GB at 11.35 MB/s
+2023-09-28 02:44:48.580    app     info:    [server-manager] Downloaded 1.04 GB/4.18 GB at 11.41 MB/s
+2023-09-28 02:44:49.590    app     info:    [server-manager] Downloaded 1.05 GB/4.18 GB at 16.61 MB/s
+2023-09-28 02:44:50.610    app     info:    [server-manager] Downloaded 1.06 GB/4.18 GB at 11.28 MB/s
+2023-09-28 02:44:51.611    app     info:    [server-manager] Downloaded 1.07 GB/4.18 GB at 11.39 MB/s
+2023-09-28 02:44:52.623    app     info:    [server-manager] Downloaded 1.08 GB/4.18 GB at 11.44 MB/s
+2023-09-28 02:44:53.624    app     info:    [server-manager] Downloaded 1.09 GB/4.18 GB at 11.46 MB/s
+2023-09-28 02:44:54.625    app     info:    [server-manager] Downloaded 1.11 GB/4.18 GB at 11.37 MB/s
+2023-09-28 02:44:55.626    app     info:    [server-manager] Downloaded 1.12 GB/4.18 GB at 5.80 MB/s
+2023-09-28 02:44:56.627    app     info:    [server-manager] Downloaded 1.13 GB/4.18 GB at 11.17 MB/s
+2023-09-28 02:44:57.628    app     info:    [server-manager] Downloaded 1.14 GB/4.18 GB at 11.40 MB/s
+2023-09-28 02:44:58.629    app     info:    [server-manager] Downloaded 1.15 GB/4.18 GB at 16.12 MB/s
+2023-09-28 02:44:59.630    app     info:    [server-manager] Downloaded 1.16 GB/4.18 GB at 17.00 MB/s
+2023-09-28 02:45:00.631    app     info:    [server-manager] Downloaded 1.17 GB/4.18 GB at 11.44 MB/s
+2023-09-28 02:45:01.633    app     info:    [server-manager] Downloaded 1.18 GB/4.18 GB at 11.40 MB/s
+2023-09-28 02:45:02.634    app     info:    [server-manager] Downloaded 1.19 GB/4.18 GB at 10.85 MB/s
+2023-09-28 02:45:03.635    app     info:    [server-manager] Downloaded 1.21 GB/4.18 GB at 11.24 MB/s
+2023-09-28 02:45:04.646    app     info:    [server-manager] Downloaded 1.22 GB/4.18 GB at 11.35 MB/s
+2023-09-28 02:45:05.647    app     info:    [server-manager] Downloaded 1.23 GB/4.18 GB at 11.33 MB/s
+2023-09-28 02:45:06.648    app     info:    [server-manager] Downloaded 1.24 GB/4.18 GB at 10.27 MB/s
+2023-09-28 02:45:07.649    app     info:    [server-manager] Downloaded 1.25 GB/4.18 GB at 5.73 MB/s
+2023-09-28 02:45:08.659    app     info:    [server-manager] Downloaded 1.26 GB/4.18 GB at 16.74 MB/s
+2023-09-28 02:45:09.664    app     info:    [server-manager] Downloaded 1.27 GB/4.18 GB at 11.30 MB/s
+2023-09-28 02:45:10.675    app     info:    [server-manager] Downloaded 1.29 GB/4.18 GB at 11.41 MB/s
+2023-09-28 02:45:11.676    app     info:    [server-manager] Downloaded 1.30 GB/4.18 GB at 10.86 MB/s
+2023-09-28 02:45:12.677    app     info:    [server-manager] Downloaded 1.31 GB/4.18 GB at 11.39 MB/s
+2023-09-28 02:45:13.683    app     info:    [server-manager] Downloaded 1.32 GB/4.18 GB at 11.44 MB/s
+2023-09-28 02:45:14.684    app     info:    [server-manager] Downloaded 1.33 GB/4.18 GB at 11.18 MB/s
+2023-09-28 02:45:15.695    app     info:    [server-manager] Downloaded 1.34 GB/4.18 GB at 10.87 MB/s
+2023-09-28 02:45:16.695    app     info:    [server-manager] Downloaded 1.35 GB/4.18 GB at 17.17 MB/s
+2023-09-28 02:45:17.696    app     info:    [server-manager] Downloaded 1.36 GB/4.18 GB at 11.09 MB/s
+2023-09-28 02:45:18.697    app     info:    [server-manager] Downloaded 1.38 GB/4.18 GB at 11.43 MB/s
+2023-09-28 02:45:19.703    app     info:    [server-manager] Downloaded 1.39 GB/4.18 GB at 10.44 MB/s
+2023-09-28 02:45:20.709    app     info:    [server-manager] Downloaded 1.40 GB/4.18 GB at 11.44 MB/s
+2023-09-28 02:45:21.711    app     info:    [server-manager] Downloaded 1.41 GB/4.18 GB at 11.32 MB/s
+2023-09-28 02:45:22.712    app     info:    [server-manager] Downloaded 1.42 GB/4.18 GB at 11.59 MB/s
+2023-09-28 02:45:23.719    app     info:    [server-manager] Downloaded 1.43 GB/4.18 GB at 10.61 MB/s
+2023-09-28 02:45:24.724    app     info:    [server-manager] Downloaded 1.44 GB/4.18 GB at 11.45 MB/s
+2023-09-28 02:45:25.725    app     info:    [server-manager] Downloaded 1.45 GB/4.18 GB at 11.35 MB/s
+2023-09-28 02:45:26.726    app     info:    [server-manager] Downloaded 1.46 GB/4.18 GB at 11.35 MB/s
+2023-09-28 02:45:27.727    app     info:    [server-manager] Downloaded 1.48 GB/4.18 GB at 10.46 MB/s
+2023-09-28 02:45:28.728    app     info:    [server-manager] Downloaded 1.49 GB/4.18 GB at 11.37 MB/s
+2023-09-28 02:45:29.729    app     info:    [server-manager] Downloaded 1.50 GB/4.18 GB at 11.22 MB/s
+2023-09-28 02:45:30.730    app     info:    [server-manager] Downloaded 1.51 GB/4.18 GB at 11.44 MB/s
+2023-09-28 02:45:31.731    app     info:    [server-manager] Downloaded 1.52 GB/4.18 GB at 16.65 MB/s
+2023-09-28 02:45:32.732    app     info:    [server-manager] Downloaded 1.53 GB/4.18 GB at 11.35 MB/s
+2023-09-28 02:45:33.733    app     info:    [server-manager] Downloaded 1.54 GB/4.18 GB at 11.41 MB/s
+2023-09-28 02:45:34.734    app     info:    [server-manager] Downloaded 1.55 GB/4.18 GB at 11.25 MB/s
+2023-09-28 02:45:35.735    app     info:    [server-manager] Downloaded 1.57 GB/4.18 GB at 5.83 MB/s
+2023-09-28 02:45:36.741    app     info:    [server-manager] Downloaded 1.58 GB/4.18 GB at 11.28 MB/s
+2023-09-28 02:45:37.740    app     info:    [server-manager] Downloaded 1.59 GB/4.18 GB at 16.90 MB/s
+2023-09-28 02:45:38.747    app     info:    [server-manager] Downloaded 1.60 GB/4.18 GB at 11.37 MB/s
+2023-09-28 02:45:39.758    app     info:    [server-manager] Downloaded 1.61 GB/4.18 GB at 16.80 MB/s
+2023-09-28 02:45:40.769    app     info:    [server-manager] Downloaded 1.62 GB/4.18 GB at 5.67 MB/s
+2023-09-28 02:45:41.778    app     info:    [server-manager] Downloaded 1.63 GB/4.18 GB at 16.96 MB/s
+2023-09-28 02:45:42.789    app     info:    [server-manager] Downloaded 1.65 GB/4.18 GB at 17.07 MB/s
+2023-09-28 02:45:43.789    app     info:    [server-manager] Downloaded 1.66 GB/4.18 GB at 17.10 MB/s
+2023-09-28 02:45:44.790    app     info:    [server-manager] Downloaded 1.67 GB/4.18 GB at 11.18 MB/s
+2023-09-28 02:45:45.791    app     info:    [server-manager] Downloaded 1.68 GB/4.18 GB at 11.39 MB/s
+2023-09-28 02:45:46.792    app     info:    [server-manager] Downloaded 1.69 GB/4.18 GB at 17.07 MB/s
+2023-09-28 02:45:47.793    app     info:    [server-manager] Downloaded 1.70 GB/4.18 GB at 10.86 MB/s
+2023-09-28 02:45:48.794    app     info:    [server-manager] Downloaded 1.71 GB/4.18 GB at 11.60 MB/s
+2023-09-28 02:45:49.796    app     info:    [server-manager] Downloaded 1.73 GB/4.18 GB at 11.38 MB/s
+2023-09-28 02:45:50.797    app     info:    [server-manager] Downloaded 1.74 GB/4.18 GB at 16.77 MB/s
+2023-09-28 02:45:51.799    app     info:    [server-manager] Downloaded 1.75 GB/4.18 GB at 17.01 MB/s
+2023-09-28 02:45:52.800    app     info:    [server-manager] Downloaded 1.76 GB/4.18 GB at 11.24 MB/s
+2023-09-28 02:45:53.801    app     info:    [server-manager] Downloaded 1.77 GB/4.18 GB at 11.38 MB/s
+2023-09-28 02:45:54.802    app     info:    [server-manager] Downloaded 1.78 GB/4.18 GB at 11.28 MB/s
+2023-09-28 02:45:55.803    app     info:    [server-manager] Downloaded 1.79 GB/4.18 GB at 11.08 MB/s
+2023-09-28 02:45:56.804    app     info:    [server-manager] Downloaded 1.80 GB/4.18 GB at 11.08 MB/s
+2023-09-28 02:45:57.805    app     info:    [server-manager] Downloaded 1.82 GB/4.18 GB at 11.30 MB/s
+2023-09-28 02:45:58.807    app     info:    [server-manager] Downloaded 1.83 GB/4.18 GB at 11.34 MB/s
+2023-09-28 02:45:59.809    app     info:    [server-manager] Downloaded 1.84 GB/4.18 GB at 11.34 MB/s
+2023-09-28 02:46:00.817    app     info:    [server-manager] Downloaded 1.85 GB/4.18 GB at 16.06 MB/s
+2023-09-28 02:46:01.816    app     info:    [server-manager] Downloaded 1.86 GB/4.18 GB at 11.04 MB/s
+2023-09-28 02:46:02.827    app     info:    [server-manager] Downloaded 1.87 GB/4.18 GB at 10.52 MB/s
+2023-09-28 02:46:03.828    app     info:    [server-manager] Downloaded 1.88 GB/4.18 GB at 11.24 MB/s
+2023-09-28 02:46:04.828    app     info:    [server-manager] Downloaded 1.89 GB/4.18 GB at 11.65 MB/s
+2023-09-28 02:46:05.831    app     info:    [server-manager] Downloaded 1.91 GB/4.18 GB at 11.12 MB/s
+2023-09-28 02:46:06.837    app     info:    [server-manager] Downloaded 1.92 GB/4.18 GB at 11.44 MB/s
+2023-09-28 02:46:07.838    app     info:    [server-manager] Downloaded 1.93 GB/4.18 GB at 11.42 MB/s
+2023-09-28 02:46:08.839    app     info:    [server-manager] Downloaded 1.94 GB/4.18 GB at 11.40 MB/s
+2023-09-28 02:46:09.840    app     info:    [server-manager] Downloaded 1.95 GB/4.18 GB at 11.42 MB/s
+2023-09-28 02:46:10.848    app     info:    [server-manager] Downloaded 1.96 GB/4.18 GB at 11.44 MB/s
+2023-09-28 02:46:11.850    app     info:    [server-manager] Downloaded 1.97 GB/4.18 GB at 16.80 MB/s
+2023-09-28 02:46:12.858    app     info:    [server-manager] Downloaded 1.99 GB/4.18 GB at 11.40 MB/s
+2023-09-28 02:46:13.870    app     info:    [server-manager] Downloaded 2.00 GB/4.18 GB at 10.88 MB/s
+2023-09-28 02:46:14.871    app     info:    [server-manager] Downloaded 2.01 GB/4.18 GB at 10.47 MB/s
+2023-09-28 02:46:15.872    app     info:    [server-manager] Downloaded 2.02 GB/4.18 GB at 9.78 MB/s
+2023-09-28 02:46:16.873    app     info:    [server-manager] Downloaded 2.03 GB/4.18 GB at 11.34 MB/s
+2023-09-28 02:46:17.874    app     info:    [server-manager] Downloaded 2.04 GB/4.18 GB at 11.45 MB/s
+2023-09-28 02:46:18.875    app     info:    [server-manager] Downloaded 2.05 GB/4.18 GB at 5.64 MB/s
+2023-09-28 02:46:19.876    app     info:    [server-manager] Downloaded 2.06 GB/4.18 GB at 11.41 MB/s
+2023-09-28 02:46:20.877    app     info:    [server-manager] Downloaded 2.07 GB/4.18 GB at 11.45 MB/s
+2023-09-28 02:46:21.878    app     info:    [server-manager] Downloaded 2.09 GB/4.18 GB at 11.38 MB/s
+2023-09-28 02:46:22.879    app     info:    [server-manager] Downloaded 2.10 GB/4.18 GB at 17.15 MB/s
+2023-09-28 02:46:23.880    app     info:    [server-manager] Downloaded 2.11 GB/4.18 GB at 11.41 MB/s
+2023-09-28 02:46:24.881    app     info:    [server-manager] Downloaded 2.12 GB/4.18 GB at 11.47 MB/s
+2023-09-28 02:46:25.882    app     info:    [server-manager] Downloaded 2.13 GB/4.18 GB at 11.15 MB/s
+2023-09-28 02:46:26.884    app     info:    [server-manager] Downloaded 2.14 GB/4.18 GB at 11.44 MB/s
+2023-09-28 02:46:27.885    app     info:    [server-manager] Downloaded 2.15 GB/4.18 GB at 11.45 MB/s
+2023-09-28 02:46:28.886    app     info:    [server-manager] Downloaded 2.16 GB/4.18 GB at 11.39 MB/s
+2023-09-28 02:46:29.888    app     info:    [server-manager] Downloaded 2.18 GB/4.18 GB at 11.45 MB/s
+2023-09-28 02:46:30.889    app     info:    [server-manager] Downloaded 2.19 GB/4.18 GB at 11.42 MB/s
+2023-09-28 02:46:31.900    app     info:    [server-manager] Downloaded 2.20 GB/4.18 GB at 11.47 MB/s
+2023-09-28 02:46:32.901    app     info:    [server-manager] Downloaded 2.21 GB/4.18 GB at 11.18 MB/s
+2023-09-28 02:46:33.902    app     info:    [server-manager] Downloaded 2.22 GB/4.18 GB at 11.41 MB/s
+2023-09-28 02:46:34.903    app     info:    [server-manager] Downloaded 2.23 GB/4.18 GB at 11.44 MB/s
+2023-09-28 02:46:35.905    app     info:    [server-manager] Downloaded 2.24 GB/4.18 GB at 11.15 MB/s
+2023-09-28 02:46:36.906    app     info:    [server-manager] Downloaded 2.26 GB/4.18 GB at 11.51 MB/s
+2023-09-28 02:46:37.906    app     info:    [server-manager] Downloaded 2.27 GB/4.18 GB at 11.27 MB/s
+2023-09-28 02:46:38.886    app     info:    [save-as] Retrying download of https://resources.eveonline.com/bundles/2371914/resfileindex_prefetch_2371914.txt.bundle.215 (attempt 1)
+2023-09-28 02:46:38.907    app     info:    [server-manager] Downloaded 2.28 GB/4.18 GB at 16.97 MB/s
+2023-09-28 02:46:39.908    app     info:    [server-manager] Downloaded 2.28 GB/4.18 GB at 11.35 MB/s
+2023-09-28 02:46:40.909    app     info:    [server-manager] Downloaded 2.29 GB/4.18 GB at 11.40 MB/s
+2023-09-28 02:46:41.910    app     info:    [server-manager] Downloaded 2.31 GB/4.18 GB at 11.45 MB/s
+2023-09-28 02:46:42.911    app     info:    [server-manager] Downloaded 2.32 GB/4.18 GB at 11.45 MB/s
+2023-09-28 02:46:43.913    app     info:    [server-manager] Downloaded 2.33 GB/4.18 GB at 11.40 MB/s
+2023-09-28 02:46:44.913    app     info:    [server-manager] Downloaded 2.34 GB/4.18 GB at 11.37 MB/s
+2023-09-28 02:46:44.973    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.UserAuthenticated
+2023-09-28 02:46:44.973    app     info:    [authentication-handler] Navigation to login completed, receiving code & state    {
+  state: 'EA_vWTwGDQjNkXp4ojWbp8eDhdCMRehVsbxT7T3pr5U',
+  code: '66xmVr2iPUChjVH9b5NDOA'
+}
+2023-09-28 02:46:44.977    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.LoginWindowClosed
+2023-09-28 02:46:45.173    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.UserTokensReceived
+2023-09-28 02:46:45.174    app     info:    [feature-flags] Client properties have changed
+2023-09-28 02:46:45.177    app     warn:    [ipc-requests] Server manager already running
+2023-09-28 02:46:45.178    app     warn:    [ipc-requests] Server manager cannot start for tranquility because required resources are not available
+2023-09-28 02:46:45.179    app     info:    [customer-information] Getting character information for '16492377' on 'tranquility'
+2023-09-28 02:46:45.179    app     info:    [customer-information] Getting Omega status for '16492377' on 'tranquility'
+2023-09-28 02:46:45.179    app     info:    [virtual-goods] Getting Plex status for '16492377' on 'tranquility'
+2023-09-28 02:46:45.290    app     info:    [feature-flags] Client identified with 5 new flags...
+2023-09-28 02:46:45.300    app     info:    [customer-information] Agreement status has been fetched for user '16492377'
+2023-09-28 02:46:45.454    app     info:    [feature-flags] Client properties have changed
+2023-09-28 02:46:45.573    app     info:    [feature-flags] Client identified with 5 new flags...
+2023-09-28 02:46:45.823    app     info:    [virtual-goods] Fetched Plex status for '16492377' on 'tranquility'
+2023-09-28 02:46:45.829    app     info:    [AuthenticationMiddleware] User information updated
+2023-09-28 02:46:45.914    app     info:    [server-manager] Downloaded 2.35 GB/4.18 GB at 11.05 MB/s
+2023-09-28 02:46:45.969    app     info:    [esi] Fetched 2 character affiliations for 16492377
+2023-09-28 02:46:46.916    app     info:    [server-manager] Downloaded 2.36 GB/4.18 GB at 11.36 MB/s
+2023-09-28 02:46:47.917    app     info:    [server-manager] Downloaded 2.37 GB/4.18 GB at 11.41 MB/s
+2023-09-28 02:46:48.918    app     info:    [server-manager] Downloaded 2.38 GB/4.18 GB at 11.38 MB/s
+2023-09-28 02:46:49.919    app     info:    [server-manager] Downloaded 2.40 GB/4.18 GB at 11.44 MB/s
+2023-09-28 02:46:50.920    app     info:    [server-manager] Downloaded 2.41 GB/4.18 GB at 11.32 MB/s
+2023-09-28 02:46:51.921    app     info:    [server-manager] Downloaded 2.42 GB/4.18 GB at 11.38 MB/s
+2023-09-28 02:46:52.922    app     info:    [server-manager] Downloaded 2.43 GB/4.18 GB at 11.45 MB/s
+2023-09-28 02:46:53.923    app     info:    [server-manager] Downloaded 2.44 GB/4.18 GB at 11.35 MB/s
+2023-09-28 02:46:54.924    app     info:    [server-manager] Downloaded 2.45 GB/4.18 GB at 17.17 MB/s
+2023-09-28 02:46:55.925    app     info:    [server-manager] Downloaded 2.46 GB/4.18 GB at 11.10 MB/s
+2023-09-28 02:46:56.926    app     info:    [server-manager] Downloaded 2.48 GB/4.18 GB at 11.37 MB/s
+2023-09-28 02:46:57.927    app     info:    [server-manager] Downloaded 2.49 GB/4.18 GB at 11.45 MB/s
+2023-09-28 02:46:58.928    app     info:    [server-manager] Downloaded 2.50 GB/4.18 GB at 11.38 MB/s
+2023-09-28 02:46:59.929    app     info:    [server-manager] Downloaded 2.51 GB/4.18 GB at 11.40 MB/s
+2023-09-28 02:47:00.931    app     info:    [server-manager] Downloaded 2.52 GB/4.18 GB at 11.37 MB/s
+2023-09-28 02:47:01.932    app     info:    [server-manager] Downloaded 2.53 GB/4.18 GB at 11.44 MB/s
+2023-09-28 02:47:02.934    app     info:    [server-manager] Downloaded 2.54 GB/4.18 GB at 11.39 MB/s
+2023-09-28 02:47:03.935    app     info:    [server-manager] Downloaded 2.56 GB/4.18 GB at 11.45 MB/s
+2023-09-28 02:47:04.936    app     info:    [server-manager] Downloaded 2.57 GB/4.18 GB at 11.37 MB/s
+2023-09-28 02:47:05.937    app     info:    [server-manager] Downloaded 2.58 GB/4.18 GB at 11.41 MB/s
+2023-09-28 02:47:06.939    app     info:    [server-manager] Downloaded 2.59 GB/4.18 GB at 11.40 MB/s
+2023-09-28 02:47:07.940    app     info:    [server-manager] Downloaded 2.60 GB/4.18 GB at 11.40 MB/s
+2023-09-28 02:47:08.941    app     info:    [server-manager] Downloaded 2.61 GB/4.18 GB at 11.52 MB/s
+2023-09-28 02:47:09.942    app     info:    [server-manager] Downloaded 2.62 GB/4.18 GB at 11.46 MB/s
+2023-09-28 02:47:10.943    app     info:    [server-manager] Downloaded 2.64 GB/4.18 GB at 17.10 MB/s
+2023-09-28 02:47:11.338    app     info:    [save-as] Retrying download of https://resources.eveonline.com/bundles/2371914/resfileindex_prefetch_2371914.txt.bundle.249 (attempt 1)
+2023-09-28 02:47:11.944    app     info:    [server-manager] Downloaded 2.64 GB/4.18 GB at 2.75 MB/s
+2023-09-28 02:47:12.945    app     info:    [server-manager] Downloaded 2.65 GB/4.18 GB at 11.43 MB/s
+2023-09-28 02:47:13.948    app     info:    [server-manager] Downloaded 2.66 GB/4.18 GB at 11.35 MB/s
+2023-09-28 02:47:14.949    app     info:    [server-manager] Downloaded 2.67 GB/4.18 GB at 11.38 MB/s
+2023-09-28 02:47:15.950    app     info:    [server-manager] Downloaded 2.68 GB/4.18 GB at 11.50 MB/s
+2023-09-28 02:47:16.953    app     info:    [server-manager] Downloaded 2.69 GB/4.18 GB at 11.48 MB/s
+2023-09-28 02:47:17.954    app     info:    [server-manager] Downloaded 2.71 GB/4.18 GB at 11.45 MB/s
+2023-09-28 02:47:18.958    app     info:    [server-manager] Downloaded 2.72 GB/4.18 GB at 11.43 MB/s
+2023-09-28 02:47:19.959    app     info:    [server-manager] Downloaded 2.73 GB/4.18 GB at 11.32 MB/s
+2023-09-28 02:47:20.960    app     info:    [server-manager] Downloaded 2.74 GB/4.18 GB at 17.21 MB/s
+2023-09-28 02:47:21.961    app     info:    [server-manager] Downloaded 2.75 GB/4.18 GB at 5.73 MB/s
+2023-09-28 02:47:22.962    app     info:    [server-manager] Downloaded 2.76 GB/4.18 GB at 11.44 MB/s
+2023-09-28 02:47:23.963    app     info:    [server-manager] Downloaded 2.77 GB/4.18 GB at 17.17 MB/s
+2023-09-28 02:47:24.964    app     info:    [server-manager] Downloaded 2.79 GB/4.18 GB at 5.70 MB/s
+2023-09-28 02:47:25.965    app     info:    [server-manager] Downloaded 2.80 GB/4.18 GB at 11.38 MB/s
+2023-09-28 02:47:26.966    app     info:    [server-manager] Downloaded 2.81 GB/4.18 GB at 11.47 MB/s
+2023-09-28 02:47:27.967    app     info:    [server-manager] Downloaded 2.82 GB/4.18 GB at 17.10 MB/s
+2023-09-28 02:47:28.968    app     info:    [server-manager] Downloaded 2.83 GB/4.18 GB at 11.40 MB/s
+2023-09-28 02:47:29.968    app     info:    [server-manager] Downloaded 2.84 GB/4.18 GB at 11.37 MB/s
+2023-09-28 02:47:30.969    app     info:    [server-manager] Downloaded 2.85 GB/4.18 GB at 11.47 MB/s
+2023-09-28 02:47:31.970    app     info:    [server-manager] Downloaded 2.86 GB/4.18 GB at 11.41 MB/s
+2023-09-28 02:47:32.971    app     info:    [server-manager] Downloaded 2.88 GB/4.18 GB at 17.10 MB/s
+2023-09-28 02:47:33.972    app     info:    [server-manager] Downloaded 2.89 GB/4.18 GB at 11.37 MB/s
+2023-09-28 02:47:34.973    app     info:    [server-manager] Downloaded 2.90 GB/4.18 GB at 11.43 MB/s
+2023-09-28 02:47:35.974    app     info:    [server-manager] Downloaded 2.91 GB/4.18 GB at 11.45 MB/s
+2023-09-28 02:47:36.975    app     info:    [server-manager] Downloaded 2.92 GB/4.18 GB at 11.45 MB/s
+2023-09-28 02:47:37.976    app     info:    [server-manager] Downloaded 2.93 GB/4.18 GB at 5.73 MB/s
+2023-09-28 02:47:38.978    app     info:    [server-manager] Downloaded 2.94 GB/4.18 GB at 11.40 MB/s
+2023-09-28 02:47:39.979    app     info:    [server-manager] Downloaded 2.96 GB/4.18 GB at 11.46 MB/s
+2023-09-28 02:47:40.986    app     info:    [server-manager] Downloaded 2.97 GB/4.18 GB at 11.24 MB/s
+2023-09-28 02:47:41.986    app     info:    [server-manager] Downloaded 2.98 GB/4.18 GB at 5.73 MB/s
+2023-09-28 02:47:42.999    app     info:    [server-manager] Downloaded 2.99 GB/4.18 GB at 11.37 MB/s
+2023-09-28 02:47:44.013    app     info:    [server-manager] Downloaded 3.00 GB/4.18 GB at 16.93 MB/s
+2023-09-28 02:47:45.031    app     info:    [server-manager] Downloaded 3.01 GB/4.18 GB at 5.64 MB/s
+2023-09-28 02:47:46.032    app     info:    [server-manager] Downloaded 3.02 GB/4.18 GB at 11.10 MB/s
+2023-09-28 02:47:47.041    app     info:    [server-manager] Downloaded 3.04 GB/4.18 GB at 17.13 MB/s
+2023-09-28 02:47:48.041    app     info:    [server-manager] Downloaded 3.05 GB/4.18 GB at 11.37 MB/s
+2023-09-28 02:47:49.042    app     info:    [server-manager] Downloaded 3.06 GB/4.18 GB at 11.44 MB/s
+2023-09-28 02:47:50.042    app     info:    [server-manager] Downloaded 3.07 GB/4.18 GB at 5.70 MB/s
+2023-09-28 02:47:51.043    app     info:    [server-manager] Downloaded 3.08 GB/4.18 GB at 11.47 MB/s
+2023-09-28 02:47:52.043    app     info:    [server-manager] Downloaded 3.09 GB/4.18 GB at 11.35 MB/s
+2023-09-28 02:47:53.044    app     info:    [server-manager] Downloaded 3.10 GB/4.18 GB at 11.50 MB/s
+2023-09-28 02:47:54.045    app     info:    [server-manager] Downloaded 3.12 GB/4.18 GB at 11.39 MB/s
+2023-09-28 02:47:55.057    app     info:    [server-manager] Downloaded 3.13 GB/4.18 GB at 16.84 MB/s
+2023-09-28 02:47:56.057    app     info:    [server-manager] Downloaded 3.14 GB/4.18 GB at 11.40 MB/s
+2023-09-28 02:47:57.057    app     info:    [server-manager] Downloaded 3.15 GB/4.18 GB at 11.40 MB/s
+2023-09-28 02:47:58.058    app     info:    [server-manager] Downloaded 3.16 GB/4.18 GB at 11.40 MB/s
+2023-09-28 02:47:59.059    app     info:    [server-manager] Downloaded 3.17 GB/4.18 GB at 11.44 MB/s
+2023-09-28 02:48:00.060    app     info:    [server-manager] Downloaded 3.18 GB/4.18 GB at 17.14 MB/s
+2023-09-28 02:48:01.070    app     info:    [server-manager] Downloaded 3.20 GB/4.18 GB at 11.44 MB/s
+2023-09-28 02:48:02.069    app     info:    [server-manager] Downloaded 3.21 GB/4.18 GB at 11.36 MB/s
+2023-09-28 02:48:03.069    app     info:    [server-manager] Downloaded 3.22 GB/4.18 GB at 11.34 MB/s
+2023-09-28 02:48:04.069    app     info:    [server-manager] Downloaded 3.23 GB/4.18 GB at 11.34 MB/s
+2023-09-28 02:48:04.684    app     info:    [self-update] Checking for a launcher update...
+2023-09-28 02:48:05.072    app     info:    [server-manager] Downloaded 3.24 GB/4.18 GB at 11.08 MB/s
+2023-09-28 02:48:05.107    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-09-28 02:48:06.073    app     info:    [server-manager] Downloaded 3.25 GB/4.18 GB at 11.44 MB/s
+2023-09-28 02:48:07.074    app     info:    [server-manager] Downloaded 3.26 GB/4.18 GB at 11.42 MB/s
+2023-09-28 02:48:08.076    app     info:    [server-manager] Downloaded 3.28 GB/4.18 GB at 11.39 MB/s
+2023-09-28 02:48:09.077    app     info:    [server-manager] Downloaded 3.29 GB/4.18 GB at 11.44 MB/s
+2023-09-28 02:48:10.078    app     info:    [server-manager] Downloaded 3.30 GB/4.18 GB at 11.44 MB/s
+2023-09-28 02:48:11.090    app     info:    [server-manager] Downloaded 3.31 GB/4.18 GB at 11.47 MB/s
+2023-09-28 02:48:12.104    app     info:    [server-manager] Downloaded 3.32 GB/4.18 GB at 5.96 MB/s
+2023-09-28 02:48:13.105    app     info:    [server-manager] Downloaded 3.33 GB/4.18 GB at 11.49 MB/s
+2023-09-28 02:48:14.106    app     info:    [server-manager] Downloaded 3.34 GB/4.18 GB at 11.47 MB/s
+2023-09-28 02:48:15.107    app     info:    [server-manager] Downloaded 3.36 GB/4.18 GB at 11.18 MB/s
+2023-09-28 02:48:16.108    app     info:    [server-manager] Downloaded 3.37 GB/4.18 GB at 11.41 MB/s
+2023-09-28 02:48:17.111    app     info:    [server-manager] Downloaded 3.38 GB/4.18 GB at 11.40 MB/s
+2023-09-28 02:48:18.113    app     info:    [server-manager] Downloaded 3.39 GB/4.18 GB at 11.48 MB/s
+2023-09-28 02:48:19.117    app     info:    [server-manager] Downloaded 3.40 GB/4.18 GB at 11.37 MB/s
+2023-09-28 02:48:20.118    app     info:    [server-manager] Downloaded 3.41 GB/4.18 GB at 6.09 MB/s
+2023-09-28 02:48:21.135    app     info:    [server-manager] Downloaded 3.42 GB/4.18 GB at 16.67 MB/s
+2023-09-28 02:48:22.145    app     info:    [server-manager] Downloaded 3.44 GB/4.18 GB at 11.24 MB/s
+2023-09-28 02:48:23.146    app     info:    [server-manager] Downloaded 3.45 GB/4.18 GB at 11.42 MB/s
+2023-09-28 02:48:24.149    app     info:    [server-manager] Downloaded 3.46 GB/4.18 GB at 11.27 MB/s
+2023-09-28 02:48:25.150    app     info:    [server-manager] Downloaded 3.47 GB/4.18 GB at 5.67 MB/s
+2023-09-28 02:48:26.151    app     info:    [server-manager] Downloaded 3.48 GB/4.18 GB at 11.41 MB/s
+2023-09-28 02:48:27.152    app     info:    [server-manager] Downloaded 3.49 GB/4.18 GB at 11.44 MB/s
+2023-09-28 02:48:28.153    app     info:    [server-manager] Downloaded 3.50 GB/4.18 GB at 16.71 MB/s
+2023-09-28 02:48:29.158    app     info:    [server-manager] Downloaded 3.52 GB/4.18 GB at 5.67 MB/s
+2023-09-28 02:48:30.170    app     info:    [server-manager] Downloaded 3.53 GB/4.18 GB at 17.03 MB/s
+2023-09-28 02:48:31.179    app     info:    [server-manager] Downloaded 3.54 GB/4.18 GB at 11.45 MB/s
+2023-09-28 02:48:32.191    app     info:    [server-manager] Downloaded 3.55 GB/4.18 GB at 11.58 MB/s
+2023-09-28 02:48:33.192    app     info:    [server-manager] Downloaded 3.56 GB/4.18 GB at 11.35 MB/s
+2023-09-28 02:48:34.193    app     info:    [server-manager] Downloaded 3.57 GB/4.18 GB at 11.47 MB/s
+2023-09-28 02:48:35.194    app     info:    [server-manager] Downloaded 3.58 GB/4.18 GB at 11.21 MB/s
+2023-09-28 02:48:36.195    app     info:    [server-manager] Downloaded 3.60 GB/4.18 GB at 11.37 MB/s
+2023-09-28 02:48:37.196    app     info:    [server-manager] Downloaded 3.61 GB/4.18 GB at 17.04 MB/s
+2023-09-28 02:48:38.197    app     info:    [server-manager] Downloaded 3.62 GB/4.18 GB at 11.39 MB/s
+2023-09-28 02:48:39.198    app     info:    [server-manager] Downloaded 3.63 GB/4.18 GB at 11.41 MB/s
+2023-09-28 02:48:40.199    app     info:    [server-manager] Downloaded 3.64 GB/4.18 GB at 11.44 MB/s
+2023-09-28 02:48:41.200    app     info:    [server-manager] Downloaded 3.65 GB/4.18 GB at 11.45 MB/s
+2023-09-28 02:48:42.203    app     info:    [server-manager] Downloaded 3.66 GB/4.18 GB at 11.40 MB/s
+2023-09-28 02:48:43.204    app     info:    [server-manager] Downloaded 3.68 GB/4.18 GB at 11.41 MB/s
+2023-09-28 02:48:44.205    app     info:    [server-manager] Downloaded 3.69 GB/4.18 GB at 11.45 MB/s
+2023-09-28 02:48:45.217    app     info:    [server-manager] Downloaded 3.70 GB/4.18 GB at 11.34 MB/s
+2023-09-28 02:48:46.218    app     info:    [server-manager] Downloaded 3.71 GB/4.18 GB at 11.39 MB/s
+2023-09-28 02:48:47.220    app     info:    [server-manager] Downloaded 3.72 GB/4.18 GB at 16.77 MB/s
+2023-09-28 02:48:48.224    app     info:    [server-manager] Downloaded 3.73 GB/4.18 GB at 11.44 MB/s
+2023-09-28 02:48:49.225    app     info:    [server-manager] Downloaded 3.74 GB/4.18 GB at 11.48 MB/s
+2023-09-28 02:48:50.226    app     info:    [server-manager] Downloaded 3.76 GB/4.18 GB at 17.07 MB/s
+2023-09-28 02:48:51.227    app     info:    [server-manager] Downloaded 3.77 GB/4.18 GB at 11.43 MB/s
+2023-09-28 02:48:51.616    app     info:    [ipc-requests] Opening external link: https://engine.extccp.com/c
+2023-09-28 02:48:52.228    app     info:    [server-manager] Downloaded 3.78 GB/4.18 GB at 11.44 MB/s
+2023-09-28 02:48:53.229    app     info:    [server-manager] Downloaded 3.79 GB/4.18 GB at 10.98 MB/s
+2023-09-28 02:48:54.230    app     info:    [server-manager] Downloaded 3.80 GB/4.18 GB at 10.11 MB/s
+2023-09-28 02:48:55.231    app     info:    [server-manager] Downloaded 3.81 GB/4.18 GB at 11.45 MB/s
+2023-09-28 02:48:56.232    app     info:    [server-manager] Downloaded 3.82 GB/4.18 GB at 10.40 MB/s
+2023-09-28 02:48:57.233    app     info:    [server-manager] Downloaded 3.83 GB/4.18 GB at 17.10 MB/s
+2023-09-28 02:48:58.234    app     info:    [server-manager] Downloaded 3.85 GB/4.18 GB at 11.40 MB/s
+2023-09-28 02:48:59.235    app     info:    [server-manager] Downloaded 3.86 GB/4.18 GB at 11.34 MB/s
+2023-09-28 02:49:00.237    app     info:    [server-manager] Downloaded 3.87 GB/4.18 GB at 11.02 MB/s
+2023-09-28 02:49:01.252    app     info:    [server-manager] Downloaded 3.88 GB/4.18 GB at 5.90 MB/s
+2023-09-28 02:49:02.253    app     info:    [server-manager] Downloaded 3.89 GB/4.18 GB at 16.70 MB/s
+2023-09-28 02:49:03.265    app     info:    [server-manager] Downloaded 3.90 GB/4.18 GB at 5.67 MB/s
+2023-09-28 02:49:04.277    app     info:    [server-manager] Downloaded 3.91 GB/4.18 GB at 16.96 MB/s
+2023-09-28 02:49:05.285    app     info:    [server-manager] Downloaded 3.93 GB/4.18 GB at 5.64 MB/s
+2023-09-28 02:49:06.287    app     info:    [server-manager] Downloaded 3.94 GB/4.18 GB at 11.47 MB/s
+2023-09-28 02:49:07.299    app     info:    [server-manager] Downloaded 3.95 GB/4.18 GB at 16.60 MB/s
+2023-09-28 02:49:08.311    app     info:    [server-manager] Downloaded 3.96 GB/4.18 GB at 11.40 MB/s
+2023-09-28 02:49:09.312    app     info:    [server-manager] Downloaded 3.97 GB/4.18 GB at 11.45 MB/s
+2023-09-28 02:49:10.314    app     info:    [server-manager] Downloaded 3.98 GB/4.18 GB at 11.33 MB/s
+2023-09-28 02:49:11.315    app     info:    [server-manager] Downloaded 3.99 GB/4.18 GB at 11.44 MB/s
+2023-09-28 02:49:12.316    app     info:    [server-manager] Downloaded 4.01 GB/4.18 GB at 11.45 MB/s
+2023-09-28 02:49:13.317    app     info:    [server-manager] Downloaded 4.02 GB/4.18 GB at 17.10 MB/s
+2023-09-28 02:49:14.318    app     info:    [server-manager] Downloaded 4.03 GB/4.18 GB at 11.45 MB/s
+2023-09-28 02:49:15.318    app     info:    [server-manager] Downloaded 4.04 GB/4.18 GB at 11.41 MB/s
+2023-09-28 02:49:16.320    app     info:    [server-manager] Downloaded 4.05 GB/4.18 GB at 11.47 MB/s
+2023-09-28 02:49:17.321    app     info:    [server-manager] Downloaded 4.06 GB/4.18 GB at 17.10 MB/s
+2023-09-28 02:49:18.321    app     info:    [server-manager] Downloaded 4.07 GB/4.18 GB at 11.31 MB/s
+2023-09-28 02:49:19.322    app     info:    [server-manager] Downloaded 4.09 GB/4.18 GB at 11.34 MB/s
+2023-09-28 02:49:20.323    app     info:    [server-manager] Downloaded 4.10 GB/4.18 GB at 17.14 MB/s
+2023-09-28 02:49:21.323    app     info:    [server-manager] Downloaded 4.11 GB/4.18 GB at 11.47 MB/s
+2023-09-28 02:49:22.325    app     info:    [server-manager] Downloaded 4.12 GB/4.18 GB at 11.35 MB/s
+2023-09-28 02:49:23.329    app     info:    [server-manager] Downloaded 4.13 GB/4.18 GB at 11.40 MB/s
+2023-09-28 02:49:24.341    app     info:    [server-manager] Downloaded 4.14 GB/4.18 GB at 11.39 MB/s
+2023-09-28 02:49:25.342    app     info:    [server-manager] Downloaded 4.15 GB/4.18 GB at 11.39 MB/s
+2023-09-28 02:49:26.345    app     info:    [server-manager] Downloaded 4.17 GB/4.18 GB at 11.39 MB/s
+2023-09-28 02:49:27.346    app     info:    [server-manager] Downloaded 4.18 GB/4.18 GB at 17.19 MB/s
+2023-09-28 02:49:27.681    app     info:    [download-from-manifest] Downloaded 399 files (4.18 GB) in 6 minutes, 11.206 seconds
+2023-09-28 02:49:27.682    app     info:    [download-from-manifest] Average download speed: 11.27 MB/s
+2023-09-28 02:49:27.682    app     info:    [server-manager] Unpacking prefetch chunks
+2023-09-28 02:49:28.347    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 34/47834
+2023-09-28 02:49:29.495    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 72/47834
+2023-09-28 02:49:30.519    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 110/47834
+2023-09-28 02:49:31.538    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 148/47834
+2023-09-28 02:49:32.579    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 182/47834
+2023-09-28 02:49:33.619    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 226/47834
+2023-09-28 02:49:34.651    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 281/47834
+2023-09-28 02:49:35.696    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 325/47834
+2023-09-28 02:49:36.756    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 363/47834
+2023-09-28 02:49:37.793    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 400/47834
+2023-09-28 02:49:38.817    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 432/47834
+2023-09-28 02:49:39.866    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 464/47834
+2023-09-28 02:49:40.908    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 500/47834
+2023-09-28 02:49:41.929    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 537/47834
+2023-09-28 02:49:42.948    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 569/47834
+2023-09-28 02:49:43.978    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 610/47834
+2023-09-28 02:49:45.000    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 664/47834
+2023-09-28 02:49:46.031    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 697/47834
+2023-09-28 02:49:47.065    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 727/47834
+2023-09-28 02:49:48.077    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 760/47834
+2023-09-28 02:49:49.128    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 796/47834
+2023-09-28 02:49:50.137    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 828/47834
+2023-09-28 02:49:51.153    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 864/47834
+2023-09-28 02:49:52.188    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 1910/47834
+2023-09-28 02:49:53.188    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 2781/47834
+2023-09-28 02:49:54.189    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 3806/47834
+2023-09-28 02:49:55.191    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 4817/47834
+2023-09-28 02:49:56.196    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 5839/47834
+2023-09-28 02:49:57.197    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 6812/47834
+2023-09-28 02:49:58.140    app     info:    [ipc-requests] Handling requests in the background
+2023-09-28 02:49:58.206    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 7809/47834
+2023-09-28 02:49:59.141    app     info:    [ipc-requests] No longer handling requests in the background
+2023-09-28 02:49:59.208    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 8915/47834
+2023-09-28 02:50:00.215    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 10082/47834
+2023-09-28 02:50:01.216    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 11038/47834
+2023-09-28 02:50:02.220    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 12154/47834
+2023-09-28 02:50:03.276    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 12465/47834
+2023-09-28 02:50:04.309    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 12470/47834
+2023-09-28 02:50:05.300    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 12470/47834
+2023-09-28 02:50:06.300    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 12475/47834
+2023-09-28 02:50:11.765    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 12475/47834
+2023-09-28 02:50:12.766    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 12480/47834
+2023-09-28 02:50:14.337    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 12481/47834
+2023-09-28 02:50:17.597    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 12481/47834
+2023-09-28 02:50:18.915    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 12482/47834
+2023-09-28 02:50:19.915    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 13064/47834
+2023-09-28 02:50:20.916    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 13291/47834
+2023-09-28 02:50:22.012    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 13647/47834
+2023-09-28 02:50:23.023    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 13974/47834
+2023-09-28 02:50:24.036    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 14792/47834
+2023-09-28 02:50:25.054    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 15198/47834
+2023-09-28 02:50:26.088    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 15944/47834
+2023-09-28 02:50:27.089    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 16818/47834
+2023-09-28 02:50:28.092    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 17530/47834
+2023-09-28 02:50:29.309    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 18496/47834
+2023-09-28 02:50:30.310    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 19467/47834
+2023-09-28 02:50:31.320    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 20355/47834
+2023-09-28 02:50:32.320    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 20891/47834
+2023-09-28 02:50:33.529    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 20902/47834
+2023-09-28 02:50:34.529    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 21077/47834
+2023-09-28 02:50:35.593    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 21297/47834
+2023-09-28 02:50:36.638    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 21588/47834
+2023-09-28 02:50:37.641    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 21994/47834
+2023-09-28 02:50:38.649    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 22401/47834
+2023-09-28 02:50:39.658    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 23418/47834
+2023-09-28 02:50:40.660    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 23997/47834
+2023-09-28 02:50:41.669    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 24042/47834
+2023-09-28 02:50:42.677    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 24094/47834
+2023-09-28 02:50:43.699    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 24141/47834
+2023-09-28 02:50:44.723    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 24639/47834
+2023-09-28 02:50:45.734    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 25154/47834
+2023-09-28 02:50:46.757    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 25921/47834
+2023-09-28 02:50:47.758    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 26410/47834
+2023-09-28 02:50:48.772    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 27439/47834
+2023-09-28 02:50:49.774    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 28342/47834
+2023-09-28 02:50:50.776    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 29049/47834
+2023-09-28 02:50:51.777    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 29542/47834
+2023-09-28 02:50:52.787    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 30064/47834
+2023-09-28 02:50:53.803    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 30470/47834
+2023-09-28 02:50:54.816    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 31152/47834
+2023-09-28 02:50:55.818    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 31799/47834
+2023-09-28 02:50:56.829    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 32493/47834
+2023-09-28 02:50:57.849    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 33194/47834
+2023-09-28 02:50:58.850    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 33741/47834
+2023-09-28 02:50:59.878    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 34251/47834
+2023-09-28 02:51:00.879    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 34958/47834
+2023-09-28 02:51:01.889    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 35993/47834
+2023-09-28 02:51:02.890    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 36583/47834
+2023-09-28 02:51:03.893    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 37341/47834
+2023-09-28 02:51:04.901    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 37454/47834
+2023-09-28 02:51:05.902    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 38282/47834
+2023-09-28 02:51:06.913    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 39184/47834
+2023-09-28 02:51:07.918    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 40130/47834
+2023-09-28 02:51:08.919    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 40986/47834
+2023-09-28 02:51:09.920    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 41870/47834
+2023-09-28 02:51:10.931    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 42569/47834
+2023-09-28 02:51:11.932    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 43368/47834
+2023-09-28 02:51:12.933    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 44178/47834
+2023-09-28 02:51:13.943    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 44988/47834
+2023-09-28 02:51:14.948    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 45617/47834
+2023-09-28 02:51:16.121    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 45745/47834
+2023-09-28 02:51:17.123    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 45983/47834
+2023-09-28 02:51:18.140    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 46680/47834
+2023-09-28 02:51:19.148    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 46777/47834
+2023-09-28 02:51:20.168    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 46784/47834
+2023-09-28 02:51:21.191    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 46785/47834
+2023-09-28 02:51:22.216    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 47273/47834
+2023-09-28 02:51:23.228    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 47439/47834
+2023-09-28 02:51:24.240    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 47635/47834
+2023-09-28 02:51:25.323    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 47637/47834
+2023-09-28 02:51:26.323    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 47640/47834
+2023-09-28 02:51:27.492    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 47643/47834
+2023-09-28 02:51:28.538    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 47757/47834
+2023-09-28 02:51:29.566    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 47808/47834
+2023-09-28 02:51:30.195    app     info:    [chunk-unpacker] Unpacked chunks, and wrote 47834 files (7.33 GB) in 2 minutes, 2.512 seconds
+2023-09-28 02:51:30.195    app     info:    [chunk-unpacker] Average unpacking speed: 59.8 MB/s
+2023-09-28 02:51:30.342    app     info:    [manifest] Excluded 3183 files from the manifest, leaving 0 entries
+2023-09-28 02:51:30.342    app     info:    [server-manager] Downloading 0 prefetch files (0 B)
+2023-09-28 02:51:30.343    app     warn:    [download-from-manifest] The manifest contained no entries to download    { cdn: 2 }
+2023-09-28 02:51:30.345    app     info:    [download-from-manifest] Downloaded 0 files (0.00 B) in Unknown time
+2023-09-28 02:51:30.345    app     info:    [download-from-manifest] Average download speed: 0.00 B/s
+2023-09-28 02:51:30.830    app     info:    [manifest] Excluded 44649 files from the manifest, leaving 58758 entries
+2023-09-28 02:51:30.831    app     info:    [server-manager] Downloading 58758 prefetch files (28.3 GB)
+2023-09-28 02:51:30.832    app     info:    [download-from-manifest] Preparing to download 58758 files    { cdn: 2, concurrent: 10 }
+2023-09-28 02:51:32.047    app     info:    [server-manager] Downloaded 0.00 B/0.00 B at 0.00 B/s
+2023-09-28 02:51:32.095    app     info:    [server-manager] Downloaded 0.00 B/0.00 B at 0.00 B/s
+2023-09-28 02:51:33.095    app     info:    [server-manager] Downloaded 8.27 MB/28.34 GB at 5.37 MB/s
+2023-09-28 02:51:34.096    app     info:    [server-manager] Downloaded 19.48 MB/28.34 GB at 11.04 MB/s
+2023-09-28 02:51:35.097    app     info:    [server-manager] Downloaded 30.88 MB/28.34 GB at 11.40 MB/s
+2023-09-28 02:51:36.098    app     info:    [server-manager] Downloaded 42.31 MB/28.34 GB at 11.35 MB/s
+2023-09-28 02:51:37.100    app     info:    [server-manager] Downloaded 53.68 MB/28.34 GB at 11.33 MB/s
+2023-09-28 02:51:38.101    app     info:    [server-manager] Downloaded 65.12 MB/28.34 GB at 11.25 MB/s
+2023-09-28 02:51:39.107    app     info:    [server-manager] Downloaded 76.51 MB/28.34 GB at 11.37 MB/s
+2023-09-28 02:51:40.108    app     info:    [server-manager] Downloaded 87.88 MB/28.34 GB at 11.39 MB/s
+2023-09-28 02:51:41.110    app     info:    [server-manager] Downloaded 99.76 MB/28.34 GB at 15.82 MB/s
+2023-09-28 02:51:42.151    app     info:    [server-manager] Downloaded 111.18 MB/28.34 GB at 11.43 MB/s
+2023-09-28 02:51:43.152    app     info:    [server-manager] Downloaded 122.56 MB/28.34 GB at 17.10 MB/s
+2023-09-28 02:51:44.153    app     info:    [server-manager] Downloaded 133.89 MB/28.34 GB at 11.48 MB/s
+2023-09-28 02:51:45.154    app     info:    [server-manager] Downloaded 145.26 MB/28.34 GB at 11.39 MB/s
+2023-09-28 02:51:46.155    app     info:    [server-manager] Downloaded 156.64 MB/28.34 GB at 5.63 MB/s
+2023-09-28 02:51:47.156    app     info:    [server-manager] Downloaded 168.39 MB/28.34 GB at 11.17 MB/s
+2023-09-28 02:51:48.190    app     info:    [server-manager] Downloaded 179.81 MB/28.34 GB at 11.49 MB/s
+2023-09-28 02:51:49.191    app     info:    [server-manager] Downloaded 191.23 MB/28.34 GB at 11.41 MB/s
+2023-09-28 02:51:50.193    app     info:    [server-manager] Downloaded 202.86 MB/28.34 GB at 10.99 MB/s
+2023-09-28 02:51:51.243    app     info:    [server-manager] Downloaded 214.24 MB/28.34 GB at 6.80 MB/s
+2023-09-28 02:51:52.268    app     info:    [server-manager] Downloaded 226.22 MB/28.34 GB at 12.03 MB/s
+2023-09-28 02:51:53.269    app     info:    [server-manager] Downloaded 237.45 MB/28.34 GB at 5.88 MB/s
+2023-09-28 02:51:54.270    app     info:    [server-manager] Downloaded 248.87 MB/28.34 GB at 10.88 MB/s
+2023-09-28 02:51:55.272    app     info:    [server-manager] Downloaded 260.27 MB/28.34 GB at 11.36 MB/s
+2023-09-28 02:51:56.274    app     info:    [server-manager] Downloaded 271.65 MB/28.34 GB at 17.08 MB/s
+2023-09-28 02:51:57.275    app     info:    [server-manager] Downloaded 283.01 MB/28.34 GB at 11.44 MB/s
+2023-09-28 02:51:58.277    app     info:    [server-manager] Downloaded 294.33 MB/28.34 GB at 11.29 MB/s
+2023-09-28 02:51:59.279    app     info:    [server-manager] Downloaded 305.56 MB/28.34 GB at 17.02 MB/s
+2023-09-28 02:52:00.316    app     info:    [server-manager] Downloaded 317.81 MB/28.34 GB at 11.25 MB/s
+2023-09-28 02:52:01.346    app     info:    [server-manager] Downloaded 329.22 MB/28.34 GB at 11.40 MB/s
+2023-09-28 02:52:02.347    app     info:    [server-manager] Downloaded 340.61 MB/28.34 GB at 11.40 MB/s
+2023-09-28 02:52:03.348    app     info:    [server-manager] Downloaded 351.84 MB/28.34 GB at 5.73 MB/s
+2023-09-28 02:52:04.349    app     info:    [server-manager] Downloaded 363.21 MB/28.34 GB at 11.34 MB/s
+2023-09-28 02:52:05.351    app     info:    [server-manager] Downloaded 374.48 MB/28.34 GB at 11.18 MB/s
+2023-09-28 02:52:06.352    app     info:    [server-manager] Downloaded 385.89 MB/28.34 GB at 11.44 MB/s
+2023-09-28 02:52:07.353    app     info:    [server-manager] Downloaded 397.28 MB/28.34 GB at 11.40 MB/s
+2023-09-28 02:52:08.354    app     info:    [server-manager] Downloaded 409.23 MB/28.34 GB at 15.07 MB/s
+2023-09-28 02:52:09.423    app     info:    [server-manager] Downloaded 420.00 MB/28.34 GB at 14.88 MB/s
+2023-09-28 02:52:10.423    app     info:    [server-manager] Downloaded 431.32 MB/28.34 GB at 11.33 MB/s
+2023-09-28 02:52:11.424    app     info:    [server-manager] Downloaded 442.68 MB/28.34 GB at 11.36 MB/s
+2023-09-28 02:52:12.425    app     info:    [server-manager] Downloaded 454.12 MB/28.34 GB at 11.45 MB/s
+2023-09-28 02:52:13.426    app     info:    [server-manager] Downloaded 465.44 MB/28.34 GB at 11.39 MB/s
+2023-09-28 02:52:14.427    app     info:    [server-manager] Downloaded 476.85 MB/28.34 GB at 11.31 MB/s
+2023-09-28 02:52:15.429    app     info:    [server-manager] Downloaded 488.25 MB/28.34 GB at 11.39 MB/s
+2023-09-28 02:52:16.430    app     info:    [server-manager] Downloaded 499.63 MB/28.34 GB at 17.04 MB/s
+2023-09-28 02:52:17.431    app     info:    [server-manager] Downloaded 510.95 MB/28.34 GB at 5.75 MB/s
+2023-09-28 02:52:18.480    app     info:    [server-manager] Downloaded 522.95 MB/28.34 GB at 16.78 MB/s
+2023-09-28 02:52:19.481    app     info:    [server-manager] Downloaded 534.36 MB/28.34 GB at 11.49 MB/s
+2023-09-28 02:52:20.482    app     info:    [server-manager] Downloaded 545.48 MB/28.34 GB at 17.10 MB/s
+2023-09-28 02:52:21.501    app     info:    [server-manager] Downloaded 557.33 MB/28.34 GB at 11.93 MB/s
+2023-09-28 02:52:22.501    app     info:    [server-manager] Downloaded 568.75 MB/28.34 GB at 5.74 MB/s
+2023-09-28 02:52:23.502    app     info:    [server-manager] Downloaded 579.97 MB/28.34 GB at 11.10 MB/s
+2023-09-28 02:52:24.504    app     info:    [server-manager] Downloaded 591.45 MB/28.34 GB at 11.52 MB/s
+2023-09-28 02:52:25.505    app     info:    [server-manager] Downloaded 603.25 MB/28.34 GB at 15.68 MB/s
+2023-09-28 02:52:26.544    app     info:    [server-manager] Downloaded 614.65 MB/28.34 GB at 11.42 MB/s
+2023-09-28 02:52:27.546    app     info:    [server-manager] Downloaded 626.04 MB/28.34 GB at 17.07 MB/s
+2023-09-28 02:52:28.547    app     info:    [server-manager] Downloaded 637.42 MB/28.34 GB at 17.07 MB/s
+2023-09-28 02:52:29.548    app     info:    [server-manager] Downloaded 648.73 MB/28.34 GB at 11.27 MB/s
+2023-09-28 02:52:30.549    app     info:    [server-manager] Downloaded 660.12 MB/28.34 GB at 17.08 MB/s
+2023-09-28 02:52:31.550    app     info:    [server-manager] Downloaded 671.42 MB/28.34 GB at 17.08 MB/s
+2023-09-28 02:52:32.590    app     info:    [server-manager] Downloaded 683.33 MB/28.34 GB at 11.57 MB/s
+2023-09-28 02:52:33.591    app     info:    [server-manager] Downloaded 694.77 MB/28.34 GB at 10.48 MB/s
+2023-09-28 02:52:34.617    app     info:    [server-manager] Downloaded 706.20 MB/28.34 GB at 11.45 MB/s
+2023-09-28 02:52:35.619    app     info:    [server-manager] Downloaded 717.63 MB/28.34 GB at 11.40 MB/s
+2023-09-28 02:52:36.620    app     info:    [server-manager] Downloaded 729.01 MB/28.34 GB at 5.70 MB/s
+2023-09-28 02:52:37.622    app     info:    [server-manager] Downloaded 740.39 MB/28.34 GB at 11.39 MB/s
+2023-09-28 02:52:38.623    app     info:    [server-manager] Downloaded 751.80 MB/28.34 GB at 11.48 MB/s
+2023-09-28 02:52:39.624    app     info:    [server-manager] Downloaded 763.24 MB/28.34 GB at 11.41 MB/s
+2023-09-28 02:52:40.625    app     info:    [server-manager] Downloaded 774.59 MB/28.34 GB at 11.34 MB/s
+2023-09-28 02:52:41.626    app     info:    [server-manager] Downloaded 785.85 MB/28.34 GB at 11.41 MB/s
+2023-09-28 02:52:42.663    app     info:    [server-manager] Downloaded 797.77 MB/28.34 GB at 11.68 MB/s
+2023-09-28 02:52:43.663    app     info:    [server-manager] Downloaded 809.08 MB/28.34 GB at 16.97 MB/s
+2023-09-28 02:52:44.669    app     info:    [server-manager] Downloaded 820.47 MB/28.34 GB at 10.66 MB/s
+2023-09-28 02:52:45.670    app     info:    [server-manager] Downloaded 831.60 MB/28.34 GB at 17.19 MB/s
+2023-09-28 02:52:46.689    app     info:    [server-manager] Downloaded 843.49 MB/28.34 GB at 12.00 MB/s
+2023-09-28 02:52:47.690    app     info:    [server-manager] Downloaded 854.89 MB/28.34 GB at 17.13 MB/s
+2023-09-28 02:52:48.691    app     info:    [server-manager] Downloaded 866.32 MB/28.34 GB at 11.47 MB/s
+2023-09-28 02:52:49.704    app     info:    [server-manager] Downloaded 877.72 MB/28.34 GB at 11.39 MB/s
+2023-09-28 02:52:50.704    app     info:    [server-manager] Downloaded 889.21 MB/28.34 GB at 11.60 MB/s
+2023-09-28 02:52:51.706    app     info:    [server-manager] Downloaded 900.61 MB/28.34 GB at 11.38 MB/s
+2023-09-28 02:52:52.708    app     info:    [server-manager] Downloaded 911.89 MB/28.34 GB at 17.05 MB/s
+2023-09-28 02:52:53.709    app     info:    [server-manager] Downloaded 923.24 MB/28.34 GB at 11.53 MB/s
+2023-09-28 02:52:54.710    app     info:    [server-manager] Downloaded 934.36 MB/28.34 GB at 11.15 MB/s
+2023-09-28 02:52:55.712    app     info:    [server-manager] Downloaded 945.16 MB/28.34 GB at 10.69 MB/s
+2023-09-28 02:52:56.712    app     info:    [server-manager] Downloaded 954.64 MB/28.34 GB at 9.63 MB/s
+2023-09-28 02:52:57.714    app     info:    [server-manager] Downloaded 965.38 MB/28.34 GB at 16.12 MB/s
+2023-09-28 02:52:58.715    app     info:    [server-manager] Downloaded 976.60 MB/28.34 GB at 11.08 MB/s
+2023-09-28 02:52:59.742    app     info:    [server-manager] Downloaded 988.27 MB/28.34 GB at 11.11 MB/s
+2023-09-28 02:53:00.743    app     info:    [server-manager] Downloaded 999.68 MB/28.34 GB at 6.86 MB/s
+2023-09-28 02:53:01.744    app     info:    [server-manager] Downloaded 1.01 GB/28.34 GB at 17.15 MB/s
+2023-09-28 02:53:02.756    app     info:    [server-manager] Downloaded 1.02 GB/28.34 GB at 12.49 MB/s
+2023-09-28 02:53:03.759    app     info:    [server-manager] Downloaded 1.03 GB/28.34 GB at 4.84 MB/s
+2023-09-28 02:53:04.768    app     info:    [server-manager] Downloaded 1.05 GB/28.34 GB at 11.39 MB/s
+2023-09-28 02:53:05.107    app     info:    [self-update] Checking for a launcher update...
+2023-09-28 02:53:05.769    app     info:    [server-manager] Downloaded 1.06 GB/28.34 GB at 11.28 MB/s
+2023-09-28 02:53:05.935    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-09-28 02:53:06.770    app     info:    [server-manager] Downloaded 1.07 GB/28.34 GB at 11.38 MB/s
+2023-09-28 02:53:07.771    app     info:    [server-manager] Downloaded 1.08 GB/28.34 GB at 11.43 MB/s
+2023-09-28 02:53:08.772    app     info:    [server-manager] Downloaded 1.09 GB/28.34 GB at 17.09 MB/s
+2023-09-28 02:53:09.773    app     info:    [server-manager] Downloaded 1.10 GB/28.34 GB at 11.44 MB/s
+2023-09-28 02:53:10.774    app     info:    [server-manager] Downloaded 1.11 GB/28.34 GB at 17.12 MB/s
+2023-09-28 02:53:11.775    app     info:    [server-manager] Downloaded 1.13 GB/28.34 GB at 16.87 MB/s
+2023-09-28 02:53:12.775    app     info:    [server-manager] Downloaded 1.14 GB/28.34 GB at 5.68 MB/s
+2023-09-28 02:53:13.776    app     info:    [server-manager] Downloaded 1.15 GB/28.34 GB at 10.61 MB/s
+2023-09-28 02:53:14.778    app     info:    [server-manager] Downloaded 1.16 GB/28.34 GB at 17.08 MB/s
+2023-09-28 02:53:15.779    app     info:    [server-manager] Downloaded 1.17 GB/28.34 GB at 5.69 MB/s
+2023-09-28 02:53:16.781    app     info:    [server-manager] Downloaded 1.18 GB/28.34 GB at 11.41 MB/s
+2023-09-28 02:53:17.782    app     info:    [server-manager] Downloaded 1.19 GB/28.34 GB at 11.43 MB/s
+2023-09-28 02:53:18.782    app     info:    [server-manager] Downloaded 1.20 GB/28.34 GB at 10.22 MB/s
+2023-09-28 02:53:19.827    app     info:    [server-manager] Downloaded 1.22 GB/28.34 GB at 11.40 MB/s
+2023-09-28 02:53:20.828    app     info:    [server-manager] Downloaded 1.23 GB/28.34 GB at 11.33 MB/s
+2023-09-28 02:53:21.830    app     info:    [server-manager] Downloaded 1.24 GB/28.34 GB at 11.44 MB/s
+2023-09-28 02:53:22.831    app     info:    [server-manager] Downloaded 1.25 GB/28.34 GB at 11.40 MB/s
+2023-09-28 02:53:23.832    app     info:    [server-manager] Downloaded 1.26 GB/28.34 GB at 11.36 MB/s
+2023-09-28 02:53:24.838    app     info:    [server-manager] Downloaded 1.27 GB/28.34 GB at 11.37 MB/s
+2023-09-28 02:53:25.839    app     info:    [server-manager] Downloaded 1.28 GB/28.34 GB at 11.33 MB/s
+2023-09-28 02:53:26.840    app     info:    [server-manager] Downloaded 1.30 GB/28.34 GB at 17.07 MB/s
+2023-09-28 02:53:27.841    app     info:    [server-manager] Downloaded 1.31 GB/28.34 GB at 11.45 MB/s
+2023-09-28 02:53:28.841    app     info:    [server-manager] Downloaded 1.32 GB/28.34 GB at 11.40 MB/s
+2023-09-28 02:53:29.843    app     info:    [server-manager] Downloaded 1.33 GB/28.34 GB at 11.34 MB/s
+2023-09-28 02:53:30.844    app     info:    [server-manager] Downloaded 1.34 GB/28.34 GB at 11.41 MB/s
+2023-09-28 02:53:31.845    app     info:    [server-manager] Downloaded 1.35 GB/28.34 GB at 17.09 MB/s
+2023-09-28 02:53:32.855    app     info:    [server-manager] Downloaded 1.36 GB/28.34 GB at 12.58 MB/s
+2023-09-28 02:53:33.856    app     info:    [server-manager] Downloaded 1.38 GB/28.34 GB at 11.08 MB/s
+2023-09-28 02:53:34.868    app     info:    [server-manager] Downloaded 1.39 GB/28.34 GB at 10.35 MB/s
+2023-09-28 02:53:35.874    app     info:    [server-manager] Downloaded 1.40 GB/28.34 GB at 11.43 MB/s
+2023-09-28 02:53:36.875    app     info:    [server-manager] Downloaded 1.41 GB/28.34 GB at 6.47 MB/s
+2023-09-28 02:53:37.880    app     info:    [server-manager] Downloaded 1.42 GB/28.34 GB at 12.29 MB/s
+2023-09-28 02:53:38.882    app     info:    [server-manager] Downloaded 1.43 GB/28.34 GB at 14.12 MB/s
+2023-09-28 02:53:39.914    app     info:    [server-manager] Downloaded 1.44 GB/28.34 GB at 17.09 MB/s
+2023-09-28 02:53:40.915    app     info:    [server-manager] Downloaded 1.45 GB/28.34 GB at 5.35 MB/s
+2023-09-28 02:53:41.983    app     info:    [server-manager] Downloaded 1.46 GB/28.34 GB at 10.39 MB/s
+2023-09-28 02:53:42.984    app     info:    [server-manager] Downloaded 1.47 GB/28.34 GB at 10.50 MB/s
+2023-09-28 02:53:43.984    app     info:    [server-manager] Downloaded 1.49 GB/28.34 GB at 5.31 MB/s
+2023-09-28 02:53:44.986    app     info:    [server-manager] Downloaded 1.50 GB/28.34 GB at 10.73 MB/s
+2023-09-28 02:53:45.987    app     info:    [server-manager] Downloaded 1.51 GB/28.34 GB at 10.14 MB/s
+2023-09-28 02:53:47.020    app     info:    [server-manager] Downloaded 1.52 GB/28.34 GB at 4.41 MB/s
+2023-09-28 02:53:48.038    app     info:    [server-manager] Downloaded 1.53 GB/28.34 GB at 11.32 MB/s
+2023-09-28 02:53:49.038    app     info:    [server-manager] Downloaded 1.54 GB/28.34 GB at 12.36 MB/s
+2023-09-28 02:53:50.039    app     info:    [server-manager] Downloaded 1.55 GB/28.34 GB at 12.42 MB/s
+2023-09-28 02:53:51.044    app     info:    [server-manager] Downloaded 1.56 GB/28.34 GB at 11.24 MB/s
+2023-09-28 02:53:52.051    app     info:    [server-manager] Downloaded 1.58 GB/28.34 GB at 10.28 MB/s
+2023-09-28 02:53:53.087    app     info:    [server-manager] Downloaded 1.59 GB/28.34 GB at 11.45 MB/s
+2023-09-28 02:53:54.088    app     info:    [server-manager] Downloaded 1.60 GB/28.34 GB at 12.25 MB/s
+2023-09-28 02:53:55.090    app     info:    [server-manager] Downloaded 1.61 GB/28.34 GB at 11.40 MB/s
+2023-09-28 02:53:56.091    app     info:    [server-manager] Downloaded 1.62 GB/28.34 GB at 11.44 MB/s
+2023-09-28 02:53:57.108    app     info:    [server-manager] Downloaded 1.63 GB/28.34 GB at 5.72 MB/s
+2023-09-28 02:53:58.109    app     info:    [server-manager] Downloaded 1.64 GB/28.34 GB at 11.74 MB/s
+2023-09-28 02:53:59.110    app     info:    [server-manager] Downloaded 1.66 GB/28.34 GB at 15.19 MB/s
+2023-09-28 02:54:00.171    app     info:    [server-manager] Downloaded 1.67 GB/28.34 GB at 11.38 MB/s
+2023-09-28 02:54:01.172    app     info:    [server-manager] Downloaded 1.68 GB/28.34 GB at 11.42 MB/s
+2023-09-28 02:54:02.173    app     info:    [server-manager] Downloaded 1.69 GB/28.34 GB at 11.33 MB/s
+2023-09-28 02:54:03.174    app     info:    [server-manager] Downloaded 1.70 GB/28.34 GB at 10.99 MB/s
+2023-09-28 02:54:04.175    app     info:    [server-manager] Downloaded 1.71 GB/28.34 GB at 5.41 MB/s
+2023-09-28 02:54:05.199    app     info:    [server-manager] Downloaded 1.73 GB/28.34 GB at 11.33 MB/s
+2023-09-28 02:54:06.199    app     info:    [server-manager] Downloaded 1.74 GB/28.34 GB at 5.65 MB/s
+2023-09-28 02:54:07.213    app     info:    [server-manager] Downloaded 1.75 GB/28.34 GB at 12.29 MB/s
+2023-09-28 02:54:08.214    app     info:    [server-manager] Downloaded 1.76 GB/28.34 GB at 11.18 MB/s
+2023-09-28 02:54:09.278    app     info:    [server-manager] Downloaded 1.77 GB/28.34 GB at 17.36 MB/s
+2023-09-28 02:54:10.325    app     info:    [server-manager] Downloaded 1.78 GB/28.34 GB at 11.28 MB/s
+2023-09-28 02:54:11.326    app     info:    [server-manager] Downloaded 1.79 GB/28.34 GB at 11.00 MB/s
+2023-09-28 02:54:12.343    app     info:    [server-manager] Downloaded 1.81 GB/28.34 GB at 10.40 MB/s
+2023-09-28 02:54:13.398    app     info:    [server-manager] Downloaded 1.82 GB/28.34 GB at 17.22 MB/s
+2023-09-28 02:54:14.400    app     info:    [server-manager] Downloaded 1.83 GB/28.34 GB at 18.20 MB/s
+2023-09-28 02:54:15.401    app     info:    [server-manager] Downloaded 1.84 GB/28.34 GB at 11.34 MB/s
+2023-09-28 02:54:16.402    app     info:    [server-manager] Downloaded 1.85 GB/28.34 GB at 11.20 MB/s
+2023-09-28 02:54:17.407    app     info:    [server-manager] Downloaded 1.86 GB/28.34 GB at 11.45 MB/s
+2023-09-28 02:54:18.410    app     info:    [server-manager] Downloaded 1.87 GB/28.34 GB at 17.18 MB/s
+2023-09-28 02:54:19.412    app     info:    [server-manager] Downloaded 1.89 GB/28.34 GB at 11.45 MB/s
+2023-09-28 02:54:20.417    app     info:    [server-manager] Downloaded 1.90 GB/28.34 GB at 12.75 MB/s
+2023-09-28 02:54:21.418    app     info:    [server-manager] Downloaded 1.91 GB/28.34 GB at 10.39 MB/s
+2023-09-28 02:54:22.462    app     info:    [server-manager] Downloaded 1.92 GB/28.34 GB at 10.69 MB/s
+2023-09-28 02:54:23.462    app     info:    [server-manager] Downloaded 1.93 GB/28.34 GB at 5.07 MB/s
+2023-09-28 02:54:24.512    app     info:    [server-manager] Downloaded 1.94 GB/28.34 GB at 7.77 MB/s
+2023-09-28 02:54:25.593    app     info:    [server-manager] Downloaded 1.95 GB/28.34 GB at 10.14 MB/s
+2023-09-28 02:54:26.595    app     info:    [server-manager] Downloaded 1.96 GB/28.34 GB at 11.19 MB/s
+2023-09-28 02:54:27.597    app     info:    [server-manager] Downloaded 1.97 GB/28.34 GB at 12.04 MB/s
+2023-09-28 02:54:28.597    app     info:    [server-manager] Downloaded 1.98 GB/28.34 GB at 9.58 MB/s
+2023-09-28 02:54:29.616    app     info:    [server-manager] Downloaded 1.99 GB/28.34 GB at 11.00 MB/s
+2023-09-28 02:54:30.617    app     info:    [server-manager] Downloaded 2.00 GB/28.34 GB at 10.89 MB/s
+2023-09-28 02:54:31.618    app     info:    [server-manager] Downloaded 2.02 GB/28.34 GB at 10.87 MB/s
+2023-09-28 02:54:32.620    app     info:    [server-manager] Downloaded 2.03 GB/28.34 GB at 10.55 MB/s
+2023-09-28 02:54:33.620    app     info:    [server-manager] Downloaded 2.04 GB/28.34 GB at 5.54 MB/s
+2023-09-28 02:54:34.652    app     info:    [server-manager] Downloaded 2.05 GB/28.34 GB at 11.27 MB/s
+2023-09-28 02:54:35.653    app     info:    [server-manager] Downloaded 2.06 GB/28.34 GB at 11.03 MB/s
+2023-09-28 02:54:36.655    app     info:    [server-manager] Downloaded 2.07 GB/28.34 GB at 10.86 MB/s
+2023-09-28 02:54:37.656    app     info:    [server-manager] Downloaded 2.08 GB/28.34 GB at 10.93 MB/s
+2023-09-28 02:54:38.657    app     info:    [server-manager] Downloaded 2.09 GB/28.34 GB at 5.53 MB/s
+2023-09-28 02:54:39.659    app     info:    [server-manager] Downloaded 2.10 GB/28.34 GB at 11.06 MB/s
+2023-09-28 02:54:40.660    app     info:    [server-manager] Downloaded 2.11 GB/28.34 GB at 10.91 MB/s
+2023-09-28 02:54:41.661    app     info:    [server-manager] Downloaded 2.13 GB/28.34 GB at 11.01 MB/s
+2023-09-28 02:54:42.662    app     info:    [server-manager] Downloaded 2.14 GB/28.34 GB at 10.53 MB/s
+2023-09-28 02:54:43.666    app     info:    [server-manager] Downloaded 2.15 GB/28.34 GB at 11.39 MB/s
+2023-09-28 02:54:44.691    app     info:    [server-manager] Downloaded 2.16 GB/28.34 GB at 11.39 MB/s
+2023-09-28 02:54:45.692    app     info:    [server-manager] Downloaded 2.17 GB/28.34 GB at 11.92 MB/s
+2023-09-28 02:54:46.693    app     info:    [server-manager] Downloaded 2.18 GB/28.34 GB at 11.27 MB/s
+2023-09-28 02:54:47.694    app     info:    [server-manager] Downloaded 2.19 GB/28.34 GB at 11.34 MB/s
+2023-09-28 02:54:48.731    app     info:    [server-manager] Downloaded 2.20 GB/28.34 GB at 10.98 MB/s
+2023-09-28 02:54:49.730    app     info:    [server-manager] Downloaded 2.22 GB/28.34 GB at 6.93 MB/s
+2023-09-28 02:54:50.732    app     info:    [server-manager] Downloaded 2.23 GB/28.34 GB at 11.43 MB/s
+2023-09-28 02:54:51.733    app     info:    [server-manager] Downloaded 2.24 GB/28.34 GB at 10.39 MB/s
+2023-09-28 02:54:52.782    app     info:    [server-manager] Downloaded 2.25 GB/28.34 GB at 10.07 MB/s
+2023-09-28 02:54:53.783    app     info:    [server-manager] Downloaded 2.26 GB/28.34 GB at 16.99 MB/s
+2023-09-28 02:54:54.814    app     info:    [server-manager] Downloaded 2.27 GB/28.34 GB at 5.70 MB/s
+2023-09-28 02:54:55.814    app     info:    [server-manager] Downloaded 2.28 GB/28.34 GB at 3.17 MB/s
+2023-09-28 02:54:56.820    app     info:    [server-manager] Downloaded 2.29 GB/28.34 GB at 10.06 MB/s
+2023-09-28 02:54:57.821    app     info:    [server-manager] Downloaded 2.30 GB/28.34 GB at 10.79 MB/s
+2023-09-28 02:54:58.822    app     info:    [server-manager] Downloaded 2.31 GB/28.34 GB at 11.35 MB/s
+2023-09-28 02:54:59.825    app     info:    [server-manager] Downloaded 2.32 GB/28.34 GB at 10.47 MB/s
+2023-09-28 02:55:00.830    app     info:    [server-manager] Downloaded 2.33 GB/28.34 GB at 11.23 MB/s
+2023-09-28 02:55:01.858    app     info:    [server-manager] Downloaded 2.34 GB/28.34 GB at 10.09 MB/s
+2023-09-28 02:55:02.859    app     info:    [server-manager] Downloaded 2.35 GB/28.34 GB at 7.90 MB/s
+2023-09-28 02:55:03.861    app     info:    [server-manager] Downloaded 2.36 GB/28.34 GB at 10.03 MB/s
+2023-09-28 02:55:04.863    app     info:    [server-manager] Downloaded 2.37 GB/28.34 GB at 11.41 MB/s
+2023-09-28 02:55:05.864    app     info:    [server-manager] Downloaded 2.38 GB/28.34 GB at 11.22 MB/s
+2023-09-28 02:55:06.866    app     info:    [server-manager] Downloaded 2.40 GB/28.34 GB at 15.37 MB/s
+2023-09-28 02:55:07.923    app     info:    [server-manager] Downloaded 2.41 GB/28.34 GB at 16.92 MB/s
+2023-09-28 02:55:08.923    app     info:    [server-manager] Downloaded 2.41 GB/28.34 GB at 1.64 MB/s
+2023-09-28 02:55:09.968    app     info:    [server-manager] Downloaded 2.42 GB/28.34 GB at 11.37 MB/s
+2023-09-28 02:55:10.969    app     info:    [server-manager] Downloaded 2.43 GB/28.34 GB at 3.36 MB/s
+2023-09-28 02:55:11.973    app     info:    [server-manager] Downloaded 2.43 GB/28.34 GB at 7.81 MB/s
+2023-09-28 02:55:12.973    app     info:    [server-manager] Downloaded 2.44 GB/28.34 GB at 4.54 MB/s
+2023-09-28 02:55:13.994    app     info:    [server-manager] Downloaded 2.46 GB/28.34 GB at 17.66 MB/s
+2023-09-28 02:55:14.994    app     info:    [server-manager] Downloaded 2.47 GB/28.34 GB at 11.38 MB/s
+2023-09-28 02:55:15.994    app     info:    [server-manager] Downloaded 2.48 GB/28.34 GB at 5.62 MB/s
+2023-09-28 02:55:17.026    app     info:    [server-manager] Downloaded 2.49 GB/28.34 GB at 11.44 MB/s
+2023-09-28 02:55:18.028    app     info:    [server-manager] Downloaded 2.50 GB/28.34 GB at 17.79 MB/s
+2023-09-28 02:55:19.042    app     info:    [server-manager] Downloaded 2.51 GB/28.34 GB at 12.46 MB/s
+2023-09-28 02:55:20.042    app     info:    [server-manager] Downloaded 2.53 GB/28.34 GB at 11.28 MB/s
+2023-09-28 02:55:21.043    app     info:    [server-manager] Downloaded 2.54 GB/28.34 GB at 8.56 MB/s
+2023-09-28 02:55:22.044    app     info:    [server-manager] Downloaded 2.55 GB/28.34 GB at 5.58 MB/s
+2023-09-28 02:55:23.103    app     info:    [server-manager] Downloaded 2.56 GB/28.34 GB at 11.40 MB/s
+2023-09-28 02:55:24.102    app     info:    [server-manager] Downloaded 2.57 GB/28.34 GB at 6.17 MB/s
+2023-09-28 02:55:25.160    app     info:    [server-manager] Downloaded 2.58 GB/28.34 GB at 11.53 MB/s
+2023-09-28 02:55:26.162    app     info:    [server-manager] Downloaded 2.59 GB/28.34 GB at 10.02 MB/s
+2023-09-28 02:55:27.197    app     info:    [server-manager] Downloaded 2.60 GB/28.34 GB at 11.00 MB/s
+2023-09-28 02:55:28.198    app     info:    [server-manager] Downloaded 2.61 GB/28.34 GB at 10.93 MB/s
+2023-09-28 02:55:29.199    app     info:    [server-manager] Downloaded 2.62 GB/28.34 GB at 7.33 MB/s
+2023-09-28 02:55:30.200    app     info:    [server-manager] Downloaded 2.63 GB/28.34 GB at 5.10 MB/s
+2023-09-28 02:55:31.244    app     info:    [server-manager] Downloaded 2.64 GB/28.34 GB at 5.38 MB/s
+2023-09-28 02:55:32.248    app     info:    [server-manager] Downloaded 2.65 GB/28.34 GB at 13.22 MB/s
+2023-09-28 02:55:33.302    app     info:    [server-manager] Downloaded 2.66 GB/28.34 GB at 11.36 MB/s
+2023-09-28 02:55:34.303    app     info:    [server-manager] Downloaded 2.67 GB/28.34 GB at 15.93 MB/s
+2023-09-28 02:55:35.304    app     info:    [server-manager] Downloaded 2.68 GB/28.34 GB at 16.69 MB/s
+2023-09-28 02:55:36.305    app     info:    [server-manager] Downloaded 2.69 GB/28.34 GB at 10.89 MB/s
+2023-09-28 02:55:37.307    app     info:    [server-manager] Downloaded 2.71 GB/28.34 GB at 10.65 MB/s
+2023-09-28 02:55:38.372    app     info:    [server-manager] Downloaded 2.72 GB/28.34 GB at 5.72 MB/s
+2023-09-28 02:55:39.371    app     info:    [server-manager] Downloaded 2.73 GB/28.34 GB at 12.78 MB/s
+2023-09-28 02:55:40.371    app     info:    [server-manager] Downloaded 2.74 GB/28.34 GB at 11.40 MB/s
+2023-09-28 02:55:41.392    app     info:    [server-manager] Downloaded 2.75 GB/28.34 GB at 5.75 MB/s
+2023-09-28 02:55:42.393    app     info:    [server-manager] Downloaded 2.76 GB/28.34 GB at 15.06 MB/s
+2023-09-28 02:55:43.409    app     info:    [server-manager] Downloaded 2.77 GB/28.34 GB at 11.37 MB/s
+2023-09-28 02:55:44.410    app     info:    [server-manager] Downloaded 2.79 GB/28.34 GB at 9.95 MB/s
+2023-09-28 02:55:45.421    app     info:    [server-manager] Downloaded 2.80 GB/28.34 GB at 11.38 MB/s
+2023-09-28 02:55:46.423    app     info:    [server-manager] Downloaded 2.81 GB/28.34 GB at 17.22 MB/s
+2023-09-28 02:55:47.425    app     info:    [server-manager] Downloaded 2.82 GB/28.34 GB at 11.43 MB/s
+2023-09-28 02:55:48.426    app     info:    [server-manager] Downloaded 2.83 GB/28.34 GB at 13.01 MB/s
+2023-09-28 02:55:49.428    app     info:    [server-manager] Downloaded 2.84 GB/28.34 GB at 15.41 MB/s
+2023-09-28 02:55:50.437    app     info:    [server-manager] Downloaded 2.85 GB/28.34 GB at 11.42 MB/s
+2023-09-28 02:55:51.438    app     info:    [server-manager] Downloaded 2.87 GB/28.34 GB at 10.10 MB/s
+2023-09-28 02:55:52.455    app     info:    [server-manager] Downloaded 2.88 GB/28.34 GB at 11.23 MB/s
+2023-09-28 02:55:53.457    app     info:    [server-manager] Downloaded 2.89 GB/28.34 GB at 17.32 MB/s
+2023-09-28 02:55:54.459    app     info:    [server-manager] Downloaded 2.90 GB/28.34 GB at 11.38 MB/s
+2023-09-28 02:55:55.459    app     info:    [server-manager] Downloaded 2.91 GB/28.34 GB at 11.44 MB/s
+2023-09-28 02:55:56.460    app     info:    [server-manager] Downloaded 2.92 GB/28.34 GB at 11.39 MB/s
+2023-09-28 02:55:57.461    app     info:    [server-manager] Downloaded 2.93 GB/28.34 GB at 11.43 MB/s
+2023-09-28 02:55:58.462    app     info:    [server-manager] Downloaded 2.95 GB/28.34 GB at 4.13 MB/s
+2023-09-28 02:55:59.476    app     info:    [server-manager] Downloaded 2.96 GB/28.34 GB at 5.62 MB/s
+2023-09-28 02:56:00.478    app     info:    [server-manager] Downloaded 2.97 GB/28.34 GB at 11.72 MB/s
+2023-09-28 02:56:01.479    app     info:    [server-manager] Downloaded 2.98 GB/28.34 GB at 11.28 MB/s
+2023-09-28 02:56:02.486    app     info:    [server-manager] Downloaded 2.99 GB/28.34 GB at 12.70 MB/s
+2023-09-28 02:56:03.487    app     info:    [server-manager] Downloaded 3.00 GB/28.34 GB at 15.06 MB/s
+2023-09-28 02:56:04.506    app     info:    [server-manager] Downloaded 3.01 GB/28.34 GB at 7.62 MB/s
+2023-09-28 02:56:05.507    app     info:    [server-manager] Downloaded 3.03 GB/28.34 GB at 17.24 MB/s
+2023-09-28 02:56:06.516    app     info:    [server-manager] Downloaded 3.04 GB/28.34 GB at 5.68 MB/s
+2023-09-28 02:56:07.515    app     info:    [server-manager] Downloaded 3.05 GB/28.34 GB at 12.89 MB/s
+2023-09-28 02:56:08.515    app     info:    [server-manager] Downloaded 3.06 GB/28.34 GB at 9.44 MB/s
+2023-09-28 02:56:09.572    app     info:    [server-manager] Downloaded 3.07 GB/28.34 GB at 7.86 MB/s
+2023-09-28 02:56:10.615    app     info:    [server-manager] Downloaded 3.08 GB/28.34 GB at 10.98 MB/s
+2023-09-28 02:56:11.616    app     info:    [server-manager] Downloaded 3.09 GB/28.34 GB at 10.51 MB/s
+2023-09-28 02:56:12.617    app     info:    [server-manager] Downloaded 3.10 GB/28.34 GB at 10.62 MB/s
+2023-09-28 02:56:13.618    app     info:    [server-manager] Downloaded 3.11 GB/28.34 GB at 15.79 MB/s
+2023-09-28 02:56:14.619    app     info:    [server-manager] Downloaded 3.12 GB/28.34 GB at 9.27 MB/s
+2023-09-28 02:56:15.624    app     info:    [server-manager] Downloaded 3.13 GB/28.34 GB at 10.30 MB/s
+2023-09-28 02:56:16.625    app     info:    [server-manager] Downloaded 3.14 GB/28.34 GB at 10.65 MB/s
+2023-09-28 02:56:17.629    app     info:    [server-manager] Downloaded 3.15 GB/28.34 GB at 10.64 MB/s
+2023-09-28 02:56:18.631    app     info:    [server-manager] Downloaded 3.17 GB/28.34 GB at 9.45 MB/s
+2023-09-28 02:56:19.651    app     info:    [server-manager] Downloaded 3.18 GB/28.34 GB at 10.53 MB/s
+2023-09-28 02:56:20.730    app     info:    [server-manager] Downloaded 3.19 GB/28.34 GB at 10.65 MB/s
+2023-09-28 02:56:21.729    app     info:    [server-manager] Downloaded 3.20 GB/28.34 GB at 6.44 MB/s
+2023-09-28 02:56:22.729    app     info:    [server-manager] Downloaded 3.21 GB/28.34 GB at 5.42 MB/s
+2023-09-28 02:56:23.730    app     info:    [server-manager] Downloaded 3.22 GB/28.34 GB at 10.41 MB/s
+2023-09-28 02:56:24.731    app     info:    [server-manager] Downloaded 3.23 GB/28.34 GB at 10.58 MB/s
+2023-09-28 02:56:25.755    app     info:    [server-manager] Downloaded 3.24 GB/28.34 GB at 16.52 MB/s
+2023-09-28 02:56:26.756    app     info:    [server-manager] Downloaded 3.25 GB/28.34 GB at 10.67 MB/s
+2023-09-28 02:56:27.757    app     info:    [server-manager] Downloaded 3.26 GB/28.34 GB at 10.48 MB/s
+2023-09-28 02:56:28.758    app     info:    [server-manager] Downloaded 3.27 GB/28.34 GB at 10.66 MB/s
+2023-09-28 02:56:29.759    app     info:    [server-manager] Downloaded 3.28 GB/28.34 GB at 15.79 MB/s
+2023-09-28 02:56:30.760    app     info:    [server-manager] Downloaded 3.29 GB/28.34 GB at 16.66 MB/s
+2023-09-28 02:56:31.760    app     info:    [server-manager] Downloaded 3.30 GB/28.34 GB at 5.51 MB/s
+2023-09-28 02:56:32.767    app     info:    [server-manager] Downloaded 3.32 GB/28.34 GB at 11.47 MB/s
+2023-09-28 02:56:33.767    app     info:    [server-manager] Downloaded 3.33 GB/28.34 GB at 12.96 MB/s
+2023-09-28 02:56:34.783    app     info:    [server-manager] Downloaded 3.34 GB/28.34 GB at 15.06 MB/s
+2023-09-28 02:56:35.783    app     info:    [server-manager] Downloaded 3.35 GB/28.34 GB at 11.33 MB/s
+2023-09-28 02:56:36.783    app     info:    [server-manager] Downloaded 3.36 GB/28.34 GB at 10.06 MB/s
+2023-09-28 02:56:37.791    app     info:    [server-manager] Downloaded 3.37 GB/28.34 GB at 11.38 MB/s
+2023-09-28 02:56:38.792    app     info:    [server-manager] Downloaded 3.38 GB/28.34 GB at 12.93 MB/s
+2023-09-28 02:56:39.823    app     info:    [server-manager] Downloaded 3.40 GB/28.34 GB at 11.33 MB/s
+2023-09-28 02:56:40.824    app     info:    [server-manager] Downloaded 3.41 GB/28.34 GB at 12.42 MB/s
+2023-09-28 02:56:41.825    app     info:    [server-manager] Downloaded 3.42 GB/28.34 GB at 15.13 MB/s
+2023-09-28 02:56:42.841    app     info:    [server-manager] Downloaded 3.43 GB/28.34 GB at 5.70 MB/s
+2023-09-28 02:56:43.842    app     info:    [server-manager] Downloaded 3.44 GB/28.34 GB at 9.94 MB/s
+2023-09-28 02:56:44.847    app     info:    [server-manager] Downloaded 3.45 GB/28.34 GB at 11.45 MB/s
+2023-09-28 02:56:45.848    app     info:    [server-manager] Downloaded 3.47 GB/28.34 GB at 9.72 MB/s
+2023-09-28 02:56:46.874    app     info:    [server-manager] Downloaded 3.48 GB/28.34 GB at 11.44 MB/s
+2023-09-28 02:56:47.880    app     info:    [server-manager] Downloaded 3.49 GB/28.34 GB at 18.29 MB/s
+2023-09-28 02:56:48.880    app     info:    [server-manager] Downloaded 3.50 GB/28.34 GB at 15.66 MB/s
+2023-09-28 02:56:49.911    app     info:    [server-manager] Downloaded 3.51 GB/28.34 GB at 17.10 MB/s
+2023-09-28 02:56:50.912    app     info:    [server-manager] Downloaded 3.52 GB/28.34 GB at 10.00 MB/s
+2023-09-28 02:56:51.919    app     info:    [server-manager] Downloaded 3.53 GB/28.34 GB at 17.21 MB/s
+2023-09-28 02:56:52.920    app     info:    [server-manager] Downloaded 3.55 GB/28.34 GB at 11.77 MB/s
+2023-09-28 02:56:53.946    app     info:    [server-manager] Downloaded 3.56 GB/28.34 GB at 17.04 MB/s
+2023-09-28 02:56:54.946    app     info:    [server-manager] Downloaded 3.57 GB/28.34 GB at 18.56 MB/s
+2023-09-28 02:56:55.985    app     info:    [server-manager] Downloaded 3.58 GB/28.34 GB at 9.88 MB/s
+2023-09-28 02:56:56.985    app     info:    [server-manager] Downloaded 3.59 GB/28.34 GB at 11.33 MB/s
+2023-09-28 02:56:57.986    app     info:    [server-manager] Downloaded 3.60 GB/28.34 GB at 10.09 MB/s
+2023-09-28 02:56:59.000    app     info:    [server-manager] Downloaded 3.61 GB/28.34 GB at 11.34 MB/s
+2023-09-28 02:57:00.001    app     info:    [server-manager] Downloaded 3.63 GB/28.34 GB at 15.33 MB/s
+2023-09-28 02:57:01.045    app     info:    [server-manager] Downloaded 3.64 GB/28.34 GB at 11.44 MB/s
+2023-09-28 02:57:02.045    app     info:    [server-manager] Downloaded 3.65 GB/28.34 GB at 11.44 MB/s
+2023-09-28 02:57:03.059    app     info:    [server-manager] Downloaded 3.66 GB/28.34 GB at 5.67 MB/s
+2023-09-28 02:57:04.059    app     info:    [server-manager] Downloaded 3.67 GB/28.34 GB at 11.36 MB/s
+2023-09-28 02:57:05.089    app     info:    [server-manager] Downloaded 3.68 GB/28.34 GB at 9.61 MB/s
+2023-09-28 02:57:06.089    app     info:    [server-manager] Downloaded 3.70 GB/28.34 GB at 11.40 MB/s
+2023-09-28 02:57:07.090    app     info:    [server-manager] Downloaded 3.71 GB/28.34 GB at 17.12 MB/s
+2023-09-28 02:57:08.115    app     info:    [server-manager] Downloaded 3.72 GB/28.34 GB at 11.44 MB/s
+2023-09-28 02:57:09.115    app     info:    [server-manager] Downloaded 3.73 GB/28.34 GB at 13.17 MB/s
+2023-09-28 02:57:10.137    app     info:    [server-manager] Downloaded 3.74 GB/28.34 GB at 15.17 MB/s
+2023-09-28 02:57:11.137    app     info:    [server-manager] Downloaded 3.75 GB/28.34 GB at 16.79 MB/s
+2023-09-28 02:57:12.137    app     info:    [server-manager] Downloaded 3.76 GB/28.34 GB at 5.51 MB/s
+2023-09-28 02:57:13.199    app     info:    [server-manager] Downloaded 3.78 GB/28.34 GB at 11.40 MB/s
+2023-09-28 02:57:14.200    app     info:    [server-manager] Downloaded 3.79 GB/28.34 GB at 11.75 MB/s
+2023-09-28 02:57:15.241    app     info:    [server-manager] Downloaded 3.80 GB/28.34 GB at 5.65 MB/s
+2023-09-28 02:57:16.240    app     info:    [server-manager] Downloaded 3.81 GB/28.34 GB at 18.04 MB/s
+2023-09-28 02:57:17.253    app     info:    [server-manager] Downloaded 3.82 GB/28.34 GB at 9.74 MB/s
+2023-09-28 02:57:18.253    app     info:    [server-manager] Downloaded 3.83 GB/28.34 GB at 11.31 MB/s
+2023-09-28 02:57:19.259    app     info:    [server-manager] Downloaded 3.85 GB/28.34 GB at 4.37 MB/s
+2023-09-28 02:57:20.285    app     info:    [server-manager] Downloaded 3.86 GB/28.34 GB at 17.05 MB/s
+2023-09-28 02:57:21.285    app     info:    [server-manager] Downloaded 3.87 GB/28.34 GB at 12.61 MB/s
+2023-09-28 02:57:22.320    app     info:    [server-manager] Downloaded 3.88 GB/28.34 GB at 11.46 MB/s
+2023-09-28 02:57:23.320    app     info:    [server-manager] Downloaded 3.89 GB/28.34 GB at 18.38 MB/s
+2023-09-28 02:57:24.333    app     info:    [server-manager] Downloaded 3.90 GB/28.34 GB at 9.75 MB/s
+2023-09-28 02:57:25.333    app     info:    [server-manager] Downloaded 3.91 GB/28.34 GB at 11.38 MB/s
+2023-09-28 02:57:26.334    app     info:    [server-manager] Downloaded 3.93 GB/28.34 GB at 10.21 MB/s
+2023-09-28 02:57:27.353    app     info:    [server-manager] Downloaded 3.94 GB/28.34 GB at 11.43 MB/s
+2023-09-28 02:57:28.354    app     info:    [server-manager] Downloaded 3.95 GB/28.34 GB at 13.09 MB/s
+2023-09-28 02:57:29.416    app     info:    [server-manager] Downloaded 3.96 GB/28.34 GB at 11.19 MB/s
+2023-09-28 02:57:30.415    app     info:    [server-manager] Downloaded 3.97 GB/28.34 GB at 12.52 MB/s
+2023-09-28 02:57:31.664    app     info:    [server-manager] Downloaded 3.99 GB/28.34 GB at 10.76 MB/s
+2023-09-28 02:57:32.664    app     info:    [server-manager] Downloaded 4.00 GB/28.34 GB at 4.91 MB/s
+2023-09-28 02:57:33.705    app     info:    [server-manager] Downloaded 4.01 GB/28.34 GB at 11.33 MB/s
+2023-09-28 02:57:34.706    app     info:    [server-manager] Downloaded 4.02 GB/28.34 GB at 5.72 MB/s
+2023-09-28 02:57:35.707    app     info:    [server-manager] Downloaded 4.03 GB/28.34 GB at 9.45 MB/s
+2023-09-28 02:57:36.718    app     info:    [server-manager] Downloaded 4.04 GB/28.34 GB at 7.61 MB/s
+2023-09-28 02:57:37.719    app     info:    [server-manager] Downloaded 4.05 GB/28.34 GB at 5.66 MB/s
+2023-09-28 02:57:38.720    app     info:    [server-manager] Downloaded 4.07 GB/28.34 GB at 11.41 MB/s
+2023-09-28 02:57:39.720    app     info:    [server-manager] Downloaded 4.08 GB/28.34 GB at 11.33 MB/s
+2023-09-28 02:57:40.721    app     info:    [server-manager] Downloaded 4.08 GB/28.34 GB at 0.00 B/s
+2023-09-28 02:57:41.879    app     info:    [server-manager] Downloaded 4.09 GB/28.34 GB at 17.04 MB/s
+2023-09-28 02:57:42.880    app     info:    [server-manager] Downloaded 4.10 GB/28.34 GB at 17.12 MB/s
+2023-09-28 02:57:43.885    app     info:    [server-manager] Downloaded 4.12 GB/28.34 GB at 11.42 MB/s
+2023-09-28 02:57:44.886    app     info:    [server-manager] Downloaded 4.13 GB/28.34 GB at 11.45 MB/s
+2023-09-28 02:57:45.887    app     info:    [server-manager] Downloaded 4.14 GB/28.34 GB at 10.54 MB/s
+2023-09-28 02:57:46.950    app     info:    [server-manager] Downloaded 4.15 GB/28.34 GB at 5.63 MB/s
+2023-09-28 02:57:47.956    app     info:    [server-manager] Downloaded 4.16 GB/28.34 GB at 11.42 MB/s
+2023-09-28 02:57:48.957    app     info:    [server-manager] Downloaded 4.16 GB/28.34 GB at 0.00 B/s
+2023-09-28 02:57:49.966    app     info:    [server-manager] Downloaded 4.17 GB/28.34 GB at 11.38 MB/s
+2023-09-28 02:57:50.967    app     info:    [server-manager] Downloaded 4.19 GB/28.34 GB at 13.27 MB/s
+2023-09-28 02:57:52.053    app     info:    [server-manager] Downloaded 4.20 GB/28.34 GB at 5.69 MB/s
+2023-09-28 02:57:53.054    app     info:    [server-manager] Downloaded 4.21 GB/28.34 GB at 11.32 MB/s
+2023-09-28 02:57:54.054    app     info:    [server-manager] Downloaded 4.22 GB/28.34 GB at 9.85 MB/s
+2023-09-28 02:57:55.066    app     info:    [server-manager] Downloaded 4.23 GB/28.34 GB at 5.64 MB/s
+2023-09-28 02:57:56.067    app     info:    [server-manager] Downloaded 4.24 GB/28.34 GB at 17.07 MB/s
+2023-09-28 02:57:57.068    app     info:    [server-manager] Downloaded 4.26 GB/28.34 GB at 11.39 MB/s
+2023-09-28 02:57:58.069    app     info:    [server-manager] Downloaded 4.27 GB/28.34 GB at 11.43 MB/s
+2023-09-28 02:57:59.069    app     info:    [server-manager] Downloaded 4.28 GB/28.34 GB at 11.35 MB/s
+2023-09-28 02:58:00.070    app     info:    [server-manager] Downloaded 4.29 GB/28.34 GB at 5.79 MB/s
+2023-09-28 02:58:01.070    app     info:    [server-manager] Downloaded 4.30 GB/28.34 GB at 7.52 MB/s
+2023-09-28 02:58:02.092    app     info:    [server-manager] Downloaded 4.31 GB/28.34 GB at 11.40 MB/s
+2023-09-28 02:58:03.093    app     info:    [server-manager] Downloaded 4.32 GB/28.34 GB at 11.42 MB/s
+2023-09-28 02:58:04.093    app     info:    [server-manager] Downloaded 4.34 GB/28.34 GB at 17.08 MB/s
+2023-09-28 02:58:05.094    app     info:    [server-manager] Downloaded 4.35 GB/28.34 GB at 11.38 MB/s
+2023-09-28 02:58:05.935    app     info:    [self-update] Checking for a launcher update...
+2023-09-28 02:58:06.095    app     info:    [server-manager] Downloaded 4.36 GB/28.34 GB at 16.99 MB/s
+2023-09-28 02:58:06.391    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-09-28 02:58:07.097    app     info:    [server-manager] Downloaded 4.37 GB/28.34 GB at 17.90 MB/s
+2023-09-28 02:58:08.136    app     info:    [server-manager] Downloaded 4.38 GB/28.34 GB at 5.69 MB/s
+2023-09-28 02:58:09.137    app     info:    [server-manager] Downloaded 4.39 GB/28.34 GB at 17.11 MB/s
+2023-09-28 02:58:10.138    app     info:    [server-manager] Downloaded 4.40 GB/28.34 GB at 17.08 MB/s
+2023-09-28 02:58:11.139    app     info:    [server-manager] Downloaded 4.42 GB/28.34 GB at 16.77 MB/s
+2023-09-28 02:58:12.140    app     info:    [server-manager] Downloaded 4.43 GB/28.34 GB at 11.45 MB/s
+2023-09-28 02:58:13.142    app     info:    [server-manager] Downloaded 4.44 GB/28.34 GB at 11.47 MB/s
+2023-09-28 02:58:14.178    app     info:    [server-manager] Downloaded 4.45 GB/28.34 GB at 11.47 MB/s
+2023-09-28 02:58:15.180    app     info:    [server-manager] Downloaded 4.46 GB/28.34 GB at 11.34 MB/s
+2023-09-28 02:58:16.181    app     info:    [server-manager] Downloaded 4.47 GB/28.34 GB at 17.05 MB/s
+2023-09-28 02:58:17.182    app     info:    [server-manager] Downloaded 4.48 GB/28.34 GB at 11.43 MB/s
+2023-09-28 02:58:18.183    app     info:    [server-manager] Downloaded 4.50 GB/28.34 GB at 11.29 MB/s
+2023-09-28 02:58:19.184    app     info:    [server-manager] Downloaded 4.51 GB/28.34 GB at 11.31 MB/s
+2023-09-28 02:58:20.185    app     info:    [server-manager] Downloaded 4.52 GB/28.34 GB at 17.17 MB/s
+2023-09-28 02:58:21.186    app     info:    [server-manager] Downloaded 4.53 GB/28.34 GB at 5.65 MB/s
+2023-09-28 02:58:22.186    app     info:    [server-manager] Downloaded 4.54 GB/28.34 GB at 11.35 MB/s
+2023-09-28 02:58:23.186    app     info:    [server-manager] Downloaded 4.55 GB/28.34 GB at 11.37 MB/s
+2023-09-28 02:58:24.186    app     info:    [server-manager] Downloaded 4.56 GB/28.34 GB at 11.40 MB/s
+2023-09-28 02:58:25.187    app     info:    [server-manager] Downloaded 4.57 GB/28.34 GB at 11.36 MB/s
+2023-09-28 02:58:26.187    app     info:    [server-manager] Downloaded 4.59 GB/28.34 GB at 11.31 MB/s
+2023-09-28 02:58:27.188    app     info:    [server-manager] Downloaded 4.60 GB/28.34 GB at 5.64 MB/s
+2023-09-28 02:58:28.191    app     info:    [server-manager] Downloaded 4.61 GB/28.34 GB at 11.43 MB/s
+2023-09-28 02:58:29.192    app     info:    [server-manager] Downloaded 4.62 GB/28.34 GB at 11.39 MB/s
+2023-09-28 02:58:30.192    app     info:    [server-manager] Downloaded 4.63 GB/28.34 GB at 11.43 MB/s
+2023-09-28 02:58:31.193    app     info:    [server-manager] Downloaded 4.64 GB/28.34 GB at 11.44 MB/s
+2023-09-28 02:58:32.193    app     info:    [server-manager] Downloaded 4.65 GB/28.34 GB at 17.08 MB/s
+2023-09-28 02:58:33.193    app     info:    [server-manager] Downloaded 4.67 GB/28.34 GB at 11.45 MB/s
+2023-09-28 02:58:34.196    app     info:    [server-manager] Downloaded 4.68 GB/28.34 GB at 11.45 MB/s
+2023-09-28 02:58:35.196    app     info:    [server-manager] Downloaded 4.69 GB/28.34 GB at 17.01 MB/s
+2023-09-28 02:58:36.196    app     info:    [server-manager] Downloaded 4.70 GB/28.34 GB at 11.43 MB/s
+2023-09-28 02:58:37.197    app     info:    [server-manager] Downloaded 4.71 GB/28.34 GB at 9.54 MB/s
+2023-09-28 02:58:38.239    app     info:    [server-manager] Downloaded 4.72 GB/28.34 GB at 11.34 MB/s
+2023-09-28 02:58:39.240    app     info:    [server-manager] Downloaded 4.73 GB/28.34 GB at 11.43 MB/s
+2023-09-28 02:58:40.241    app     info:    [server-manager] Downloaded 4.75 GB/28.34 GB at 17.02 MB/s
+2023-09-28 02:58:41.241    app     info:    [server-manager] Downloaded 4.76 GB/28.34 GB at 11.29 MB/s
+2023-09-28 02:58:42.242    app     info:    [server-manager] Downloaded 4.77 GB/28.34 GB at 5.75 MB/s
+2023-09-28 02:58:43.243    app     info:    [server-manager] Downloaded 4.78 GB/28.34 GB at 11.42 MB/s
+2023-09-28 02:58:44.244    app     info:    [server-manager] Downloaded 4.79 GB/28.34 GB at 11.43 MB/s
+2023-09-28 02:58:45.245    app     info:    [server-manager] Downloaded 4.80 GB/28.34 GB at 11.39 MB/s
+2023-09-28 02:58:46.246    app     info:    [server-manager] Downloaded 4.81 GB/28.34 GB at 17.02 MB/s
+2023-09-28 02:58:47.246    app     info:    [server-manager] Downloaded 4.83 GB/28.34 GB at 5.71 MB/s
+2023-09-28 02:58:48.246    app     info:    [server-manager] Downloaded 4.84 GB/28.34 GB at 5.64 MB/s
+2023-09-28 02:58:49.247    app     info:    [server-manager] Downloaded 4.85 GB/28.34 GB at 17.02 MB/s
+2023-09-28 02:58:50.248    app     info:    [server-manager] Downloaded 4.86 GB/28.34 GB at 11.32 MB/s
+2023-09-28 02:58:51.250    app     info:    [server-manager] Downloaded 4.87 GB/28.34 GB at 11.32 MB/s
+2023-09-28 02:58:52.251    app     info:    [server-manager] Downloaded 4.88 GB/28.34 GB at 17.07 MB/s
+2023-09-28 02:58:53.252    app     info:    [server-manager] Downloaded 4.89 GB/28.34 GB at 11.42 MB/s
+2023-09-28 02:58:54.253    app     info:    [server-manager] Downloaded 4.91 GB/28.34 GB at 5.75 MB/s
+2023-09-28 02:58:55.255    app     info:    [server-manager] Downloaded 4.92 GB/28.34 GB at 11.39 MB/s
+2023-09-28 02:58:56.256    app     info:    [server-manager] Downloaded 4.93 GB/28.34 GB at 11.35 MB/s
+2023-09-28 02:58:57.257    app     info:    [server-manager] Downloaded 4.94 GB/28.34 GB at 11.42 MB/s
+2023-09-28 02:58:58.258    app     info:    [server-manager] Downloaded 4.95 GB/28.34 GB at 17.05 MB/s
+2023-09-28 02:58:59.286    app     info:    [server-manager] Downloaded 4.96 GB/28.34 GB at 12.66 MB/s
+2023-09-28 02:59:00.287    app     info:    [server-manager] Downloaded 4.97 GB/28.34 GB at 17.16 MB/s
+2023-09-28 02:59:01.288    app     info:    [server-manager] Downloaded 4.98 GB/28.34 GB at 17.07 MB/s
+2023-09-28 02:59:02.288    app     info:    [server-manager] Downloaded 5.00 GB/28.34 GB at 11.39 MB/s
+2023-09-28 02:59:03.288    app     info:    [server-manager] Downloaded 5.01 GB/28.34 GB at 5.64 MB/s
+2023-09-28 02:59:04.290    app     info:    [server-manager] Downloaded 5.02 GB/28.34 GB at 11.36 MB/s
+2023-09-28 02:59:05.291    app     info:    [server-manager] Downloaded 5.03 GB/28.34 GB at 11.42 MB/s
+2023-09-28 02:59:06.291    app     info:    [server-manager] Downloaded 5.04 GB/28.34 GB at 11.36 MB/s
+2023-09-28 02:59:07.292    app     info:    [server-manager] Downloaded 5.05 GB/28.34 GB at 11.30 MB/s
+2023-09-28 02:59:08.293    app     info:    [server-manager] Downloaded 5.06 GB/28.34 GB at 11.45 MB/s
+2023-09-28 02:59:09.294    app     info:    [server-manager] Downloaded 5.08 GB/28.34 GB at 5.77 MB/s
+2023-09-28 02:59:10.295    app     info:    [server-manager] Downloaded 5.09 GB/28.34 GB at 11.00 MB/s
+2023-09-28 02:59:11.297    app     info:    [server-manager] Downloaded 5.10 GB/28.34 GB at 5.42 MB/s
+2023-09-28 02:59:12.298    app     info:    [server-manager] Downloaded 5.11 GB/28.34 GB at 10.82 MB/s
+2023-09-28 02:59:13.298    app     info:    [server-manager] Downloaded 5.12 GB/28.34 GB at 5.43 MB/s
+2023-09-28 02:59:14.299    app     info:    [server-manager] Downloaded 5.13 GB/28.34 GB at 10.91 MB/s
+2023-09-28 02:59:15.300    app     info:    [server-manager] Downloaded 5.14 GB/28.34 GB at 11.07 MB/s
+2023-09-28 02:59:16.300    app     info:    [server-manager] Downloaded 5.15 GB/28.34 GB at 10.98 MB/s
+2023-09-28 02:59:17.301    app     info:    [server-manager] Downloaded 5.16 GB/28.34 GB at 10.88 MB/s
+2023-09-28 02:59:18.304    app     info:    [server-manager] Downloaded 5.17 GB/28.34 GB at 10.86 MB/s
+2023-09-28 02:59:19.305    app     info:    [server-manager] Downloaded 5.19 GB/28.34 GB at 14.68 MB/s
+2023-09-28 02:59:20.326    app     info:    [server-manager] Downloaded 5.20 GB/28.34 GB at 10.88 MB/s
+2023-09-28 02:59:21.327    app     info:    [server-manager] Downloaded 5.21 GB/28.34 GB at 16.35 MB/s
+2023-09-28 02:59:22.327    app     info:    [server-manager] Downloaded 5.22 GB/28.34 GB at 10.86 MB/s
+2023-09-28 02:59:23.327    app     info:    [server-manager] Downloaded 5.23 GB/28.34 GB at 5.49 MB/s
+2023-09-28 02:59:24.329    app     info:    [server-manager] Downloaded 5.24 GB/28.34 GB at 10.96 MB/s
+2023-09-28 02:59:25.332    app     info:    [server-manager] Downloaded 5.25 GB/28.34 GB at 10.87 MB/s
+2023-09-28 02:59:26.382    app     info:    [server-manager] Downloaded 5.26 GB/28.34 GB at 11.46 MB/s
+2023-09-28 02:59:27.383    app     info:    [server-manager] Downloaded 5.27 GB/28.34 GB at 10.91 MB/s
+2023-09-28 02:59:28.384    app     info:    [server-manager] Downloaded 5.28 GB/28.34 GB at 16.41 MB/s
+2023-09-28 02:59:29.385    app     info:    [server-manager] Downloaded 5.29 GB/28.34 GB at 16.31 MB/s
+2023-09-28 02:59:30.386    app     info:    [server-manager] Downloaded 5.31 GB/28.34 GB at 10.94 MB/s
+2023-09-28 02:59:31.387    app     info:    [server-manager] Downloaded 5.32 GB/28.34 GB at 10.95 MB/s
+2023-09-28 02:59:32.388    app     info:    [server-manager] Downloaded 5.33 GB/28.34 GB at 5.39 MB/s
+2023-09-28 02:59:33.389    app     info:    [server-manager] Downloaded 5.34 GB/28.34 GB at 10.89 MB/s
+2023-09-28 02:59:34.391    app     info:    [server-manager] Downloaded 5.35 GB/28.34 GB at 11.06 MB/s
+2023-09-28 02:59:35.392    app     info:    [server-manager] Downloaded 5.36 GB/28.34 GB at 10.93 MB/s
+2023-09-28 02:59:36.393    app     info:    [server-manager] Downloaded 5.37 GB/28.34 GB at 16.54 MB/s
+2023-09-28 02:59:37.394    app     info:    [server-manager] Downloaded 5.38 GB/28.34 GB at 5.46 MB/s
+2023-09-28 02:59:38.395    app     info:    [server-manager] Downloaded 5.39 GB/28.34 GB at 16.26 MB/s
+2023-09-28 02:59:39.396    app     info:    [server-manager] Downloaded 5.40 GB/28.34 GB at 10.85 MB/s
+2023-09-28 02:59:40.397    app     info:    [server-manager] Downloaded 5.42 GB/28.34 GB at 10.64 MB/s
+2023-09-28 02:59:41.398    app     info:    [server-manager] Downloaded 5.43 GB/28.34 GB at 10.83 MB/s
+2023-09-28 02:59:42.402    app     info:    [server-manager] Downloaded 5.44 GB/28.34 GB at 16.56 MB/s
+2023-09-28 02:59:43.402    app     info:    [server-manager] Downloaded 5.45 GB/28.34 GB at 10.95 MB/s
+2023-09-28 02:59:44.403    app     info:    [server-manager] Downloaded 5.46 GB/28.34 GB at 10.84 MB/s
+2023-09-28 02:59:45.404    app     info:    [server-manager] Downloaded 5.47 GB/28.34 GB at 10.70 MB/s
+2023-09-28 02:59:46.405    app     info:    [server-manager] Downloaded 5.48 GB/28.34 GB at 10.87 MB/s
+2023-09-28 02:59:47.406    app     info:    [server-manager] Downloaded 5.49 GB/28.34 GB at 10.78 MB/s
+2023-09-28 02:59:48.408    app     info:    [server-manager] Downloaded 5.50 GB/28.34 GB at 10.83 MB/s
+2023-09-28 02:59:49.409    app     info:    [server-manager] Downloaded 5.51 GB/28.34 GB at 10.96 MB/s
+2023-09-28 02:59:50.410    app     info:    [server-manager] Downloaded 5.52 GB/28.34 GB at 10.46 MB/s
+2023-09-28 02:59:51.411    app     info:    [server-manager] Downloaded 5.53 GB/28.34 GB at 10.86 MB/s
+2023-09-28 02:59:52.411    app     info:    [server-manager] Downloaded 5.55 GB/28.34 GB at 5.48 MB/s
+2023-09-28 02:59:53.412    app     info:    [server-manager] Downloaded 5.56 GB/28.34 GB at 10.74 MB/s
+2023-09-28 02:59:54.413    app     info:    [server-manager] Downloaded 5.57 GB/28.34 GB at 10.39 MB/s
+2023-09-28 02:59:55.413    app     info:    [server-manager] Downloaded 5.58 GB/28.34 GB at 5.42 MB/s
+2023-09-28 02:59:56.414    app     info:    [server-manager] Downloaded 5.59 GB/28.34 GB at 10.54 MB/s
+2023-09-28 02:59:57.415    app     info:    [server-manager] Downloaded 5.60 GB/28.34 GB at 5.49 MB/s
+2023-09-28 02:59:58.416    app     info:    [server-manager] Downloaded 5.61 GB/28.34 GB at 10.90 MB/s
+2023-09-28 02:59:59.417    app     info:    [server-manager] Downloaded 5.62 GB/28.34 GB at 10.85 MB/s
+2023-09-28 03:00:00.420    app     info:    [server-manager] Downloaded 5.63 GB/28.34 GB at 10.58 MB/s
+2023-09-28 03:00:01.421    app     info:    [server-manager] Downloaded 5.64 GB/28.34 GB at 10.84 MB/s
+2023-09-28 03:00:02.422    app     info:    [server-manager] Downloaded 5.65 GB/28.34 GB at 10.89 MB/s
+2023-09-28 03:00:03.422    app     info:    [server-manager] Downloaded 5.66 GB/28.34 GB at 10.57 MB/s
+2023-09-28 03:00:04.423    app     info:    [server-manager] Downloaded 5.68 GB/28.34 GB at 10.99 MB/s
+2023-09-28 03:00:05.424    app     info:    [server-manager] Downloaded 5.69 GB/28.34 GB at 11.07 MB/s
+2023-09-28 03:00:06.426    app     info:    [server-manager] Downloaded 5.70 GB/28.34 GB at 10.87 MB/s
+2023-09-28 03:00:07.429    app     info:    [server-manager] Downloaded 5.71 GB/28.34 GB at 10.71 MB/s
+2023-09-28 03:00:08.430    app     info:    [server-manager] Downloaded 5.72 GB/28.34 GB at 10.88 MB/s
+2023-09-28 03:00:09.432    app     info:    [server-manager] Downloaded 5.73 GB/28.34 GB at 16.23 MB/s
+2023-09-28 03:00:10.433    app     info:    [server-manager] Downloaded 5.74 GB/28.34 GB at 15.98 MB/s
+2023-09-28 03:00:11.434    app     info:    [server-manager] Downloaded 5.75 GB/28.34 GB at 7.31 MB/s
+2023-09-28 03:00:12.434    app     info:    [server-manager] Downloaded 5.76 GB/28.34 GB at 5.50 MB/s
+2023-09-28 03:00:13.435    app     info:    [server-manager] Downloaded 5.77 GB/28.34 GB at 10.87 MB/s
+2023-09-28 03:00:14.436    app     info:    [server-manager] Downloaded 5.78 GB/28.34 GB at 10.88 MB/s
+2023-09-28 03:00:15.437    app     info:    [server-manager] Downloaded 5.79 GB/28.34 GB at 5.44 MB/s
+2023-09-28 03:00:16.439    app     info:    [server-manager] Downloaded 5.81 GB/28.34 GB at 10.86 MB/s
+2023-09-28 03:00:17.439    app     info:    [server-manager] Downloaded 5.82 GB/28.34 GB at 10.66 MB/s
+2023-09-28 03:00:18.441    app     info:    [server-manager] Downloaded 5.83 GB/28.34 GB at 10.86 MB/s
+2023-09-28 03:00:19.443    app     info:    [server-manager] Downloaded 5.84 GB/28.34 GB at 16.37 MB/s
+2023-09-28 03:00:20.444    app     info:    [server-manager] Downloaded 5.85 GB/28.34 GB at 10.89 MB/s
+2023-09-28 03:00:21.444    app     info:    [server-manager] Downloaded 5.86 GB/28.34 GB at 10.81 MB/s
+2023-09-28 03:00:22.446    app     info:    [server-manager] Downloaded 5.87 GB/28.34 GB at 10.92 MB/s
+2023-09-28 03:00:23.447    app     info:    [server-manager] Downloaded 5.88 GB/28.34 GB at 10.72 MB/s
+2023-09-28 03:00:24.448    app     info:    [server-manager] Downloaded 5.89 GB/28.34 GB at 10.92 MB/s
+2023-09-28 03:00:25.451    app     info:    [server-manager] Downloaded 5.90 GB/28.34 GB at 10.81 MB/s
+2023-09-28 03:00:26.452    app     info:    [server-manager] Downloaded 5.91 GB/28.34 GB at 11.04 MB/s
+2023-09-28 03:00:27.455    app     info:    [server-manager] Downloaded 5.92 GB/28.34 GB at 10.76 MB/s
+2023-09-28 03:00:28.456    app     info:    [server-manager] Downloaded 5.94 GB/28.34 GB at 10.97 MB/s
+2023-09-28 03:00:29.458    app     info:    [server-manager] Downloaded 5.95 GB/28.34 GB at 10.79 MB/s
+2023-09-28 03:00:30.459    app     info:    [server-manager] Downloaded 5.96 GB/28.34 GB at 10.98 MB/s
+2023-09-28 03:00:31.459    app     info:    [server-manager] Downloaded 5.97 GB/28.34 GB at 16.36 MB/s
+2023-09-28 03:00:32.459    app     info:    [server-manager] Downloaded 5.98 GB/28.34 GB at 10.79 MB/s
+2023-09-28 03:00:33.460    app     info:    [server-manager] Downloaded 5.99 GB/28.34 GB at 16.49 MB/s
+2023-09-28 03:00:34.462    app     info:    [server-manager] Downloaded 6.00 GB/28.34 GB at 16.63 MB/s
+2023-09-28 03:00:35.462    app     info:    [server-manager] Downloaded 6.01 GB/28.34 GB at 10.70 MB/s
+2023-09-28 03:00:36.463    app     info:    [server-manager] Downloaded 6.02 GB/28.34 GB at 10.96 MB/s
+2023-09-28 03:00:37.464    app     info:    [server-manager] Downloaded 6.03 GB/28.34 GB at 16.54 MB/s
+2023-09-28 03:00:38.465    app     info:    [server-manager] Downloaded 6.05 GB/28.34 GB at 11.06 MB/s
+2023-09-28 03:00:39.466    app     info:    [server-manager] Downloaded 6.06 GB/28.34 GB at 10.90 MB/s
+2023-09-28 03:00:40.468    app     info:    [server-manager] Downloaded 6.07 GB/28.34 GB at 11.03 MB/s
+2023-09-28 03:00:41.469    app     info:    [server-manager] Downloaded 6.08 GB/28.34 GB at 16.27 MB/s
+2023-09-28 03:00:42.470    app     info:    [server-manager] Downloaded 6.09 GB/28.34 GB at 16.52 MB/s
+2023-09-28 03:00:43.471    app     info:    [server-manager] Downloaded 6.10 GB/28.34 GB at 10.79 MB/s
+2023-09-28 03:00:44.472    app     info:    [server-manager] Downloaded 6.11 GB/28.34 GB at 11.02 MB/s
+2023-09-28 03:00:45.473    app     info:    [server-manager] Downloaded 6.12 GB/28.34 GB at 16.34 MB/s
+2023-09-28 03:00:46.474    app     info:    [server-manager] Downloaded 6.13 GB/28.34 GB at 11.02 MB/s
+2023-09-28 03:00:47.476    app     info:    [server-manager] Downloaded 6.14 GB/28.34 GB at 10.84 MB/s
+2023-09-28 03:00:48.477    app     info:    [server-manager] Downloaded 6.15 GB/28.34 GB at 10.95 MB/s
+2023-09-28 03:00:49.478    app     info:    [server-manager] Downloaded 6.17 GB/28.34 GB at 11.00 MB/s
+2023-09-28 03:00:50.482    app     info:    [server-manager] Downloaded 6.18 GB/28.34 GB at 10.88 MB/s
+2023-09-28 03:00:51.481    app     info:    [server-manager] Downloaded 6.19 GB/28.34 GB at 17.87 MB/s
+2023-09-28 03:00:52.730    app     info:    [server-manager] Downloaded 6.20 GB/28.34 GB at 11.00 MB/s
+2023-09-28 03:00:53.732    app     info:    [server-manager] Downloaded 6.21 GB/28.34 GB at 16.24 MB/s
+2023-09-28 03:00:54.733    app     info:    [server-manager] Downloaded 6.22 GB/28.34 GB at 11.14 MB/s
+2023-09-28 03:00:55.753    app     info:    [server-manager] Downloaded 6.23 GB/28.34 GB at 10.87 MB/s
+2023-09-28 03:00:56.753    app     info:    [server-manager] Downloaded 6.24 GB/28.34 GB at 10.87 MB/s
+2023-09-28 03:00:57.752    app     info:    [server-manager] Downloaded 6.26 GB/28.34 GB at 10.88 MB/s
+2023-09-28 03:00:58.753    app     info:    [server-manager] Downloaded 6.27 GB/28.34 GB at 16.22 MB/s
+2023-09-28 03:00:59.754    app     info:    [server-manager] Downloaded 6.28 GB/28.34 GB at 5.38 MB/s
+2023-09-28 03:01:00.755    app     info:    [server-manager] Downloaded 6.29 GB/28.34 GB at 16.54 MB/s
+2023-09-28 03:01:01.756    app     info:    [server-manager] Downloaded 6.30 GB/28.34 GB at 11.20 MB/s
+2023-09-28 03:01:02.757    app     info:    [server-manager] Downloaded 6.31 GB/28.34 GB at 10.97 MB/s
+2023-09-28 03:01:03.759    app     info:    [server-manager] Downloaded 6.32 GB/28.34 GB at 16.53 MB/s
+2023-09-28 03:01:04.760    app     info:    [server-manager] Downloaded 6.33 GB/28.34 GB at 10.92 MB/s
+2023-09-28 03:01:05.761    app     info:    [server-manager] Downloaded 6.34 GB/28.34 GB at 10.89 MB/s
+2023-09-28 03:01:06.764    app     info:    [server-manager] Downloaded 6.35 GB/28.34 GB at 10.83 MB/s
+2023-09-28 03:01:07.766    app     info:    [server-manager] Downloaded 6.36 GB/28.34 GB at 10.90 MB/s
+2023-09-28 03:01:08.767    app     info:    [server-manager] Downloaded 6.38 GB/28.34 GB at 10.84 MB/s
+2023-09-28 03:01:09.768    app     info:    [server-manager] Downloaded 6.39 GB/28.34 GB at 10.80 MB/s
+2023-09-28 03:01:10.773    app     info:    [server-manager] Downloaded 6.40 GB/28.34 GB at 10.95 MB/s
+2023-09-28 03:01:11.773    app     info:    [server-manager] Downloaded 6.41 GB/28.34 GB at 10.72 MB/s
+2023-09-28 03:01:12.773    app     info:    [server-manager] Downloaded 6.42 GB/28.34 GB at 5.53 MB/s
+2023-09-28 03:01:13.774    app     info:    [server-manager] Downloaded 6.43 GB/28.34 GB at 10.88 MB/s
+2023-09-28 03:01:14.775    app     info:    [server-manager] Downloaded 6.44 GB/28.34 GB at 11.11 MB/s
+2023-09-28 03:01:15.776    app     info:    [server-manager] Downloaded 6.45 GB/28.34 GB at 10.86 MB/s
+2023-09-28 03:01:16.777    app     info:    [server-manager] Downloaded 6.46 GB/28.34 GB at 10.86 MB/s
+2023-09-28 03:01:17.778    app     info:    [server-manager] Downloaded 6.47 GB/28.34 GB at 11.03 MB/s
+2023-09-28 03:01:18.780    app     info:    [server-manager] Downloaded 6.48 GB/28.34 GB at 10.96 MB/s
+2023-09-28 03:01:19.781    app     info:    [server-manager] Downloaded 6.50 GB/28.34 GB at 10.75 MB/s
+2023-09-28 03:01:20.782    app     info:    [server-manager] Downloaded 6.51 GB/28.34 GB at 10.88 MB/s
+2023-09-28 03:01:21.783    app     info:    [server-manager] Downloaded 6.52 GB/28.34 GB at 16.46 MB/s
+2023-09-28 03:01:22.783    app     info:    [server-manager] Downloaded 6.53 GB/28.34 GB at 5.52 MB/s
+2023-09-28 03:01:23.785    app     info:    [server-manager] Downloaded 6.54 GB/28.34 GB at 11.02 MB/s
+2023-09-28 03:01:24.786    app     info:    [server-manager] Downloaded 6.55 GB/28.34 GB at 10.96 MB/s
+2023-09-28 03:01:25.786    app     info:    [server-manager] Downloaded 6.56 GB/28.34 GB at 5.42 MB/s
+2023-09-28 03:01:26.788    app     info:    [server-manager] Downloaded 6.57 GB/28.34 GB at 16.47 MB/s
+2023-09-28 03:01:27.789    app     info:    [server-manager] Downloaded 6.58 GB/28.34 GB at 10.99 MB/s
+2023-09-28 03:01:28.792    app     info:    [server-manager] Downloaded 6.59 GB/28.34 GB at 10.94 MB/s
+2023-09-28 03:01:29.793    app     info:    [server-manager] Downloaded 6.61 GB/28.34 GB at 10.51 MB/s
+2023-09-28 03:01:30.793    app     info:    [server-manager] Downloaded 6.62 GB/28.34 GB at 5.26 MB/s
+2023-09-28 03:01:31.795    app     info:    [server-manager] Downloaded 6.63 GB/28.34 GB at 5.42 MB/s
+2023-09-28 03:01:32.796    app     info:    [server-manager] Downloaded 6.64 GB/28.34 GB at 16.43 MB/s
+2023-09-28 03:01:33.797    app     info:    [server-manager] Downloaded 6.65 GB/28.34 GB at 16.31 MB/s
+2023-09-28 03:01:34.797    app     info:    [server-manager] Downloaded 6.66 GB/28.34 GB at 5.57 MB/s
+2023-09-28 03:01:35.798    app     info:    [server-manager] Downloaded 6.67 GB/28.34 GB at 10.94 MB/s
+2023-09-28 03:01:36.799    app     info:    [server-manager] Downloaded 6.68 GB/28.34 GB at 10.88 MB/s
+2023-09-28 03:01:37.800    app     info:    [server-manager] Downloaded 6.69 GB/28.34 GB at 16.47 MB/s
+2023-09-28 03:01:38.801    app     info:    [server-manager] Downloaded 6.70 GB/28.34 GB at 10.94 MB/s
+2023-09-28 03:01:39.802    app     info:    [server-manager] Downloaded 6.71 GB/28.34 GB at 10.53 MB/s
+2023-09-28 03:01:40.806    app     info:    [server-manager] Downloaded 6.73 GB/28.34 GB at 11.03 MB/s
+2023-09-28 03:01:41.807    app     info:    [server-manager] Downloaded 6.74 GB/28.34 GB at 11.02 MB/s
+2023-09-28 03:01:42.808    app     info:    [server-manager] Downloaded 6.75 GB/28.34 GB at 10.99 MB/s
+2023-09-28 03:01:43.809    app     info:    [server-manager] Downloaded 6.76 GB/28.34 GB at 16.25 MB/s
+2023-09-28 03:01:44.810    app     info:    [server-manager] Downloaded 6.77 GB/28.34 GB at 10.96 MB/s
+2023-09-28 03:01:45.812    app     info:    [server-manager] Downloaded 6.78 GB/28.34 GB at 10.89 MB/s
+2023-09-28 03:01:46.812    app     info:    [server-manager] Downloaded 6.79 GB/28.34 GB at 5.64 MB/s
+2023-09-28 03:01:47.813    app     info:    [server-manager] Downloaded 6.80 GB/28.34 GB at 10.86 MB/s
+2023-09-28 03:01:48.815    app     info:    [server-manager] Downloaded 6.81 GB/28.34 GB at 10.87 MB/s
+2023-09-28 03:01:49.818    app     info:    [server-manager] Downloaded 6.82 GB/28.34 GB at 10.76 MB/s
+2023-09-28 03:01:50.819    app     info:    [server-manager] Downloaded 6.83 GB/28.34 GB at 10.96 MB/s
+2023-09-28 03:01:51.820    app     info:    [server-manager] Downloaded 6.85 GB/28.34 GB at 16.51 MB/s
+2023-09-28 03:01:52.820    app     info:    [server-manager] Downloaded 6.86 GB/28.34 GB at 5.49 MB/s
+2023-09-28 03:01:53.822    app     info:    [server-manager] Downloaded 6.87 GB/28.34 GB at 10.67 MB/s
+2023-09-28 03:01:54.823    app     info:    [server-manager] Downloaded 6.88 GB/28.34 GB at 11.06 MB/s
+2023-09-28 03:01:55.826    app     info:    [server-manager] Downloaded 6.89 GB/28.34 GB at 10.91 MB/s
+2023-09-28 03:01:56.826    app     info:    [server-manager] Downloaded 6.90 GB/28.34 GB at 5.39 MB/s
+2023-09-28 03:01:57.828    app     info:    [server-manager] Downloaded 6.91 GB/28.34 GB at 16.52 MB/s
+2023-09-28 03:01:58.829    app     info:    [server-manager] Downloaded 6.92 GB/28.34 GB at 10.95 MB/s
+2023-09-28 03:01:59.830    app     info:    [server-manager] Downloaded 6.93 GB/28.34 GB at 10.72 MB/s
+2023-09-28 03:02:00.830    app     info:    [server-manager] Downloaded 6.94 GB/28.34 GB at 11.06 MB/s
+2023-09-28 03:02:01.831    app     info:    [server-manager] Downloaded 6.96 GB/28.34 GB at 10.89 MB/s
+2023-09-28 03:02:02.834    app     info:    [server-manager] Downloaded 6.97 GB/28.34 GB at 10.84 MB/s
+2023-09-28 03:02:03.834    app     info:    [server-manager] Downloaded 6.98 GB/28.34 GB at 16.40 MB/s
+2023-09-28 03:02:04.835    app     info:    [server-manager] Downloaded 6.99 GB/28.34 GB at 16.42 MB/s
+2023-09-28 03:02:05.836    app     info:    [server-manager] Downloaded 7.00 GB/28.34 GB at 11.00 MB/s
+2023-09-28 03:02:06.837    app     info:    [server-manager] Downloaded 7.01 GB/28.34 GB at 11.00 MB/s
+2023-09-28 03:02:07.838    app     info:    [server-manager] Downloaded 7.02 GB/28.34 GB at 11.13 MB/s
+2023-09-28 03:02:08.839    app     info:    [server-manager] Downloaded 7.03 GB/28.34 GB at 10.99 MB/s
+2023-09-28 03:02:09.840    app     info:    [server-manager] Downloaded 7.04 GB/28.34 GB at 16.44 MB/s
+2023-09-28 03:02:10.840    app     info:    [server-manager] Downloaded 7.05 GB/28.34 GB at 11.00 MB/s
+2023-09-28 03:02:11.841    app     info:    [server-manager] Downloaded 7.06 GB/28.34 GB at 5.33 MB/s
+2023-09-28 03:02:12.841    app     info:    [server-manager] Downloaded 7.08 GB/28.34 GB at 5.51 MB/s
+2023-09-28 03:02:13.840    app     info:    [server-manager] Downloaded 7.09 GB/28.34 GB at 10.99 MB/s
+2023-09-28 03:02:14.841    app     info:    [server-manager] Downloaded 7.10 GB/28.34 GB at 10.98 MB/s
+2023-09-28 03:02:15.844    app     info:    [server-manager] Downloaded 7.11 GB/28.34 GB at 10.93 MB/s
+2023-09-28 03:02:16.844    app     info:    [server-manager] Downloaded 7.12 GB/28.34 GB at 10.90 MB/s
+2023-09-28 03:02:17.847    app     info:    [server-manager] Downloaded 7.13 GB/28.34 GB at 11.02 MB/s
+2023-09-28 03:02:18.847    app     info:    [server-manager] Downloaded 7.14 GB/28.34 GB at 5.53 MB/s
+2023-09-28 03:02:19.849    app     info:    [server-manager] Downloaded 7.15 GB/28.34 GB at 11.04 MB/s
+2023-09-28 03:02:20.850    app     info:    [server-manager] Downloaded 7.16 GB/28.34 GB at 16.15 MB/s
+2023-09-28 03:02:21.851    app     info:    [server-manager] Downloaded 7.17 GB/28.34 GB at 10.92 MB/s
+2023-09-28 03:02:22.853    app     info:    [server-manager] Downloaded 7.18 GB/28.34 GB at 10.99 MB/s
+2023-09-28 03:02:23.854    app     info:    [server-manager] Downloaded 7.20 GB/28.34 GB at 16.61 MB/s
+2023-09-28 03:02:24.855    app     info:    [server-manager] Downloaded 7.21 GB/28.34 GB at 16.59 MB/s
+2023-09-28 03:02:25.856    app     info:    [server-manager] Downloaded 7.22 GB/28.34 GB at 10.79 MB/s
+2023-09-28 03:02:26.857    app     info:    [server-manager] Downloaded 7.23 GB/28.34 GB at 5.32 MB/s
+2023-09-28 03:02:27.858    app     info:    [server-manager] Downloaded 7.24 GB/28.34 GB at 11.02 MB/s
+2023-09-28 03:02:28.859    app     info:    [server-manager] Downloaded 7.25 GB/28.34 GB at 10.91 MB/s
+2023-09-28 03:02:29.860    app     info:    [server-manager] Downloaded 7.26 GB/28.34 GB at 10.88 MB/s
+2023-09-28 03:02:30.861    app     info:    [server-manager] Downloaded 7.27 GB/28.34 GB at 11.11 MB/s
+2023-09-28 03:02:31.862    app     info:    [server-manager] Downloaded 7.28 GB/28.34 GB at 16.38 MB/s
+2023-09-28 03:02:32.862    app     info:    [server-manager] Downloaded 7.29 GB/28.34 GB at 10.98 MB/s
+2023-09-28 03:02:33.863    app     info:    [server-manager] Downloaded 7.31 GB/28.34 GB at 10.99 MB/s
+2023-09-28 03:02:34.864    app     info:    [server-manager] Downloaded 7.32 GB/28.34 GB at 16.36 MB/s
+2023-09-28 03:02:35.864    app     info:    [server-manager] Downloaded 7.33 GB/28.34 GB at 10.81 MB/s
+2023-09-28 03:02:36.865    app     info:    [server-manager] Downloaded 7.34 GB/28.34 GB at 11.04 MB/s
+2023-09-28 03:02:37.866    app     info:    [server-manager] Downloaded 7.35 GB/28.34 GB at 16.30 MB/s
+2023-09-28 03:02:38.867    app     info:    [server-manager] Downloaded 7.36 GB/28.34 GB at 10.64 MB/s
+2023-09-28 03:02:39.867    app     info:    [server-manager] Downloaded 7.37 GB/28.34 GB at 16.40 MB/s
+2023-09-28 03:02:40.869    app     info:    [server-manager] Downloaded 7.38 GB/28.34 GB at 5.53 MB/s
+2023-09-28 03:02:41.869    app     info:    [server-manager] Downloaded 7.39 GB/28.34 GB at 11.02 MB/s
+2023-09-28 03:02:42.870    app     info:    [server-manager] Downloaded 7.40 GB/28.34 GB at 10.95 MB/s
+2023-09-28 03:02:43.870    app     info:    [server-manager] Downloaded 7.41 GB/28.34 GB at 11.01 MB/s
+2023-09-28 03:02:44.871    app     info:    [server-manager] Downloaded 7.43 GB/28.34 GB at 10.96 MB/s
+2023-09-28 03:02:45.872    app     info:    [server-manager] Downloaded 7.44 GB/28.34 GB at 16.35 MB/s
+2023-09-28 03:02:46.873    app     info:    [server-manager] Downloaded 7.45 GB/28.34 GB at 10.96 MB/s
+2023-09-28 03:02:47.874    app     info:    [server-manager] Downloaded 7.46 GB/28.34 GB at 16.64 MB/s
+2023-09-28 03:02:48.875    app     info:    [server-manager] Downloaded 7.47 GB/28.34 GB at 11.05 MB/s
+2023-09-28 03:02:49.876    app     info:    [server-manager] Downloaded 7.48 GB/28.34 GB at 10.95 MB/s
+2023-09-28 03:02:50.877    app     info:    [server-manager] Downloaded 7.49 GB/28.34 GB at 16.43 MB/s
+2023-09-28 03:02:51.878    app     info:    [server-manager] Downloaded 7.50 GB/28.34 GB at 11.03 MB/s
+2023-09-28 03:02:52.879    app     info:    [server-manager] Downloaded 7.51 GB/28.34 GB at 10.91 MB/s
+2023-09-28 03:02:53.880    app     info:    [server-manager] Downloaded 7.52 GB/28.34 GB at 10.95 MB/s
+2023-09-28 03:02:54.881    app     info:    [server-manager] Downloaded 7.53 GB/28.34 GB at 10.88 MB/s
+2023-09-28 03:02:55.882    app     info:    [server-manager] Downloaded 7.55 GB/28.34 GB at 10.82 MB/s
+2023-09-28 03:02:56.883    app     info:    [server-manager] Downloaded 7.56 GB/28.34 GB at 11.07 MB/s
+2023-09-28 03:02:57.884    app     info:    [server-manager] Downloaded 7.57 GB/28.34 GB at 16.32 MB/s
+2023-09-28 03:02:58.885    app     info:    [server-manager] Downloaded 7.58 GB/28.34 GB at 10.98 MB/s
+2023-09-28 03:02:59.886    app     info:    [server-manager] Downloaded 7.59 GB/28.34 GB at 10.93 MB/s
+2023-09-28 03:03:00.899    app     info:    [server-manager] Downloaded 7.60 GB/28.34 GB at 10.98 MB/s
+2023-09-28 03:03:01.899    app     info:    [server-manager] Downloaded 7.61 GB/28.34 GB at 7.36 MB/s
+2023-09-28 03:03:02.900    app     info:    [server-manager] Downloaded 7.62 GB/28.34 GB at 11.28 MB/s
+2023-09-28 03:03:03.901    app     info:    [server-manager] Downloaded 7.63 GB/28.34 GB at 10.37 MB/s
+2023-09-28 03:03:04.904    app     info:    [server-manager] Downloaded 7.64 GB/28.34 GB at 10.99 MB/s
+2023-09-28 03:03:05.905    app     info:    [server-manager] Downloaded 7.66 GB/28.34 GB at 10.73 MB/s
+2023-09-28 03:03:06.391    app     info:    [self-update] Checking for a launcher update...
+2023-09-28 03:03:06.860    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-09-28 03:03:06.910    app     info:    [server-manager] Downloaded 7.67 GB/28.34 GB at 11.07 MB/s
+2023-09-28 03:03:07.911    app     info:    [server-manager] Downloaded 7.68 GB/28.34 GB at 16.47 MB/s
+2023-09-28 03:03:08.912    app     info:    [server-manager] Downloaded 7.69 GB/28.34 GB at 10.73 MB/s
+2023-09-28 03:03:09.913    app     info:    [server-manager] Downloaded 7.70 GB/28.34 GB at 9.48 MB/s
+2023-09-28 03:03:10.923    app     info:    [server-manager] Downloaded 7.71 GB/28.34 GB at 5.55 MB/s
+2023-09-28 03:03:11.924    app     info:    [server-manager] Downloaded 7.72 GB/28.34 GB at 10.85 MB/s
+2023-09-28 03:03:12.925    app     info:    [server-manager] Downloaded 7.73 GB/28.34 GB at 11.01 MB/s
+2023-09-28 03:03:13.925    app     info:    [server-manager] Downloaded 7.74 GB/28.34 GB at 16.18 MB/s
+2023-09-28 03:03:14.926    app     info:    [server-manager] Downloaded 7.75 GB/28.34 GB at 16.07 MB/s
+2023-09-28 03:03:15.928    app     info:    [server-manager] Downloaded 7.76 GB/28.34 GB at 11.35 MB/s
+2023-09-28 03:03:16.929    app     info:    [server-manager] Downloaded 7.77 GB/28.34 GB at 10.84 MB/s
+2023-09-28 03:03:17.931    app     info:    [server-manager] Downloaded 7.79 GB/28.34 GB at 10.93 MB/s
+2023-09-28 03:03:18.934    app     info:    [server-manager] Downloaded 7.80 GB/28.34 GB at 10.61 MB/s
+2023-09-28 03:03:19.934    app     info:    [server-manager] Downloaded 7.81 GB/28.34 GB at 6.38 MB/s
+2023-09-28 03:03:20.934    app     info:    [server-manager] Downloaded 7.82 GB/28.34 GB at 11.10 MB/s
+2023-09-28 03:03:21.935    app     info:    [server-manager] Downloaded 7.83 GB/28.34 GB at 10.98 MB/s
+2023-09-28 03:03:22.937    app     info:    [server-manager] Downloaded 7.84 GB/28.34 GB at 16.25 MB/s
+2023-09-28 03:03:23.938    app     info:    [server-manager] Downloaded 7.85 GB/28.34 GB at 10.98 MB/s
+2023-09-28 03:03:24.940    app     info:    [server-manager] Downloaded 7.86 GB/28.34 GB at 10.93 MB/s
+2023-09-28 03:03:25.941    app     info:    [server-manager] Downloaded 7.87 GB/28.34 GB at 10.78 MB/s
+2023-09-28 03:03:26.941    app     info:    [server-manager] Downloaded 7.88 GB/28.34 GB at 16.08 MB/s
+2023-09-28 03:03:27.944    app     info:    [server-manager] Downloaded 7.89 GB/28.34 GB at 11.03 MB/s
+2023-09-28 03:03:28.944    app     info:    [server-manager] Downloaded 7.91 GB/28.34 GB at 10.91 MB/s
+2023-09-28 03:03:29.946    app     info:    [server-manager] Downloaded 7.92 GB/28.34 GB at 11.02 MB/s
+2023-09-28 03:03:30.947    app     info:    [server-manager] Downloaded 7.93 GB/28.34 GB at 10.95 MB/s
+2023-09-28 03:03:31.949    app     info:    [server-manager] Downloaded 7.94 GB/28.34 GB at 16.38 MB/s
+2023-09-28 03:03:32.949    app     info:    [server-manager] Downloaded 7.95 GB/28.34 GB at 4.73 MB/s
+2023-09-28 03:03:33.951    app     info:    [server-manager] Downloaded 7.96 GB/28.34 GB at 11.02 MB/s
+2023-09-28 03:03:34.951    app     info:    [server-manager] Downloaded 7.97 GB/28.34 GB at 11.07 MB/s
+2023-09-28 03:03:35.953    app     info:    [server-manager] Downloaded 7.98 GB/28.34 GB at 11.00 MB/s
+2023-09-28 03:03:36.953    app     info:    [server-manager] Downloaded 7.99 GB/28.34 GB at 11.00 MB/s
+2023-09-28 03:03:37.150     ui     info:    Changing minimize to tray to true    ccp://launcher/renderer/main_window/index.js    2
+2023-09-28 03:03:37.956    app     info:    [server-manager] Downloaded 8.00 GB/28.34 GB at 13.97 MB/s
+2023-09-28 03:03:38.196    app     info:    [elg-events] ELG connection closed with ECONNRESET, restarting connection in 30s
+2023-09-28 03:03:39.025    app     info:    [server-manager] Downloaded 8.02 GB/28.34 GB at 10.83 MB/s
+2023-09-28 03:03:40.025    app     info:    [server-manager] Downloaded 8.03 GB/28.34 GB at 10.89 MB/s
+2023-09-28 03:03:41.026    app     info:    [server-manager] Downloaded 8.04 GB/28.34 GB at 11.03 MB/s
+2023-09-28 03:03:42.027    app     info:    [server-manager] Downloaded 8.05 GB/28.34 GB at 10.72 MB/s
+2023-09-28 03:03:43.029    app     info:    [server-manager] Downloaded 8.06 GB/28.34 GB at 10.80 MB/s
+2023-09-28 03:03:44.031    app     info:    [server-manager] Downloaded 8.07 GB/28.34 GB at 11.11 MB/s
+2023-09-28 03:03:45.032    app     info:    [server-manager] Downloaded 8.08 GB/28.34 GB at 16.38 MB/s
+2023-09-28 03:03:46.033    app     info:    [server-manager] Downloaded 8.09 GB/28.34 GB at 5.47 MB/s
+2023-09-28 03:03:47.034    app     info:    [server-manager] Downloaded 8.10 GB/28.34 GB at 11.12 MB/s
+2023-09-28 03:03:48.036    app     info:    [server-manager] Downloaded 8.11 GB/28.34 GB at 11.01 MB/s
+2023-09-28 03:03:49.037    app     info:    [server-manager] Downloaded 8.12 GB/28.34 GB at 10.96 MB/s
+2023-09-28 03:03:50.037    app     info:    [server-manager] Downloaded 8.14 GB/28.34 GB at 10.91 MB/s
+2023-09-28 03:03:51.038    app     info:    [server-manager] Downloaded 8.15 GB/28.34 GB at 11.12 MB/s
+2023-09-28 03:03:52.039    app     info:    [server-manager] Downloaded 8.16 GB/28.34 GB at 16.33 MB/s
+2023-09-28 03:03:53.041    app     info:    [server-manager] Downloaded 8.17 GB/28.34 GB at 11.03 MB/s
+2023-09-28 03:03:54.042    app     info:    [server-manager] Downloaded 8.18 GB/28.34 GB at 10.86 MB/s
+2023-09-28 03:03:55.043    app     info:    [server-manager] Downloaded 8.19 GB/28.34 GB at 10.93 MB/s
+2023-09-28 03:03:56.043    app     info:    [server-manager] Downloaded 8.20 GB/28.34 GB at 10.92 MB/s
+2023-09-28 03:03:57.046    app     info:    [server-manager] Downloaded 8.21 GB/28.34 GB at 16.44 MB/s
+2023-09-28 03:03:58.047    app     info:    [server-manager] Downloaded 8.22 GB/28.34 GB at 10.82 MB/s
+2023-09-28 03:03:59.048    app     info:    [server-manager] Downloaded 8.23 GB/28.34 GB at 10.88 MB/s
+2023-09-28 03:04:00.048    app     info:    [server-manager] Downloaded 8.24 GB/28.34 GB at 10.83 MB/s
+2023-09-28 03:04:01.048    app     info:    [server-manager] Downloaded 8.26 GB/28.34 GB at 16.25 MB/s
+2023-09-28 03:04:02.049    app     info:    [server-manager] Downloaded 8.27 GB/28.34 GB at 10.66 MB/s
+2023-09-28 03:04:03.050    app     info:    [server-manager] Downloaded 8.28 GB/28.34 GB at 11.13 MB/s
+2023-09-28 03:04:04.052    app     info:    [server-manager] Downloaded 8.29 GB/28.34 GB at 16.51 MB/s
+2023-09-28 03:04:05.053    app     info:    [server-manager] Downloaded 8.30 GB/28.34 GB at 16.29 MB/s
+2023-09-28 03:04:06.055    app     info:    [server-manager] Downloaded 8.31 GB/28.34 GB at 10.69 MB/s
+2023-09-28 03:04:07.056    app     info:    [server-manager] Downloaded 8.32 GB/28.34 GB at 11.03 MB/s
+2023-09-28 03:04:08.057    app     info:    [server-manager] Downloaded 8.33 GB/28.34 GB at 10.78 MB/s
+2023-09-28 03:04:09.058    app     info:    [server-manager] Downloaded 8.34 GB/28.34 GB at 10.90 MB/s
+2023-09-28 03:04:10.059    app     info:    [server-manager] Downloaded 8.35 GB/28.34 GB at 16.42 MB/s
+2023-09-28 03:04:11.060    app     info:    [server-manager] Downloaded 8.37 GB/28.34 GB at 10.87 MB/s
+2023-09-28 03:04:12.061    app     info:    [server-manager] Downloaded 8.38 GB/28.34 GB at 16.29 MB/s
+2023-09-28 03:04:13.062    app     info:    [server-manager] Downloaded 8.39 GB/28.34 GB at 11.01 MB/s
+2023-09-28 03:04:14.064    app     info:    [server-manager] Downloaded 8.40 GB/28.34 GB at 10.98 MB/s
+2023-09-28 03:04:15.064    app     info:    [server-manager] Downloaded 8.41 GB/28.34 GB at 5.49 MB/s
+2023-09-28 03:04:16.065    app     info:    [server-manager] Downloaded 8.42 GB/28.34 GB at 10.96 MB/s
+2023-09-28 03:04:17.066    app     info:    [server-manager] Downloaded 8.43 GB/28.34 GB at 11.16 MB/s
+2023-09-28 03:04:18.069    app     info:    [server-manager] Downloaded 8.44 GB/28.34 GB at 10.89 MB/s
+2023-09-28 03:04:19.070    app     info:    [server-manager] Downloaded 8.45 GB/28.34 GB at 10.98 MB/s
+2023-09-28 03:04:20.071    app     info:    [server-manager] Downloaded 8.46 GB/28.34 GB at 11.12 MB/s
+2023-09-28 03:04:21.071    app     info:    [server-manager] Downloaded 8.47 GB/28.34 GB at 10.89 MB/s
+2023-09-28 03:04:22.071    app     info:    [server-manager] Downloaded 8.49 GB/28.34 GB at 11.00 MB/s
+2023-09-28 03:04:23.074    app     info:    [server-manager] Downloaded 8.50 GB/28.34 GB at 10.84 MB/s
+2023-09-28 03:04:24.076    app     info:    [server-manager] Downloaded 8.51 GB/28.34 GB at 11.03 MB/s
+2023-09-28 03:04:25.076    app     info:    [server-manager] Downloaded 8.52 GB/28.34 GB at 9.49 MB/s
+2023-09-28 03:04:26.162    app     info:    [server-manager] Downloaded 8.53 GB/28.34 GB at 11.10 MB/s
+2023-09-28 03:04:26.770    app     info:    [client-queue] Queued client startup    {
+  tenant: 'tranquility',
+  userId: 16492377,
+  characterId: 2121174871,
+  profile: ''
+}
+2023-09-28 03:04:26.773    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.ClientQueued
+2023-09-28 03:04:26.774    app     info:    [client-queue] No clients running for tranquility, copying files before starting a client
+2023-09-28 03:04:26.797    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesStarted
+2023-09-28 03:04:26.798    app     info:    [binary-copier] Copying 196 files (210 MB) to 'C:\CCP\EVE Online\tq'
+2023-09-28 03:04:26.876    app     info:    [binary-copier] Removing old binaries
+2023-09-28 03:04:26.896    app     info:    [binary-copier] Copying binaries from ResFiles
+2023-09-28 03:04:27.162    app     info:    [server-manager] Downloaded 8.54 GB/28.34 GB at 10.94 MB/s
+2023-09-28 03:04:27.489    app     info:    [binary-copier] Finished copying 196 files to 'C:\CCP\EVE Online\tq' in 0.693 seconds
+2023-09-28 03:04:27.491    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesFinished
+2023-09-28 03:04:27.493    app     info:    [client-queue] Started client from group startup    {
+  tenant: 'tranquility',
+  characterId: 2121174871,
+  profile: '',
+  userId: 16492377
+}
+2023-09-28 03:04:27.497    app     info:    [authentication] Token for '16492377' on 'tranquility' is expired, refresh is required
+2023-09-28 03:04:27.497    app     info:    [authentication] Refreshing token for '16492377' on 'tranquility'
+2023-09-28 03:04:27.705    app     info:    [authentication] Token for '16492377' on 'tranquility' has been successfully refreshed
+2023-09-28 03:04:27.708    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.UserTokensRefreshed
+2023-09-28 03:04:27.710    app     info:    [AuthenticationMiddleware] Character information for '16492377' on 'tranquility' was loaded recently, skipping refresh.
+2023-09-28 03:04:27.711    app     info:    [AuthenticationMiddleware] Plex information for '16492377' on 'tranquility' was loaded recently, skipping refresh.
+2023-09-28 03:04:27.720    app     info:    [client-manager] Starting EVE Online game client.    C:\CCP\EVE Online\tq\bin64\exefile.exe    Map(9) {
+  'noconsole' => '/noconsole',
+  'server' => '/server:tranquility.servers.eveonline.com',
+  'triplatform' => '/triplatform=dx12',
+  'ssotoken' => '/ssoToken=***',
+  'refreshtoken' => '/refreshToken=***',
+  'settingsprofile' => '/settingsprofile=Default',
+  'deviceid' => '/deviceID=4a436adb-4b99-40a7-85b0-42e206f41286',
+  'autoselectcharacter' => '/autoSelectCharacter:2121174871',
+  'language' => '/language=en'
+}    16492377
+2023-09-28 03:04:27.722    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.GameClientStartRequested
+2023-09-28 03:04:27.731    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.TemporaryClientProcessAdded
+2023-09-28 03:04:27.734    app     info:    [AuthenticationMiddleware] User information updated
+2023-09-28 03:04:28.164    app     info:    [server-manager] Downloaded 8.55 GB/28.34 GB at 10.72 MB/s
+2023-09-28 03:04:28.235    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.TemporaryClientProcessMonitoringRetried
+2023-09-28 03:04:28.241    app     info:    [client-manager] Found 'tranquility' client for '16492377' running:     {
+  processId: 1376,
+  createdDate: 1695870267743,
+  userId: 16492377,
+  characterId: 2121174871,
+  profile: 'Default',
+  dxVersion: 'dx12'
+}
+2023-09-28 03:04:28.248    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.GameClientStarted
+2023-09-28 03:04:28.251    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.TemporaryClientProcessRemoved
+2023-09-28 03:04:29.164    app     info:    [server-manager] Downloaded 8.56 GB/28.34 GB at 10.88 MB/s
+2023-09-28 03:04:29.496    app     info:    [client-queue] Queue has stopped running, no more clients pending startup.
+2023-09-28 03:04:30.167    app     info:    [server-manager] Downloaded 8.57 GB/28.34 GB at 10.87 MB/s
+2023-09-28 03:04:31.170    app     info:    [server-manager] Downloaded 8.58 GB/28.34 GB at 10.86 MB/s
+2023-09-28 03:04:32.172    app     info:    [server-manager] Downloaded 8.60 GB/28.34 GB at 10.98 MB/s
+2023-09-28 03:04:33.172    app     info:    [server-manager] Downloaded 8.61 GB/28.34 GB at 16.24 MB/s
+2023-09-28 03:04:34.174    app     info:    [server-manager] Downloaded 8.62 GB/28.34 GB at 10.72 MB/s
+2023-09-28 03:04:35.176    app     info:    [server-manager] Downloaded 8.63 GB/28.34 GB at 10.94 MB/s
+2023-09-28 03:04:36.177    app     info:    [server-manager] Downloaded 8.64 GB/28.34 GB at 10.81 MB/s
+2023-09-28 03:04:37.178    app     info:    [server-manager] Downloaded 8.65 GB/28.34 GB at 16.25 MB/s
+2023-09-28 03:04:38.179    app     info:    [server-manager] Downloaded 8.66 GB/28.34 GB at 10.60 MB/s
+2023-09-28 03:04:39.181    app     info:    [server-manager] Downloaded 8.67 GB/28.34 GB at 10.71 MB/s
+2023-09-28 03:04:40.182    app     info:    [server-manager] Downloaded 8.68 GB/28.34 GB at 5.52 MB/s
+2023-09-28 03:04:41.183    app     info:    [server-manager] Downloaded 8.69 GB/28.34 GB at 10.92 MB/s
+2023-09-28 03:04:42.184    app     info:    [server-manager] Downloaded 8.70 GB/28.34 GB at 10.79 MB/s
+2023-09-28 03:04:43.185    app     info:    [server-manager] Downloaded 8.71 GB/28.34 GB at 10.91 MB/s
+2023-09-28 03:04:44.188    app     info:    [server-manager] Downloaded 8.73 GB/28.34 GB at 5.38 MB/s
+2023-09-28 03:04:45.189    app     info:    [server-manager] Downloaded 8.74 GB/28.34 GB at 16.37 MB/s
+2023-09-28 03:04:46.190    app     info:    [server-manager] Downloaded 8.75 GB/28.34 GB at 10.75 MB/s
+2023-09-28 03:04:47.192    app     info:    [server-manager] Downloaded 8.76 GB/28.34 GB at 10.73 MB/s
+2023-09-28 03:04:48.193    app     info:    [server-manager] Downloaded 8.77 GB/28.34 GB at 16.25 MB/s
+2023-09-28 03:04:49.194    app     info:    [server-manager] Downloaded 8.78 GB/28.34 GB at 16.30 MB/s
+2023-09-28 03:04:50.195    app     info:    [server-manager] Downloaded 8.79 GB/28.34 GB at 10.70 MB/s
+2023-09-28 03:04:51.201    app     info:    [server-manager] Downloaded 8.80 GB/28.34 GB at 9.67 MB/s
+2023-09-28 03:04:52.203    app     info:    [server-manager] Downloaded 8.81 GB/28.34 GB at 8.71 MB/s
+2023-09-28 03:04:53.203    app     info:    [server-manager] Downloaded 8.82 GB/28.34 GB at 8.98 MB/s
+2023-09-28 03:04:54.203    app     info:    [server-manager] Downloaded 8.83 GB/28.34 GB at 8.15 MB/s
+2023-09-28 03:04:55.204    app     info:    [server-manager] Downloaded 8.83 GB/28.34 GB at 5.93 MB/s
+2023-09-28 03:04:56.207    app     info:    [server-manager] Downloaded 8.84 GB/28.34 GB at 5.23 MB/s
+2023-09-28 03:04:57.208    app     info:    [server-manager] Downloaded 8.84 GB/28.34 GB at 3.76 MB/s
+2023-09-28 03:04:58.244    app     info:    [server-manager] Downloaded 8.85 GB/28.34 GB at 2.11 MB/s
+2023-09-28 03:04:59.243    app     info:    [server-manager] Downloaded 8.85 GB/28.34 GB at 9.94 MB/s
+2023-09-28 03:05:00.470    app     info:    [server-manager] Downloaded 8.86 GB/28.34 GB at 5.61 MB/s
+2023-09-28 03:05:01.471    app     info:    [server-manager] Downloaded 8.87 GB/28.34 GB at 8.78 MB/s
+2023-09-28 03:05:02.472    app     info:    [server-manager] Downloaded 8.88 GB/28.34 GB at 9.13 MB/s
+2023-09-28 03:05:03.474    app     info:    [server-manager] Downloaded 8.89 GB/28.34 GB at 8.97 MB/s
+2023-09-28 03:05:04.474    app     info:    [server-manager] Downloaded 8.90 GB/28.34 GB at 9.81 MB/s
+2023-09-28 03:05:05.475    app     info:    [server-manager] Downloaded 8.91 GB/28.34 GB at 9.80 MB/s
+2023-09-28 03:05:06.479    app     info:    [server-manager] Downloaded 8.92 GB/28.34 GB at 9.56 MB/s
+2023-09-28 03:05:07.480    app     info:    [server-manager] Downloaded 8.93 GB/28.34 GB at 8.80 MB/s
+2023-09-28 03:05:08.481    app     info:    [server-manager] Downloaded 8.94 GB/28.34 GB at 9.89 MB/s
+2023-09-28 03:05:09.482    app     info:    [server-manager] Downloaded 8.95 GB/28.34 GB at 4.98 MB/s
+2023-09-28 03:05:10.484    app     info:    [server-manager] Downloaded 8.96 GB/28.34 GB at 9.57 MB/s
+2023-09-28 03:05:11.486    app     info:    [server-manager] Downloaded 8.97 GB/28.34 GB at 9.81 MB/s
+2023-09-28 03:05:12.486    app     info:    [server-manager] Downloaded 8.98 GB/28.34 GB at 4.92 MB/s
+2023-09-28 03:05:13.488    app     info:    [server-manager] Downloaded 8.99 GB/28.34 GB at 9.86 MB/s
+2023-09-28 03:05:14.489    app     info:    [server-manager] Downloaded 9.00 GB/28.34 GB at 9.30 MB/s
+2023-09-28 03:05:15.491    app     info:    [server-manager] Downloaded 9.00 GB/28.34 GB at 14.78 MB/s
+2023-09-28 03:05:16.492    app     info:    [server-manager] Downloaded 9.01 GB/28.34 GB at 4.90 MB/s
+2023-09-28 03:05:17.492    app     info:    [server-manager] Downloaded 9.02 GB/28.34 GB at 2.71 MB/s
+2023-09-28 03:05:18.494    app     info:    [server-manager] Downloaded 9.03 GB/28.34 GB at 10.40 MB/s
+2023-09-28 03:05:19.494    app     info:    [server-manager] Downloaded 9.04 GB/28.34 GB at 9.16 MB/s
+2023-09-28 03:05:20.495    app     info:    [server-manager] Downloaded 9.04 GB/28.34 GB at 4.32 MB/s
+2023-09-28 03:05:21.499    app     info:    [server-manager] Downloaded 9.05 GB/28.34 GB at 9.05 MB/s
+2023-09-28 03:05:22.501    app     info:    [server-manager] Downloaded 9.06 GB/28.34 GB at 10.00 MB/s
+2023-09-28 03:05:23.507    app     info:    [server-manager] Downloaded 9.07 GB/28.34 GB at 7.12 MB/s
+2023-09-28 03:05:24.510    app     info:    [server-manager] Downloaded 9.08 GB/28.34 GB at 7.48 MB/s
+2023-09-28 03:05:25.511    app     info:    [server-manager] Downloaded 9.08 GB/28.34 GB at 11.40 MB/s
+2023-09-28 03:05:26.511    app     info:    [server-manager] Downloaded 9.09 GB/28.34 GB at 8.11 MB/s
+2023-09-28 03:05:27.512    app     info:    [server-manager] Downloaded 9.10 GB/28.34 GB at 7.19 MB/s
+2023-09-28 03:05:28.514    app     info:    [server-manager] Downloaded 9.11 GB/28.34 GB at 8.49 MB/s
+2023-09-28 03:05:29.518    app     info:    [server-manager] Downloaded 9.12 GB/28.34 GB at 8.91 MB/s
+2023-09-28 03:05:30.519    app     info:    [server-manager] Downloaded 9.13 GB/28.34 GB at 14.73 MB/s
+2023-09-28 03:05:31.519    app     info:    [server-manager] Downloaded 9.14 GB/28.34 GB at 9.88 MB/s
+2023-09-28 03:05:32.519    app     info:    [server-manager] Downloaded 9.15 GB/28.34 GB at 9.62 MB/s
+2023-09-28 03:05:33.519    app     info:    [server-manager] Downloaded 9.16 GB/28.34 GB at 3.78 MB/s
+2023-09-28 03:05:34.520    app     info:    [server-manager] Downloaded 9.16 GB/28.34 GB at 9.48 MB/s
+2023-09-28 03:05:35.521    app     info:    [server-manager] Downloaded 9.17 GB/28.34 GB at 7.91 MB/s
+2023-09-28 03:05:36.523    app     info:    [server-manager] Downloaded 9.18 GB/28.34 GB at 6.63 MB/s
+2023-09-28 03:05:37.540    app     info:    [server-manager] Downloaded 9.19 GB/28.34 GB at 3.57 MB/s
+2023-09-28 03:05:38.545    app     info:    [server-manager] Downloaded 9.19 GB/28.34 GB at 8.54 MB/s
+2023-09-28 03:05:39.547    app     info:    [server-manager] Downloaded 9.20 GB/28.34 GB at 10.32 MB/s
+2023-09-28 03:05:40.560    app     info:    [server-manager] Downloaded 9.22 GB/28.34 GB at 4.68 MB/s
+2023-09-28 03:05:41.563    app     info:    [server-manager] Downloaded 9.22 GB/28.34 GB at 8.28 MB/s
+2023-09-28 03:05:42.569    app     info:    [server-manager] Downloaded 9.23 GB/28.34 GB at 4.64 MB/s
+2023-09-28 03:05:43.571    app     info:    [server-manager] Downloaded 9.24 GB/28.34 GB at 14.77 MB/s
+2023-09-28 03:05:44.572    app     info:    [server-manager] Downloaded 9.25 GB/28.34 GB at 10.01 MB/s
+2023-09-28 03:05:45.573    app     info:    [server-manager] Downloaded 9.26 GB/28.34 GB at 15.12 MB/s
+2023-09-28 03:05:46.573    app     info:    [server-manager] Downloaded 9.27 GB/28.34 GB at 9.92 MB/s
+2023-09-28 03:05:47.575    app     info:    [server-manager] Downloaded 9.28 GB/28.34 GB at 10.39 MB/s
+2023-09-28 03:05:48.576    app     info:    [server-manager] Downloaded 9.29 GB/28.34 GB at 9.93 MB/s
+2023-09-28 03:05:49.579    app     info:    [server-manager] Downloaded 9.30 GB/28.34 GB at 8.04 MB/s
+2023-09-28 03:05:50.583    app     info:    [server-manager] Downloaded 9.31 GB/28.34 GB at 7.95 MB/s
+2023-09-28 03:05:51.583    app     info:    [server-manager] Downloaded 9.32 GB/28.34 GB at 12.47 MB/s
+2023-09-28 03:05:52.583    app     info:    [server-manager] Downloaded 9.33 GB/28.34 GB at 4.20 MB/s
+2023-09-28 03:05:53.585    app     info:    [server-manager] Downloaded 9.33 GB/28.34 GB at 7.98 MB/s
+2023-09-28 03:05:54.585    app     info:    [server-manager] Downloaded 9.34 GB/28.34 GB at 8.65 MB/s
+2023-09-28 03:05:55.586    app     info:    [server-manager] Downloaded 9.35 GB/28.34 GB at 7.96 MB/s
+2023-09-28 03:05:56.587    app     info:    [server-manager] Downloaded 9.36 GB/28.34 GB at 8.29 MB/s
+2023-09-28 03:05:57.602    app     info:    [server-manager] Downloaded 9.37 GB/28.34 GB at 12.73 MB/s
+2023-09-28 03:05:58.602    app     info:    [server-manager] Downloaded 9.38 GB/28.34 GB at 8.93 MB/s
+2023-09-28 03:05:59.605    app     info:    [server-manager] Downloaded 9.39 GB/28.34 GB at 9.63 MB/s
+2023-09-28 03:06:00.607    app     info:    [server-manager] Downloaded 9.40 GB/28.34 GB at 9.82 MB/s
+2023-09-28 03:06:01.609    app     info:    [server-manager] Downloaded 9.40 GB/28.34 GB at 9.72 MB/s
+2023-09-28 03:06:02.610    app     info:    [server-manager] Downloaded 9.41 GB/28.34 GB at 15.02 MB/s
+2023-09-28 03:06:03.610    app     info:    [server-manager] Downloaded 9.42 GB/28.34 GB at 9.69 MB/s
+2023-09-28 03:06:04.612    app     info:    [server-manager] Downloaded 9.43 GB/28.34 GB at 9.72 MB/s
+2023-09-28 03:06:05.613    app     info:    [server-manager] Downloaded 9.44 GB/28.34 GB at 9.82 MB/s
+2023-09-28 03:06:06.616    app     info:    [server-manager] Downloaded 9.45 GB/28.34 GB at 11.16 MB/s
+2023-09-28 03:06:07.636    app     info:    [server-manager] Downloaded 9.46 GB/28.34 GB at 8.69 MB/s
+2023-09-28 03:06:08.638    app     info:    [server-manager] Downloaded 9.47 GB/28.34 GB at 8.40 MB/s
+2023-09-28 03:06:09.641    app     info:    [server-manager] Downloaded 9.48 GB/28.34 GB at 8.77 MB/s
+2023-09-28 03:06:10.644    app     info:    [server-manager] Downloaded 9.49 GB/28.34 GB at 8.20 MB/s
+2023-09-28 03:06:11.646    app     info:    [server-manager] Downloaded 9.50 GB/28.34 GB at 7.50 MB/s
+2023-09-28 03:06:12.647    app     info:    [server-manager] Downloaded 9.50 GB/28.34 GB at 7.88 MB/s
+2023-09-28 03:06:13.652    app     info:    [server-manager] Downloaded 9.51 GB/28.34 GB at 7.91 MB/s
+2023-09-28 03:06:14.652    app     info:    [server-manager] Downloaded 9.52 GB/28.34 GB at 4.36 MB/s
+2023-09-28 03:06:15.672    app     info:    [server-manager] Downloaded 9.53 GB/28.34 GB at 8.27 MB/s
+2023-09-28 03:06:16.673    app     info:    [server-manager] Downloaded 9.54 GB/28.34 GB at 8.41 MB/s
+2023-09-28 03:06:17.676    app     info:    [server-manager] Downloaded 9.55 GB/28.34 GB at 9.21 MB/s
+2023-09-28 03:06:18.678    app     info:    [server-manager] Downloaded 9.56 GB/28.34 GB at 4.91 MB/s
+2023-09-28 03:06:19.680    app     info:    [server-manager] Downloaded 9.57 GB/28.34 GB at 14.86 MB/s
+2023-09-28 03:06:20.679    app     info:    [server-manager] Downloaded 9.58 GB/28.34 GB at 9.92 MB/s
+2023-09-28 03:06:21.681    app     info:    [server-manager] Downloaded 9.59 GB/28.34 GB at 9.51 MB/s
+2023-09-28 03:06:22.684    app     info:    [server-manager] Downloaded 9.60 GB/28.34 GB at 9.85 MB/s
+2023-09-28 03:06:23.687    app     info:    [server-manager] Downloaded 9.61 GB/28.34 GB at 9.75 MB/s
+2023-09-28 03:06:24.689    app     info:    [server-manager] Downloaded 9.61 GB/28.34 GB at 8.90 MB/s
+2023-09-28 03:06:25.691    app     info:    [server-manager] Downloaded 9.62 GB/28.34 GB at 7.99 MB/s
+2023-09-28 03:06:26.694    app     info:    [server-manager] Downloaded 9.63 GB/28.34 GB at 11.93 MB/s
+2023-09-28 03:06:27.695    app     info:    [server-manager] Downloaded 9.64 GB/28.34 GB at 8.00 MB/s
+2023-09-28 03:06:28.696    app     info:    [server-manager] Downloaded 9.65 GB/28.34 GB at 7.70 MB/s
+2023-09-28 03:06:29.699    app     info:    [server-manager] Downloaded 9.66 GB/28.34 GB at 8.63 MB/s
+2023-09-28 03:06:30.705    app     info:    [server-manager] Downloaded 9.66 GB/28.34 GB at 10.29 MB/s
+2023-09-28 03:06:31.706    app     info:    [server-manager] Downloaded 9.67 GB/28.34 GB at 3.95 MB/s
+2023-09-28 03:06:32.706    app     info:    [server-manager] Downloaded 9.68 GB/28.34 GB at 3.96 MB/s
+2023-09-28 03:06:33.708    app     info:    [server-manager] Downloaded 9.69 GB/28.34 GB at 5.06 MB/s
+2023-09-28 03:06:34.711    app     info:    [server-manager] Downloaded 9.70 GB/28.34 GB at 9.88 MB/s
+2023-09-28 03:06:35.711    app     info:    [server-manager] Downloaded 9.71 GB/28.34 GB at 9.68 MB/s
+2023-09-28 03:06:36.712    app     info:    [server-manager] Downloaded 9.72 GB/28.34 GB at 8.85 MB/s
+2023-09-28 03:06:37.712    app     info:    [server-manager] Downloaded 9.73 GB/28.34 GB at 9.01 MB/s
+2023-09-28 03:06:38.712    app     info:    [server-manager] Downloaded 9.74 GB/28.34 GB at 14.36 MB/s
+2023-09-28 03:06:39.712    app     info:    [server-manager] Downloaded 9.75 GB/28.34 GB at 9.98 MB/s
+2023-09-28 03:06:40.712    app     info:    [server-manager] Downloaded 9.76 GB/28.34 GB at 9.99 MB/s
+2023-09-28 03:06:41.713    app     info:    [server-manager] Downloaded 9.77 GB/28.34 GB at 14.98 MB/s
+2023-09-28 03:06:42.714    app     info:    [server-manager] Downloaded 9.78 GB/28.34 GB at 9.57 MB/s
+2023-09-28 03:06:43.715    app     info:    [server-manager] Downloaded 9.79 GB/28.34 GB at 9.94 MB/s
+2023-09-28 03:06:44.717    app     info:    [server-manager] Downloaded 9.80 GB/28.34 GB at 10.01 MB/s
+2023-09-28 03:06:45.718    app     info:    [server-manager] Downloaded 9.81 GB/28.34 GB at 9.70 MB/s
+2023-09-28 03:06:46.722    app     info:    [server-manager] Downloaded 9.81 GB/28.34 GB at 9.53 MB/s
+2023-09-28 03:06:47.723    app     info:    [server-manager] Downloaded 9.82 GB/28.34 GB at 7.73 MB/s
+2023-09-28 03:06:48.727    app     info:    [server-manager] Downloaded 9.83 GB/28.34 GB at 7.59 MB/s
+2023-09-28 03:06:49.731    app     info:    [server-manager] Downloaded 9.84 GB/28.34 GB at 9.08 MB/s
+2023-09-28 03:06:50.733    app     info:    [server-manager] Downloaded 9.85 GB/28.34 GB at 11.15 MB/s
+2023-09-28 03:06:51.735    app     info:    [server-manager] Downloaded 9.86 GB/28.34 GB at 8.64 MB/s
+2023-09-28 03:06:52.737    app     info:    [server-manager] Downloaded 9.86 GB/28.34 GB at 3.81 MB/s
+2023-09-28 03:06:53.737    app     info:    [server-manager] Downloaded 9.87 GB/28.34 GB at 13.77 MB/s
+2023-09-28 03:06:54.738    app     info:    [server-manager] Downloaded 9.88 GB/28.34 GB at 4.05 MB/s
+2023-09-28 03:06:55.738    app     info:    [server-manager] Downloaded 9.89 GB/28.34 GB at 8.47 MB/s
+2023-09-28 03:06:56.737    app     info:    [server-manager] Downloaded 9.90 GB/28.34 GB at 4.03 MB/s
+2023-09-28 03:06:57.739    app     info:    [server-manager] Downloaded 9.91 GB/28.34 GB at 8.72 MB/s
+2023-09-28 03:06:58.741    app     info:    [server-manager] Downloaded 9.91 GB/28.34 GB at 9.01 MB/s
+2023-09-28 03:06:59.742    app     info:    [server-manager] Downloaded 9.92 GB/28.34 GB at 8.22 MB/s
+2023-09-28 03:07:00.743    app     info:    [server-manager] Downloaded 9.93 GB/28.34 GB at 14.96 MB/s
+2023-09-28 03:07:01.744    app     info:    [server-manager] Downloaded 9.94 GB/28.34 GB at 9.71 MB/s
+2023-09-28 03:07:02.748    app     info:    [server-manager] Downloaded 9.95 GB/28.34 GB at 5.09 MB/s
+2023-09-28 03:07:03.749    app     info:    [server-manager] Downloaded 9.96 GB/28.34 GB at 14.89 MB/s
+2023-09-28 03:07:04.752    app     info:    [server-manager] Downloaded 9.97 GB/28.34 GB at 4.72 MB/s
+2023-09-28 03:07:05.753    app     info:    [server-manager] Downloaded 9.98 GB/28.34 GB at 8.51 MB/s
+2023-09-28 03:07:06.755    app     info:    [server-manager] Downloaded 9.99 GB/28.34 GB at 7.60 MB/s
+2023-09-28 03:07:07.756    app     info:    [server-manager] Downloaded 10.00 GB/28.34 GB at 3.98 MB/s
+2023-09-28 03:07:08.760    app     info:    [server-manager] Downloaded 10.01 GB/28.34 GB at 12.39 MB/s
+2023-09-28 03:07:09.761    app     info:    [server-manager] Downloaded 10.01 GB/28.34 GB at 8.87 MB/s
+2023-09-28 03:07:10.765    app     info:    [server-manager] Downloaded 10.02 GB/28.34 GB at 9.68 MB/s
+2023-09-28 03:07:11.766    app     info:    [server-manager] Downloaded 10.03 GB/28.34 GB at 8.76 MB/s
+2023-09-28 03:07:12.770    app     info:    [server-manager] Downloaded 10.04 GB/28.34 GB at 7.94 MB/s
+2023-09-28 03:07:13.772    app     info:    [server-manager] Downloaded 10.05 GB/28.34 GB at 8.39 MB/s
+2023-09-28 03:07:14.777    app     info:    [server-manager] Downloaded 10.06 GB/28.34 GB at 9.79 MB/s
+2023-09-28 03:07:15.778    app     info:    [server-manager] Downloaded 10.07 GB/28.34 GB at 4.82 MB/s
+2023-09-28 03:07:16.782    app     info:    [server-manager] Downloaded 10.08 GB/28.34 GB at 10.03 MB/s
+2023-09-28 03:07:17.783    app     info:    [server-manager] Downloaded 10.09 GB/28.34 GB at 9.93 MB/s
+2023-09-28 03:07:18.784    app     info:    [server-manager] Downloaded 10.10 GB/28.34 GB at 15.04 MB/s
+2023-09-28 03:07:19.785    app     info:    [server-manager] Downloaded 10.11 GB/28.34 GB at 9.64 MB/s
+2023-09-28 03:07:20.788    app     info:    [server-manager] Downloaded 10.12 GB/28.34 GB at 10.02 MB/s
+2023-09-28 03:07:21.789    app     info:    [server-manager] Downloaded 10.13 GB/28.34 GB at 9.63 MB/s
+2023-09-28 03:07:22.789    app     info:    [server-manager] Downloaded 10.14 GB/28.34 GB at 9.88 MB/s
+2023-09-28 03:07:23.792    app     info:    [server-manager] Downloaded 10.15 GB/28.34 GB at 14.49 MB/s
+2023-09-28 03:07:24.791    app     info:    [server-manager] Downloaded 10.16 GB/28.34 GB at 9.13 MB/s
+2023-09-28 03:07:25.796    app     info:    [server-manager] Downloaded 10.16 GB/28.34 GB at 8.97 MB/s
+2023-09-28 03:07:26.797    app     info:    [server-manager] Downloaded 10.17 GB/28.34 GB at 4.57 MB/s
+2023-09-28 03:07:27.799    app     info:    [server-manager] Downloaded 10.18 GB/28.34 GB at 9.47 MB/s
+2023-09-28 03:07:28.800    app     info:    [server-manager] Downloaded 10.19 GB/28.34 GB at 13.17 MB/s
+2023-09-28 03:07:29.800    app     info:    [server-manager] Downloaded 10.20 GB/28.34 GB at 8.62 MB/s
+2023-09-28 03:07:30.801    app     info:    [server-manager] Downloaded 10.21 GB/28.34 GB at 8.36 MB/s
+2023-09-28 03:07:31.802    app     info:    [server-manager] Downloaded 10.22 GB/28.34 GB at 13.97 MB/s
+2023-09-28 03:07:32.805    app     info:    [server-manager] Downloaded 10.23 GB/28.34 GB at 9.56 MB/s
+2023-09-28 03:07:33.806    app     info:    [server-manager] Downloaded 10.24 GB/28.34 GB at 11.68 MB/s
+2023-09-28 03:07:34.806    app     info:    [server-manager] Downloaded 10.24 GB/28.34 GB at 8.88 MB/s
+2023-09-28 03:07:35.807    app     info:    [server-manager] Downloaded 10.25 GB/28.34 GB at 7.98 MB/s
+2023-09-28 03:07:36.808    app     info:    [server-manager] Downloaded 10.26 GB/28.34 GB at 12.20 MB/s
+2023-09-28 03:07:37.810    app     info:    [server-manager] Downloaded 10.27 GB/28.34 GB at 12.21 MB/s
+2023-09-28 03:07:38.811    app     info:    [server-manager] Downloaded 10.28 GB/28.34 GB at 4.16 MB/s
+2023-09-28 03:07:39.816    app     info:    [server-manager] Downloaded 10.29 GB/28.34 GB at 7.81 MB/s
+2023-09-28 03:07:40.817    app     info:    [server-manager] Downloaded 10.29 GB/28.34 GB at 7.43 MB/s
+2023-09-28 03:07:41.818    app     info:    [server-manager] Downloaded 10.30 GB/28.34 GB at 13.59 MB/s
+2023-09-28 03:07:42.820    app     info:    [server-manager] Downloaded 10.31 GB/28.34 GB at 4.95 MB/s
+2023-09-28 03:07:43.820    app     info:    [server-manager] Downloaded 10.32 GB/28.34 GB at 6.70 MB/s
+2023-09-28 03:07:44.897    app     info:    [server-manager] Downloaded 10.33 GB/28.34 GB at 4.89 MB/s
+2023-09-28 03:07:45.898    app     info:    [server-manager] Downloaded 10.34 GB/28.34 GB at 9.72 MB/s
+2023-09-28 03:07:46.899    app     info:    [server-manager] Downloaded 10.35 GB/28.34 GB at 9.55 MB/s
+2023-09-28 03:07:47.900    app     info:    [server-manager] Downloaded 10.36 GB/28.34 GB at 9.80 MB/s
+2023-09-28 03:07:48.901    app     info:    [server-manager] Downloaded 10.37 GB/28.34 GB at 8.13 MB/s
+2023-09-28 03:07:49.902    app     info:    [server-manager] Downloaded 10.38 GB/28.34 GB at 9.84 MB/s
+2023-09-28 03:07:50.904    app     info:    [server-manager] Downloaded 10.39 GB/28.34 GB at 8.29 MB/s
+2023-09-28 03:07:51.906    app     info:    [server-manager] Downloaded 10.40 GB/28.34 GB at 12.49 MB/s
+2023-09-28 03:07:52.907    app     info:    [server-manager] Downloaded 10.41 GB/28.34 GB at 8.23 MB/s
+2023-09-28 03:07:53.908    app     info:    [server-manager] Downloaded 10.41 GB/28.34 GB at 9.86 MB/s
+2023-09-28 03:07:54.913    app     info:    [server-manager] Downloaded 10.42 GB/28.34 GB at 9.85 MB/s
+2023-09-28 03:07:55.914    app     info:    [server-manager] Downloaded 10.43 GB/28.34 GB at 14.81 MB/s
+2023-09-28 03:07:56.914    app     info:    [server-manager] Downloaded 10.44 GB/28.34 GB at 5.07 MB/s
+2023-09-28 03:07:57.915    app     info:    [server-manager] Downloaded 10.45 GB/28.34 GB at 14.45 MB/s
+2023-09-28 03:07:58.916    app     info:    [server-manager] Downloaded 10.46 GB/28.34 GB at 9.54 MB/s
+2023-09-28 03:07:59.919    app     info:    [server-manager] Downloaded 10.47 GB/28.34 GB at 4.83 MB/s
+2023-09-28 03:08:00.922    app     info:    [server-manager] Downloaded 10.48 GB/28.34 GB at 14.67 MB/s
+2023-09-28 03:08:01.924    app     info:    [server-manager] Downloaded 10.49 GB/28.34 GB at 10.45 MB/s
+2023-09-28 03:08:02.924    app     info:    [server-manager] Downloaded 10.50 GB/28.34 GB at 11.03 MB/s
+2023-09-28 03:08:03.925    app     info:    [server-manager] Downloaded 10.51 GB/28.34 GB at 8.88 MB/s
+2023-09-28 03:08:04.926    app     info:    [server-manager] Downloaded 10.52 GB/28.34 GB at 8.30 MB/s
+2023-09-28 03:08:05.927    app     info:    [server-manager] Downloaded 10.53 GB/28.34 GB at 14.45 MB/s
+2023-09-28 03:08:06.860    app     info:    [self-update] Checking for a launcher update...
+2023-09-28 03:08:06.927    app     info:    [server-manager] Downloaded 10.54 GB/28.34 GB at 4.60 MB/s
+2023-09-28 03:08:07.277    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-09-28 03:08:07.931    app     info:    [server-manager] Downloaded 10.55 GB/28.34 GB at 4.89 MB/s
+2023-09-28 03:08:08.933    app     info:    [server-manager] Downloaded 10.56 GB/28.34 GB at 8.39 MB/s
+2023-09-28 03:08:09.934    app     info:    [server-manager] Downloaded 10.56 GB/28.34 GB at 11.47 MB/s
+2023-09-28 03:08:10.934    app     info:    [server-manager] Downloaded 10.57 GB/28.34 GB at 9.61 MB/s
+2023-09-28 03:08:11.935    app     info:    [server-manager] Downloaded 10.58 GB/28.34 GB at 8.44 MB/s
+2023-09-28 03:08:12.937    app     info:    [server-manager] Downloaded 10.59 GB/28.34 GB at 7.37 MB/s
+2023-09-28 03:08:13.938    app     info:    [server-manager] Downloaded 10.60 GB/28.34 GB at 10.33 MB/s
+2023-09-28 03:08:14.937    app     info:    [server-manager] Downloaded 10.61 GB/28.34 GB at 7.97 MB/s
+2023-09-28 03:08:15.940    app     info:    [server-manager] Downloaded 10.61 GB/28.34 GB at 7.29 MB/s
+2023-09-28 03:08:16.943    app     info:    [server-manager] Downloaded 10.62 GB/28.34 GB at 7.11 MB/s
+2023-09-28 03:08:17.945    app     info:    [server-manager] Downloaded 10.63 GB/28.34 GB at 13.03 MB/s
+2023-09-28 03:08:18.947    app     info:    [server-manager] Downloaded 10.64 GB/28.34 GB at 8.87 MB/s
+2023-09-28 03:08:19.948    app     info:    [server-manager] Downloaded 10.65 GB/28.34 GB at 7.75 MB/s
+2023-09-28 03:08:20.950    app     info:    [server-manager] Downloaded 10.66 GB/28.34 GB at 7.63 MB/s
+2023-09-28 03:08:21.951    app     info:    [server-manager] Downloaded 10.66 GB/28.34 GB at 13.32 MB/s
+2023-09-28 03:08:22.955    app     info:    [server-manager] Downloaded 10.67 GB/28.34 GB at 4.59 MB/s
+2023-09-28 03:08:23.956    app     info:    [server-manager] Downloaded 10.68 GB/28.34 GB at 8.96 MB/s
+2023-09-28 03:08:24.959    app     info:    [server-manager] Downloaded 10.69 GB/28.34 GB at 8.48 MB/s
+2023-09-28 03:08:25.960    app     info:    [server-manager] Downloaded 10.70 GB/28.34 GB at 8.26 MB/s
+2023-09-28 03:08:26.962    app     info:    [server-manager] Downloaded 10.71 GB/28.34 GB at 4.27 MB/s
+2023-09-28 03:08:27.963    app     info:    [server-manager] Downloaded 10.72 GB/28.34 GB at 8.92 MB/s
+2023-09-28 03:08:28.964    app     info:    [server-manager] Downloaded 10.73 GB/28.34 GB at 8.91 MB/s
+2023-09-28 03:08:29.967    app     info:    [server-manager] Downloaded 10.74 GB/28.34 GB at 4.95 MB/s
+2023-09-28 03:08:30.968    app     info:    [server-manager] Downloaded 10.75 GB/28.34 GB at 9.98 MB/s
+2023-09-28 03:08:31.967    app     info:    [server-manager] Downloaded 10.75 GB/28.34 GB at 4.97 MB/s
+2023-09-28 03:08:32.968    app     info:    [server-manager] Downloaded 10.76 GB/28.34 GB at 9.63 MB/s
+2023-09-28 03:08:33.971    app     info:    [server-manager] Downloaded 10.77 GB/28.34 GB at 14.33 MB/s
+2023-09-28 03:08:34.971    app     info:    [server-manager] Downloaded 10.78 GB/28.34 GB at 6.63 MB/s
+2023-09-28 03:08:35.972    app     info:    [server-manager] Downloaded 10.79 GB/28.34 GB at 9.31 MB/s
+2023-09-28 03:08:36.973    app     info:    [server-manager] Downloaded 10.80 GB/28.34 GB at 8.41 MB/s
+2023-09-28 03:08:37.974    app     info:    [server-manager] Downloaded 10.81 GB/28.34 GB at 12.34 MB/s
+2023-09-28 03:08:38.976    app     info:    [server-manager] Downloaded 10.82 GB/28.34 GB at 9.39 MB/s
+2023-09-28 03:08:39.978    app     info:    [server-manager] Downloaded 10.83 GB/28.34 GB at 8.11 MB/s
+2023-09-28 03:08:40.984    app     info:    [server-manager] Downloaded 10.84 GB/28.34 GB at 8.17 MB/s
+2023-09-28 03:08:41.986    app     info:    [server-manager] Downloaded 10.84 GB/28.34 GB at 7.34 MB/s
+2023-09-28 03:08:42.986    app     info:    [server-manager] Downloaded 10.85 GB/28.34 GB at 11.56 MB/s
+2023-09-28 03:08:43.987    app     info:    [server-manager] Downloaded 10.86 GB/28.34 GB at 7.67 MB/s
+2023-09-28 03:08:44.988    app     info:    [server-manager] Downloaded 10.87 GB/28.34 GB at 8.17 MB/s
+2023-09-28 03:08:45.989    app     info:    [server-manager] Downloaded 10.88 GB/28.34 GB at 8.21 MB/s
+2023-09-28 03:08:46.991    app     info:    [server-manager] Downloaded 10.88 GB/28.34 GB at 8.20 MB/s
+2023-09-28 03:08:47.992    app     info:    [server-manager] Downloaded 10.89 GB/28.34 GB at 13.61 MB/s
+2023-09-28 03:08:48.994    app     info:    [server-manager] Downloaded 10.90 GB/28.34 GB at 9.81 MB/s
+2023-09-28 03:08:49.998    app     info:    [server-manager] Downloaded 10.91 GB/28.34 GB at 9.38 MB/s
+2023-09-28 03:08:51.002    app     info:    [server-manager] Downloaded 10.92 GB/28.34 GB at 9.14 MB/s
+2023-09-28 03:08:52.004    app     info:    [server-manager] Downloaded 10.93 GB/28.34 GB at 13.61 MB/s
+2023-09-28 03:08:52.306    app     info:    [client-manager] 'tranquility' for EVE game client for '16492377' exited with no errors.
+2023-09-28 03:08:52.308    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.GameClientExited
+2023-09-28 03:08:52.316    app     warn:    [ipc-requests] Server manager already running
+2023-09-28 03:08:52.316    app     warn:    [ipc-requests] Server manager cannot start for tranquility because required resources are not available
+2023-09-28 03:08:53.004    app     info:    [server-manager] Downloaded 10.94 GB/28.34 GB at 10.02 MB/s
+2023-09-28 03:08:54.007    app     info:    [server-manager] Downloaded 10.95 GB/28.34 GB at 11.02 MB/s
+2023-09-28 03:08:55.009    app     info:    [server-manager] Downloaded 10.96 GB/28.34 GB at 10.77 MB/s
+2023-09-28 03:08:56.097    app     info:    [server-manager] Downloaded 10.97 GB/28.34 GB at 10.90 MB/s
+2023-09-28 03:08:57.098    app     info:    [server-manager] Downloaded 10.99 GB/28.34 GB at 11.00 MB/s
+2023-09-28 03:08:58.098    app     info:    [server-manager] Downloaded 11.00 GB/28.34 GB at 5.52 MB/s
+2023-09-28 03:08:59.098    app     info:    [server-manager] Downloaded 11.01 GB/28.34 GB at 11.02 MB/s
+2023-09-28 03:09:00.099    app     info:    [server-manager] Downloaded 11.02 GB/28.34 GB at 10.90 MB/s
+2023-09-28 03:09:01.100    app     info:    [server-manager] Downloaded 11.03 GB/28.34 GB at 16.35 MB/s
+2023-09-28 03:09:02.101    app     info:    [server-manager] Downloaded 11.04 GB/28.34 GB at 10.96 MB/s
+2023-09-28 03:09:03.102    app     info:    [server-manager] Downloaded 11.05 GB/28.34 GB at 16.44 MB/s
+2023-09-28 03:09:04.103    app     info:    [server-manager] Downloaded 11.06 GB/28.34 GB at 11.09 MB/s
+2023-09-28 03:09:05.104    app     info:    [server-manager] Downloaded 11.07 GB/28.34 GB at 16.37 MB/s
+2023-09-28 03:09:06.104    app     info:    [server-manager] Downloaded 11.08 GB/28.34 GB at 7.35 MB/s
+2023-09-28 03:09:07.105    app     info:    [server-manager] Downloaded 11.09 GB/28.34 GB at 11.00 MB/s
+2023-09-28 03:09:08.107    app     info:    [server-manager] Downloaded 11.11 GB/28.34 GB at 10.83 MB/s
+2023-09-28 03:09:09.110    app     info:    [server-manager] Downloaded 11.12 GB/28.34 GB at 16.39 MB/s
+2023-09-28 03:09:10.111    app     info:    [server-manager] Downloaded 11.13 GB/28.34 GB at 11.02 MB/s
+2023-09-28 03:09:11.112    app     info:    [server-manager] Downloaded 11.14 GB/28.34 GB at 10.85 MB/s
+2023-09-28 03:09:12.112    app     info:    [server-manager] Downloaded 11.15 GB/28.34 GB at 11.05 MB/s
+2023-09-28 03:09:13.113    app     info:    [server-manager] Downloaded 11.16 GB/28.34 GB at 16.38 MB/s
+2023-09-28 03:09:14.115    app     info:    [server-manager] Downloaded 11.17 GB/28.34 GB at 11.09 MB/s
+2023-09-28 03:09:15.116    app     info:    [server-manager] Downloaded 11.18 GB/28.34 GB at 10.73 MB/s
+2023-09-28 03:09:16.117    app     info:    [server-manager] Downloaded 11.19 GB/28.34 GB at 10.74 MB/s
+2023-09-28 03:09:17.118    app     info:    [server-manager] Downloaded 11.20 GB/28.34 GB at 5.51 MB/s
+2023-09-28 03:09:18.119    app     info:    [server-manager] Downloaded 11.21 GB/28.34 GB at 16.47 MB/s
+2023-09-28 03:09:19.120    app     info:    [server-manager] Downloaded 11.23 GB/28.34 GB at 10.96 MB/s
+2023-09-28 03:09:20.121    app     info:    [server-manager] Downloaded 11.24 GB/28.34 GB at 10.96 MB/s
+2023-09-28 03:09:21.122    app     info:    [server-manager] Downloaded 11.25 GB/28.34 GB at 16.41 MB/s
+2023-09-28 03:09:22.123    app     info:    [server-manager] Downloaded 11.26 GB/28.34 GB at 16.41 MB/s
+2023-09-28 03:09:23.126    app     info:    [server-manager] Downloaded 11.27 GB/28.34 GB at 11.06 MB/s
+2023-09-28 03:09:24.126    app     info:    [server-manager] Downloaded 11.28 GB/28.34 GB at 10.93 MB/s
+2023-09-28 03:09:25.127    app     info:    [server-manager] Downloaded 11.29 GB/28.34 GB at 10.90 MB/s
+2023-09-28 03:09:26.128    app     info:    [server-manager] Downloaded 11.30 GB/28.34 GB at 11.06 MB/s
+2023-09-28 03:09:27.131    app     info:    [server-manager] Downloaded 11.31 GB/28.34 GB at 10.98 MB/s
+2023-09-28 03:09:28.133    app     info:    [server-manager] Downloaded 11.32 GB/28.34 GB at 10.96 MB/s
+2023-09-28 03:09:29.133    app     info:    [server-manager] Downloaded 11.33 GB/28.34 GB at 5.47 MB/s
+2023-09-28 03:09:30.134    app     info:    [server-manager] Downloaded 11.35 GB/28.34 GB at 11.10 MB/s
+2023-09-28 03:09:31.135    app     info:    [server-manager] Downloaded 11.36 GB/28.34 GB at 11.05 MB/s
+2023-09-28 03:09:32.136    app     info:    [server-manager] Downloaded 11.37 GB/28.34 GB at 10.87 MB/s
+2023-09-28 03:09:33.137    app     info:    [server-manager] Downloaded 11.38 GB/28.34 GB at 10.97 MB/s
+2023-09-28 03:09:34.137    app     info:    [server-manager] Downloaded 11.39 GB/28.34 GB at 10.88 MB/s
+2023-09-28 03:09:35.137    app     info:    [server-manager] Downloaded 11.40 GB/28.34 GB at 7.31 MB/s
+2023-09-28 03:09:36.137    app     info:    [server-manager] Downloaded 11.41 GB/28.34 GB at 10.79 MB/s
+2023-09-28 03:09:37.138    app     info:    [server-manager] Downloaded 11.42 GB/28.34 GB at 5.36 MB/s
+2023-09-28 03:09:38.138    app     info:    [server-manager] Downloaded 11.43 GB/28.34 GB at 10.87 MB/s
+2023-09-28 03:09:39.138    app     info:    [server-manager] Downloaded 11.44 GB/28.34 GB at 10.99 MB/s
+2023-09-28 03:09:40.138    app     info:    [server-manager] Downloaded 11.45 GB/28.34 GB at 16.45 MB/s
+2023-09-28 03:09:41.140    app     info:    [server-manager] Downloaded 11.47 GB/28.34 GB at 10.94 MB/s
+2023-09-28 03:09:42.140    app     info:    [server-manager] Downloaded 11.48 GB/28.34 GB at 5.15 MB/s
+2023-09-28 03:09:43.140    app     info:    [server-manager] Downloaded 11.49 GB/28.34 GB at 10.85 MB/s
+2023-09-28 03:09:44.140    app     info:    [server-manager] Downloaded 11.50 GB/28.34 GB at 10.95 MB/s
+2023-09-28 03:09:45.141    app     info:    [server-manager] Downloaded 11.51 GB/28.34 GB at 16.41 MB/s
+2023-09-28 03:09:46.142    app     info:    [server-manager] Downloaded 11.52 GB/28.34 GB at 16.14 MB/s
+2023-09-28 03:09:47.142    app     info:    [server-manager] Downloaded 11.53 GB/28.34 GB at 10.82 MB/s
+2023-09-28 03:09:48.142    app     info:    [server-manager] Downloaded 11.54 GB/28.34 GB at 10.87 MB/s
+2023-09-28 03:09:49.142    app     info:    [server-manager] Downloaded 11.55 GB/28.34 GB at 11.00 MB/s
+2023-09-28 03:09:50.186    app     info:    [server-manager] Downloaded 11.56 GB/28.34 GB at 10.96 MB/s
+2023-09-28 03:09:51.199    app     info:    [server-manager] Downloaded 11.57 GB/28.34 GB at 17.30 MB/s
+2023-09-28 03:09:52.321    app     info:    [server-manager] Downloaded 11.59 GB/28.34 GB at 11.32 MB/s
+2023-09-28 03:09:53.322    app     info:    [server-manager] Downloaded 11.60 GB/28.34 GB at 5.55 MB/s
+2023-09-28 03:09:54.322    app     info:    [server-manager] Downloaded 11.61 GB/28.34 GB at 5.35 MB/s
+2023-09-28 03:09:55.322    app     info:    [server-manager] Downloaded 11.62 GB/28.34 GB at 10.85 MB/s
+2023-09-28 03:09:56.324    app     info:    [server-manager] Downloaded 11.63 GB/28.34 GB at 5.45 MB/s
+2023-09-28 03:09:57.324    app     info:    [server-manager] Downloaded 11.63 GB/28.34 GB at 1.49 MB/s
+2023-09-28 03:09:58.325    app     info:    [server-manager] Downloaded 11.64 GB/28.34 GB at 10.81 MB/s
+2023-09-28 03:09:59.326    app     info:    [server-manager] Downloaded 11.65 GB/28.34 GB at 10.82 MB/s
+2023-09-28 03:10:00.327    app     info:    [server-manager] Downloaded 11.66 GB/28.34 GB at 10.91 MB/s
+2023-09-28 03:10:01.328    app     info:    [server-manager] Downloaded 11.68 GB/28.34 GB at 5.27 MB/s
+2023-09-28 03:10:02.330    app     info:    [server-manager] Downloaded 11.69 GB/28.34 GB at 16.15 MB/s
+2023-09-28 03:10:03.331    app     info:    [server-manager] Downloaded 11.70 GB/28.34 GB at 16.17 MB/s
+2023-09-28 03:10:04.332    app     info:    [server-manager] Downloaded 11.71 GB/28.34 GB at 10.91 MB/s
+2023-09-28 03:10:05.336    app     info:    [server-manager] Downloaded 11.72 GB/28.34 GB at 16.32 MB/s
+2023-09-28 03:10:06.337    app     info:    [server-manager] Downloaded 11.73 GB/28.34 GB at 10.66 MB/s
+2023-09-28 03:10:07.338    app     info:    [server-manager] Downloaded 11.74 GB/28.34 GB at 10.83 MB/s
+2023-09-28 03:10:08.338    app     info:    [server-manager] Downloaded 11.75 GB/28.34 GB at 14.60 MB/s
+2023-09-28 03:10:09.339    app     info:    [server-manager] Downloaded 11.75 GB/28.34 GB at 130.17 kB/s
+2023-09-28 03:10:10.343    app     info:    [server-manager] Downloaded 11.75 GB/28.34 GB at 22.70 kB/s
+2023-09-28 03:10:11.359    app     info:    [server-manager] Downloaded 11.75 GB/28.34 GB at 229.55 kB/s
+2023-09-28 03:10:12.360    app     info:    [server-manager] Downloaded 11.75 GB/28.34 GB at 3.36 MB/s
+2023-09-28 03:10:13.361    app     info:    [server-manager] Downloaded 11.77 GB/28.34 GB at 16.60 MB/s
+2023-09-28 03:10:14.361    app     info:    [server-manager] Downloaded 11.78 GB/28.34 GB at 10.86 MB/s
+2023-09-28 03:10:15.362    app     info:    [server-manager] Downloaded 11.79 GB/28.34 GB at 10.88 MB/s
+2023-09-28 03:10:16.365    app     info:    [server-manager] Downloaded 11.80 GB/28.34 GB at 10.88 MB/s
+2023-09-28 03:10:17.366    app     info:    [server-manager] Downloaded 11.81 GB/28.34 GB at 10.97 MB/s
+2023-09-28 03:10:18.367    app     info:    [server-manager] Downloaded 11.82 GB/28.34 GB at 10.90 MB/s
+2023-09-28 03:10:19.368    app     info:    [server-manager] Downloaded 11.83 GB/28.34 GB at 16.54 MB/s
+2023-09-28 03:10:20.368    app     info:    [server-manager] Downloaded 11.84 GB/28.34 GB at 10.85 MB/s
+2023-09-28 03:10:21.369    app     info:    [server-manager] Downloaded 11.85 GB/28.34 GB at 10.94 MB/s
+2023-09-28 03:10:22.370    app     info:    [server-manager] Downloaded 11.86 GB/28.34 GB at 11.08 MB/s
+2023-09-28 03:10:23.372    app     info:    [server-manager] Downloaded 11.88 GB/28.34 GB at 11.06 MB/s
+2023-09-28 03:10:24.374    app     info:    [server-manager] Downloaded 11.89 GB/28.34 GB at 11.00 MB/s
+2023-09-28 03:10:25.375    app     info:    [server-manager] Downloaded 11.90 GB/28.34 GB at 11.10 MB/s
+2023-09-28 03:10:26.376    app     info:    [server-manager] Downloaded 11.91 GB/28.34 GB at 10.82 MB/s
+2023-09-28 03:10:27.377    app     info:    [server-manager] Downloaded 11.92 GB/28.34 GB at 10.73 MB/s
+2023-09-28 03:10:28.378    app     info:    [server-manager] Downloaded 11.93 GB/28.34 GB at 11.03 MB/s
+2023-09-28 03:10:29.379    app     info:    [server-manager] Downloaded 11.94 GB/28.34 GB at 10.98 MB/s
+2023-09-28 03:10:30.380    app     info:    [server-manager] Downloaded 11.95 GB/28.34 GB at 16.83 MB/s
+2023-09-28 03:10:31.381    app     info:    [server-manager] Downloaded 11.96 GB/28.34 GB at 5.56 MB/s
+2023-09-28 03:10:32.381    app     info:    [server-manager] Downloaded 11.97 GB/28.34 GB at 11.24 MB/s
+2023-09-28 03:10:33.382    app     info:    [server-manager] Downloaded 11.99 GB/28.34 GB at 11.14 MB/s
+2023-09-28 03:10:34.385    app     info:    [server-manager] Downloaded 12.00 GB/28.34 GB at 10.90 MB/s
+2023-09-28 03:10:35.387    app     info:    [server-manager] Downloaded 12.01 GB/28.34 GB at 10.96 MB/s
+2023-09-28 03:10:36.388    app     info:    [server-manager] Downloaded 12.02 GB/28.34 GB at 11.05 MB/s
+2023-09-28 03:10:37.390    app     info:    [server-manager] Downloaded 12.03 GB/28.34 GB at 10.88 MB/s
+2023-09-28 03:10:38.392    app     info:    [server-manager] Downloaded 12.04 GB/28.34 GB at 11.10 MB/s
+2023-09-28 03:10:39.393    app     info:    [server-manager] Downloaded 12.05 GB/28.34 GB at 16.35 MB/s
+2023-09-28 03:10:40.395    app     info:    [server-manager] Downloaded 12.06 GB/28.34 GB at 10.66 MB/s
+2023-09-28 03:10:41.396    app     info:    [server-manager] Downloaded 12.07 GB/28.34 GB at 16.54 MB/s
+2023-09-28 03:10:42.397    app     info:    [server-manager] Downloaded 12.08 GB/28.34 GB at 10.72 MB/s
+2023-09-28 03:10:42.632    app     info:    [main-window] Main window minimized to tray    { windowId: 2 }
+2023-09-28 03:10:42.783    app     info:    [main-window] Sent notification that the application is minimized to tray    { windowId: 2 }
+2023-09-28 03:10:42.786    app     info:    [ipc-requests] Handling requests in the background
+2023-09-28 03:10:43.398    app     info:    [server-manager] Downloaded 12.10 GB/28.34 GB at 5.04 MB/s
+2023-09-28 03:10:43.785    app     info:    [ipc-requests] No longer handling requests in the background
+2023-09-28 03:10:44.535    app     info:    [server-manager] Downloaded 12.11 GB/28.34 GB at 5.44 MB/s
+2023-09-28 03:10:45.537    app     info:    [server-manager] Downloaded 12.12 GB/28.34 GB at 11.21 MB/s
+2023-09-28 03:10:46.538    app     info:    [server-manager] Downloaded 12.13 GB/28.34 GB at 10.90 MB/s
+2023-09-28 03:10:47.548    app     info:    [server-manager] Downloaded 12.14 GB/28.34 GB at 16.37 MB/s
+2023-09-28 03:10:48.341    app     info:    [tray] Quitting application from tray
+2023-09-28 03:10:48.342    app     info:    Application quitting. Cleanup needed: true
+2023-09-28 03:10:48.344    app     info:    [elg-events] Sending event    eve_launcher.electron.application.LauncherShutdown
+2023-09-28 03:10:48.345    app     info:    app.quit called, but we are still sending ELG events.
+2023-09-28 03:10:48.549    app     info:    [server-manager] Downloaded 12.15 GB/28.34 GB at 10.99 MB/s
+2023-09-28 03:10:48.944    app     info:    ELG stream closed, quitting.
+2023-09-28 03:10:48.945    app     info:    [main-window] Main window closing    { windowId: 2 }
+2023-09-28 03:10:48.952    app     info:    Application closed    0

@@ -1,0 +1,21 @@
+2023-09-28 15:05:02.869    app     info:    [i18next] Changed language    en
+2023-09-28 15:05:02.951    app     info:    Startup arguments    []
+2023-09-28 15:05:02.969    app     info:    EVE Online Launcher is already running. This instance will now be closed.
+2023-09-28 15:05:02.970    app     info:    Application quitting. Cleanup needed: true
+2023-09-28 15:05:02.973    app     info:    [elg-events] Sending event    eve_launcher.electron.application.LauncherShutdown
+2023-09-28 15:05:02.976    app     info:    [self-update] Checking for a launcher update...
+2023-09-28 15:05:03.011    app     info:    app.quit called, but we are still sending ELG events.
+2023-09-28 15:05:03.123    app     info:    [authentication] Token for '16492377' on 'tranquility' is expired, refresh is required
+2023-09-28 15:05:03.123    app     info:    [authentication] Refreshing token for '16492377' on 'tranquility'
+2023-09-28 15:05:03.320    app     info:    [customer-information] Agreements have been updated
+2023-09-28 15:05:03.410    app     info:    [authentication] Token for '16492377' on 'tranquility' has been successfully refreshed
+2023-09-28 15:05:03.414    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.UserTokensRefreshed
+2023-09-28 15:05:03.422    app     info:    [customer-information] Getting character information for '16492377' on 'tranquility'
+2023-09-28 15:05:03.422    app     info:    [customer-information] Getting Omega status for '16492377' on 'tranquility'
+2023-09-28 15:05:03.423    app     info:    [virtual-goods] Getting Plex status for '16492377' on 'tranquility'
+2023-09-28 15:05:03.433    app     info:    [AuthenticationMiddleware] Successfully restored 1 / 1 users
+2023-09-28 15:05:03.448    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-09-28 15:05:03.975    app     info:    [virtual-goods] Fetched Plex status for '16492377' on 'tranquility'
+2023-09-28 15:05:03.987    app     info:    [AuthenticationMiddleware] User information updated
+2023-09-28 15:05:04.000    app     info:    [esi] Fetched 2 character affiliations for 16492377
+2023-09-28 15:05:04.025    app     info:    ELG stream closed, quitting.

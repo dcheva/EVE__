@@ -1,0 +1,9 @@
+2023-09-28 02:39:40.720    app     info:    [i18next] Changed language    en
+2023-09-28 02:39:40.845    app     info:    Startup arguments    [ '--squirrel-install', '0.3.4' ]
+2023-09-28 02:39:40.872    app     info:    [shortcuts] Shortcut 'C:\Users\Dmytro\Desktop\EVE Online.lnk' created
+2023-09-28 02:39:40.892    app     info:    [shortcuts] Shortcut 'C:\Users\Dmytro\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\CCP Games\EVE Online.lnk' created
+2023-09-28 02:39:40.895    app     info:    [elg-events] Sending event    eve_launcher.electron.application.SquirrelInstall
+2023-09-28 02:39:40.895    app     info:    Application quitting. Cleanup needed: true
+2023-09-28 02:39:40.897    app     info:    [elg-events] Sending event    eve_launcher.electron.application.LauncherShutdown
+2023-09-28 02:39:40.902    app     info:    app.quit called, but we are still sending ELG events.
+2023-09-28 02:39:41.654    app     info:    ELG stream closed, quitting.

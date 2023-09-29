@@ -1,0 +1,75 @@
+2023-09-28 02:39:42.071    app     info:    [i18next] Changed language    en
+2023-09-28 02:39:42.155    app     info:    Startup arguments    [ '--squirrel-firstrun' ]
+2023-09-28 02:39:42.159    app     info:    [self-update] Checking for a launcher update...
+2023-09-28 02:39:42.255    app     info:    [device-id] Fetching device id from legacy storage
+2023-09-28 02:39:42.340    app     warn:    [device-id] Couldn't fetch device id from legacy storage
+2023-09-28 02:39:42.349    app     info:    [device-id] Device id has been generated
+2023-09-28 02:39:42.379    app     info:    [analytics] Application name:    EVE Online
+2023-09-28 02:39:42.379    app     info:    [analytics] Application version:    0.3.4
+2023-09-28 02:39:42.379    app     info:    [analytics] Domain    undefined
+2023-09-28 02:39:42.380    app     info:    [analytics] Working directory    C:\Users\REDACTED\AppData\Local\eve-online\app-0.3.4
+2023-09-28 02:39:42.380    app     info:    [analytics] Username contains UTF8?    false
+2023-09-28 02:39:43.229    app     info:    [elg-events] Sending event    eve_launcher.electron.application.PdmLoaded
+2023-09-28 02:39:43.232    app     info:    [analytics] Operating system    {
+  type: 'Windows',
+  name: 'Windows 10 Education',
+  version: '10.0 (19045)'
+}
+2023-09-28 02:39:43.232    app     info:    [analytics] Encryption available:    true
+2023-09-28 02:39:43.232    app     info:    [analytics] Machine UUID    4E9F516C-5B97-47C6-8C67-E93D943CB7C8
+2023-09-28 02:39:43.233    app     info:    [analytics] PDM Version    2.1.4
+2023-09-28 02:39:43.233    app     info:    [analytics] Release channel    release
+2023-09-28 02:39:43.291    app     info:    [elg-events] Sending event    eve_launcher.electron.application.LauncherStarted
+2023-09-28 02:39:43.295    app     info:    [elg-events] Sending event    eve_launcher.electron.application.CoreDataLoaded
+2023-09-28 02:39:43.319    app     info:    [feature-flags] Initializing client: 4a436adb...
+2023-09-28 02:39:43.389    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-09-28 02:39:43.393    app     warn:    [registry] Registry query failed, using default directory. Command failed: reg query HKCU\SOFTWARE\CCP\EVEONLINE
+ERROR: The system was unable to find the specified registry key or value.
+    Error: Command failed: reg query HKCU\SOFTWARE\CCP\EVEONLINE
+ERROR: The system was unable to find the specified registry key or value.
+
+    at ChildProcess.exithandler (node:child_process:409:12)
+    at ChildProcess.emit (node:events:513:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at maybeClose (node:internal/child_process:1093:16)
+    at Socket.<anonymous> (node:internal/child_process:451:11)
+    at Socket.emit (node:events:513:28)
+    at Socket.emit (node:domain:489:12)
+    at Pipe.<anonymous> (node:net:757:14) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'reg query HKCU\\SOFTWARE\\CCP\\EVEONLINE'
+}
+2023-09-28 02:39:43.482    app     info:    [feature-flags] Received 5 flags for client 4a436adb...
+2023-09-28 02:39:43.486    app     info:    [feature-flags] Client initialized with key 4a436adb...
+2023-09-28 02:39:43.532    app     info:    [elg-events] Sending event    eve_launcher.electron.legacy.LegacyTokensMigrationStarted
+2023-09-28 02:39:43.534    app     info:    [elg-events] Sending event    eve_launcher.electron.legacy.LegacyTokensMigrationSkipped
+2023-09-28 02:39:43.534    app     warn:    [initializers] No legacy tokens file found
+2023-09-28 02:39:43.543    app     warn:    [ipc-requests] SharedCache location has not been set yet
+2023-09-28 02:39:43.725    app     info:    [customer-information] Agreements have been updated
+2023-09-28 02:39:44.654    app     info:    [main-window] Registering main window    { windowId: 2 }
+2023-09-28 02:39:44.664    app     info:    [elg-events] Sending event    eve_launcher.electron.application.RendererLoaded
+2023-09-28 02:39:44.940    app     info:    [elg-events] Sending event    eve_launcher.electron.application.RendererLoaded
+2023-09-28 02:39:45.142     ui     info:    Initializing captcha    ccp://launcher/renderer/main_window/index.js    2
+2023-09-28 02:39:46.327    app     info:    [server-manager] Starting refresh cycle for Tranquility
+2023-09-28 02:39:46.488    app     info:    [server-manager] Previous Tranquility build: None, current build: 2371914
+2023-09-28 02:39:46.489    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.GameClientUpdateStarted
+2023-09-28 02:39:46.489    app     info:    [server-manager] Starting download of build 2371914 for Tranquility.
+2023-09-28 02:39:46.544    app     info:    [server-manager] Downloading binary chunks in 9 files (90.7 MB)
+2023-09-28 02:39:46.545    app     info:    [download-from-manifest] Preparing to download 9 files    { cdn: 1, concurrent: 10 }
+2023-09-28 02:39:47.598    app     info:    [server-manager] Downloaded 11.34 MB/90.66 MB at 11.58 MB/s
+2023-09-28 02:39:48.600    app     info:    [server-manager] Downloaded 19.81 MB/90.66 MB at 11.43 MB/s
+2023-09-28 02:39:49.602    app     info:    [server-manager] Downloaded 31.23 MB/90.66 MB at 11.38 MB/s
+2023-09-28 02:39:50.603    app     info:    [server-manager] Downloaded 42.65 MB/90.66 MB at 17.07 MB/s
+2023-09-28 02:39:51.472    app     info:    [analytics] Hardware rendering enabled:    true    { disabledViaCommandline: false, disabledViaSettings: false }
+2023-09-28 02:39:51.603    app     info:    [server-manager] Downloaded 54.09 MB/90.66 MB at 11.37 MB/s
+2023-09-28 02:39:52.603    app     info:    [server-manager] Downloaded 65.50 MB/90.66 MB at 5.70 MB/s
+2023-09-28 02:39:53.607    app     info:    [server-manager] Downloaded 76.94 MB/90.66 MB at 11.42 MB/s
+2023-09-28 02:39:53.757    app     info:    [main-window] Main window closing    { windowId: 2 }
+2023-09-28 02:39:53.766    app     info:    [ipc-requests] Handling requests in the background
+2023-09-28 02:39:53.776    app     info:    Application quitting. Cleanup needed: true
+2023-09-28 02:39:53.778    app     info:    [elg-events] Sending event    eve_launcher.electron.application.LauncherShutdown
+2023-09-28 02:39:53.780    app     info:    app.quit called, but we are still sending ELG events.
+2023-09-28 02:39:54.378    app     info:    ELG stream closed, quitting.
+2023-09-28 02:39:54.379    app     info:    Application closed    0
